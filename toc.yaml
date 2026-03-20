@@ -53,6 +53,7 @@ toc:
   - navgroup:
       id: help
       topics:
+      - get-help.md
       - faq-support.md
       - topicgroup:
           label: Troubleshooting
