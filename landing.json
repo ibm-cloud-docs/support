@@ -8,7 +8,7 @@
     "links": [
       {
         "title": "Using the Support Center",
-        "href": "/docs/support?topic=support-getting-started"
+        "href": "/docs/support?topic=support-using-avatar"
       },
       {
         "title": "Understanding support plans",
@@ -16,19 +16,19 @@
       },
       {
         "title": "Creating a support case",
-        "href": "/docs/support?topic=support-create-case"
+        "href": "/docs/support?topic=support-open-case"
       },
       {
         "title": "Managing support cases",
-        "href": "/docs/support?topic=support-manage-case"
+        "href": "/docs/support?topic=support-managing-support-cases"
       },
       {
         "title": "Viewing platform status",
-        "href": "/docs/support?topic=support-ViewStatus"
+        "href": "/docs/support?topic=support-viewing-status"
       },
       {
         "title": "Reporting security vulnerabilities",
-        "href": "/docs/support?topic=support-report-security"
+        "href": "/docs/support?topic=support-report-security-vulnerability"
       }
     ]
   },
