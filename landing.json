@@ -2,14 +2,10 @@
   "version": 2,
   "title": "Getting support",
   "introduction": "Get the help you need with IBM Cloud support. Learn about support plans, create and manage support cases, monitor notifications, view platform status, and report security vulnerabilities. Access comprehensive resources to resolve issues quickly and efficiently.",
-  "product_page": "https://www.ibm.com/cloud/support",
+  "product_page": "https://www.ibm.com/products/cloud/support",
   "console_page": "/support",
   "section_topics": {
     "links": [
-      {
-        "title": "Using the Support Center",
-        "href": "/docs/support?topic=support-using-avatar"
-      },
       {
         "title": "Understanding support plans",
         "href": "/docs/support?topic=support-support-plans"
@@ -36,14 +32,14 @@
     {
       "title": "IBM Cloud support plans",
       "description": "Learn about the different support plans available and choose the one that best fits your needs.",
-      "href": "https://www.ibm.com/cloud/support",
+      "href": "https://www.ibm.com/products/cloud/support",
       "type": "article",
       "recommended": true
     },
     {
       "title": "Best practices for working with support",
       "description": "Discover tips and best practices for getting the most out of IBM Cloud support.",
-      "href": "https://cloud.ibm.com/docs/support?topic=support-status-bps",
+      "href": "https://cloud.ibm.com/docs/support?topic=support-best-practices",
       "type": "article"
     }
   ],

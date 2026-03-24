@@ -3,11 +3,11 @@
 copyright:
 
   years: 2019, 2026
-lastupdated: "2026-03-20"
+lastupdated: "2026-03-24"
 
 keywords: frequently asked question, faq, support cases, email preferences, access for cases, support faq
 
-subcollection: account
+subcollection: support
 
 content-type: faq
 
@@ -48,14 +48,14 @@ Before you open a support case, explore the following resources:
 {: #open-support-case}
 {: faq}
 
-If you have paid support plans, for example Advanced or Premium plans, go to the [Support Center](/unifiedsupport/supportcenter){: external} in the {{site.data.keyword.cloud_notm}} console, and click **Create a case** from the Contact Support section. After your support case is created, you can follow its progress on the [Manage cases](/unifiedsupport/cases/manage){: external} page. For more information about creating a case, see [Creating support cases](/docs/account?topic=account-open-case).
+If you have paid support plans, for example Advanced or Premium plans, go to the [Support Center](/unifiedsupport/supportcenter){: external} in the {{site.data.keyword.cloud_notm}} console, and click **Create a case** from the Contact Support section. After your support case is created, you can follow its progress on the [Manage cases](/unifiedsupport/cases/manage){: external} page. For more information about creating a case, see [Creating support cases](/docs/support?topic=support-open-case).
 
 
 ## What are my options for contacting {{site.data.keyword.cloud_notm}} Support?
 {: #contactsupport-faq}
 {: faq}
 
-From the {{site.data.keyword.cloud_notm}} console menu bar, click the **Help** icon ![Help icon](../icons/help.svg "Help") > **Support center**. The **Contact Support** section provides the options for getting in touch with a support representative: start a live chat from the AI Assistant, contact by phone, or create a support case. You can start a chat with a live agent from the [AI assistant](/docs/overview?topic=overview-ask-ai-assistant#chat-with-support) by typing `agent` in the chat. The options that are available to you depend on your support plan. For more information, see [Getting support](/docs/account?topic=account-support-plans).
+From the {{site.data.keyword.cloud_notm}} console menu bar, click the **Help** icon ![Help icon](../icons/help.svg "Help") > **Support center**. The **Contact Support** section provides the options for getting in touch with a support representative: start a live chat from the AI Assistant, contact by phone, or create a support case. You can start a chat with a live agent from the [AI assistant](/docs/overview?topic=overview-ask-ai-assistant#chat-with-support) by typing `agent` in the chat. The options that are available to you depend on your support plan. For more information, see [Getting support](/docs/support?topic=support-support-plans).
 
 Nonpaid account support is limited to non-technical support issues that are related to account access and billing. Users with these nonpaid support accounts can self-report hardware issues, submit account or billing requests (including quota increases) through the portal, respond to {{site.data.keyword.IBM_notm}}-initiated support cases, and access the following self-service tools: {{site.data.keyword.cloud_notm}} AI assistant, {{site.data.keyword.cloud_notm}} docs, Community forums, and status pages. Users can also use [Stack Overflow](https://stackoverflow.com/questions/tagged/ibm-cloud){: external}. If your organization needs more advanced technical support, faster response times, or severity-level control, you can upgrade to a paid support plan. Learn more from your {{site.data.keyword.IBM_notm}} Sales representative or open an account upgrade case in the Support Center.
 
@@ -71,7 +71,7 @@ Customers with a Basic support plan can report a technical issue when help is ne
 
 As an {{site.data.keyword.cloud_notm}} customer with a paid support plan, you can escalate support cases to surface critical issues. To escalate a case, go to the [Support Center](/unifiedsupport/supportcenter){: external} and contact IBM Cloud Support by phone or chat. Provide your existing case number, the business impact of your issue, and a request to escalate the case.
 
-For more information, see [Escalating support cases](/docs/account?topic=account-managing-support-cases&interface=ui#escalation).
+For more information, see [Escalating support cases](/docs/support?topic=support-managing-support-cases#escalation).
 
 ## How do I change my email preferences for notifications?
 {: #email_preferences_gs}
@@ -91,7 +91,7 @@ If you have Advanced or Premium support, you can track your monthly support cost
 
 Charges for support of third-party services are not included in the Advanced or Premium support charge calculations. These non-IBM programs are licensed directly by their providers.
 
-To view your support costs, you need an access policy with the Administrator role on the Billing account management service. For more information about access roles, see [IAM access](/docs/account?topic=account-userroles).
+To view your support costs, you need an access policy with the Administrator role on the Billing account management service. For more information about access roles, see [Actions and roles for account management services](/docs/iam?topic=iam-account-services#billing-acct-mgmt).
 
 
 ## How can I upgrade my support plan?
@@ -99,7 +99,7 @@ To view your support costs, you need an access policy with the Administrator rol
 {: faq}
 {: support}
 
-If you want to upgrade your support plan, contact an [{{site.data.keyword.cloud_notm}} Sales](https://www.ibm.com/solutions/cloud?contactmodule){: external} representative, or open an account upgrade case in the [Support Center](/unifiedsupport/supportcenter). For more information on the different support plans, see [Support plans](/docs/account?topic=account-support-plans).
+If you want to upgrade your support plan, contact an [{{site.data.keyword.cloud_notm}} Sales](https://www.ibm.com/solutions/cloud?contactmodule){: external} representative, or open an account upgrade case in the [Support Center](/unifiedsupport/supportcenter). For more information on the different support plans, see [Support plans](/docs/support?topic=support-support-plans).
 
 ## Why can't I see my support cases? 
 {: #view-support-cases}
@@ -107,7 +107,7 @@ If you want to upgrade your support plan, contact an [{{site.data.keyword.cloud_
 
 To access your support cases, from the {{site.data.keyword.cloud_notm}} console menu bar, click the **Help** icon ![Help icon](../icons/help.svg "Help") > **Support center**, and click **Manage cases**. If you're unable to view your cases, try clicking **View classic infrastructure cases**.
 
-If you still can't view them, you might not have the required permission. Ask your account owner to add you to the support case access group. For more information, see [SoftLayer account permissions](/docs/account?topic=account-migrated_permissions). 
+If you still can't view them, you might not have the required permission. Ask your account owner to add you to the support case access group. For more information, see [SoftLayer account permissions](/docs/iam?topic=iam-migrated_permissions). 
 
 
 ## How do I get support for non-{{site.data.keyword.cloud_notm}} products?
@@ -129,7 +129,7 @@ The [{{site.data.keyword.IBM_notm}} SkillsBuild Software Downloads](https://www.
 {: #watchlist}
 {: faq}
 
-As the account owner or as an administrator or editor on the Support Center service, you can add users in the account to the watchlist. Users on the watchlist can view and follow the support case's progress. For more information, see [Updating your support case's watchlist](/docs/account?topic=account-managing-support-cases#contact-watchlist).
+As the account owner or as an administrator or editor on the Support Center service, you can add users in the account to the watchlist. Users on the watchlist can view and follow the support case's progress. For more information, see [Updating your support case's watchlist](/docs/support?topic=support-managing-support-cases#contact-watchlist).
 
 ## Can I find support cases that are created by specific users?
 {: #case_list_user}
@@ -156,7 +156,7 @@ If your account has classic infrastructure cases, you can download a list of cre
 {: #support-case-deactivated}
 {: faq}
 
-If your account is deactivated, you have 30 days to log in to the console and [create a support case](/docs/account?topic=account-open-case&interface=ui). If you can't access your account, you can create a support case by completing the [Create an Account, Login or Billing Request](https://watson.service-now.com/x_ibmwc_open_case_app.do#!/create) form.
+If your account is deactivated, you have 30 days to log in to the console and [create a support case](/docs/support?topic=support-open-case). If you can't access your account, you can create a support case by completing the [Create an Account, Login or Billing Request](https://watson.service-now.com/x_ibmwc_open_case_app.do#!/create) form.
 
 ## Do watchlists apply account-wide or to a specific case?
 {: #watchlist-specific}

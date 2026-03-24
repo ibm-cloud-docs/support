@@ -12,7 +12,6 @@ toc:
   - navgroup:
       id: learn
       topics:
-      - getting-started.md
       - support-plans.md
       - status-bps.md
   - navgroup:
