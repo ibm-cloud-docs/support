@@ -12,6 +12,7 @@ toc:
   - navgroup:
       id: learn
       topics:
+      - using-support-center.md
       - support-plans.md
       - status-bps.md
   - navgroup:
