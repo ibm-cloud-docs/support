@@ -3,7 +3,7 @@
 copyright:
 
   years: 2019, 2026
-lastupdated: "2026-03-20"
+lastupdated: "2026-04-06"
 
 keywords: notifications, view notifications, set notifications, iaas notifications, notification icon, header bell, bell icon, email notification history, communication history
 
@@ -68,6 +68,21 @@ To view your email notification history and check the delivery status of an {{si
    * Select **Delivered** to find emails that were successfully delivered to you.
    * Select **Not delivered** to find emails that were sent to you, but weren't delivered successfully.
    * Select **All** to find both delivered and not delivered emails with the same subject.
+
+## Viewing impacted devices
+{: #viewing-impacted-devices}
+
+Identify which of your devices are affected by the scheduled or ongoing maintenance activity in {{site.data.keyword.cloud_notm}}.
+
+To obtain a list of devices impacted under the maintenance activity, complete the following steps:
+
+1. Log in to {{site.data.keyword.cloud_notm}} by using your credentials.
+1. Click the **Notifications** icon ![Notifications icon](../icons/Notification.svg "Notifications") to view a list of open and completed maintenance's for your account in the past 30 days.
+
+You can directly go to the maintenance notification page through [{{site.data.keyword.cloud_notm}} Notifications](https://cloud.ibm.com/notifications){: external}
+{: note}
+
+1. Select the maintenance activity, and click **View all affected instances** to get a list of all your devices that are being impacted under maintenance.
 
 ## Getting advanced notice for disruptive maintenance
 {: #disruptive-notice-maintenance}

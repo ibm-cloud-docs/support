@@ -30,7 +30,6 @@ toc:
           topics:
           - view_notifications.md
           - notifications.md
-          - monitor-notification-status.md
           - email.md
           - distribution_list.md
           - webhook-ips.md
