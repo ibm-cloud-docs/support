@@ -35,12 +35,6 @@
       "href": "https://www.ibm.com/products/cloud/support",
       "type": "article",
       "recommended": true
-    },
-    {
-      "title": "Best practices for working with support",
-      "description": "Discover tips and best practices for getting the most out of IBM Cloud support.",
-      "href": "https://cloud.ibm.com/docs/support?topic=support-best-practices",
-      "type": "article"
     }
   ],
   "section_devtools": {
