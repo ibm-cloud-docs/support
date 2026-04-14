@@ -1,0 +1,65 @@
+toc:
+  properties:
+    subcollection: support
+    category: platform_services
+    audience: platform
+    href: /docs/support
+    console-page: /support
+    product-page: https://ibm.com/cloud
+    path: support
+    label: Getting support
+  entries:
+  - navgroup:
+      id: learn
+      topics:
+      - using-support-center.md
+      - support-plans.md
+      - status-bps.md
+  - navgroup:
+      id: howto
+      topics:
+      - topicgroup:
+          label: Working with support cases
+          topics:
+          - create-case.md
+          - manage-case.md
+          - assign-user-access-cases.md
+          - case-severity-response-times.md
+      - topicgroup:
+          label: Managing notifications
+          topics:
+          - view_notifications.md
+          - notifications.md
+          - email.md
+          - distribution_list.md
+          - webhook-ips.md
+      - topicgroup:
+          label: Viewing status and incidents
+          topics:
+          - ViewStatus.md
+          - status_search.md
+      - report-security.md
+  - navgroup:
+      id: reference
+      topics:
+      - topicgroup:
+          label: API reference
+          links:
+          - link:
+              label: Case Management
+              href: https://{DomainName}/apidocs/support-center/case-management-v2
+      - customer-incident-report.md
+  - navgroup:
+      id: help
+      topics:
+      - get-help.md
+      - faq-support.md
+      - topicgroup:
+          label: Troubleshooting
+          topics:
+          - ts_create-case.md
+          - ts_help-info-services.md
+          - ts_service-broker.md
+          - ts_view-archived-cases.md
+          - ts_view-case-details.md
+          - ts_view-case-details-v2.md
