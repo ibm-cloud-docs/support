@@ -1,8 +1,8 @@
 ---
 
 copyright:
-  years: 2026
-lastupdated: "2026-03-20"
+  years: 2026, 2026
+lastupdated: "2026-04-20"
 
 keywords:
 
@@ -27,4 +27,4 @@ If you experience an issue or have questions when working in IBM Cloud, you can 
 * Review [Stack Overflow](https://stackoverflow.com/questions/tagged/ibm-cloud){: external} to see whether other users experienced the same problem. When you ask a question, tag the question with `ibm-cloud` and `service-Name`, so that it's seen by the {{site.data.keyword.Bluemix_notm}} development teams.
 
 
-If you still can't resolve the problem, you can open a support case. For more information, see [Creating support cases](/docs/supportt?topic=support-open-case). And if you're looking to provide feedback, see [Submitting feedback](/docs/overview?topic=overview-feedback).
+If you still can't resolve the problem, you can open a support case. For more information, see [Creating support cases](/docs/support?topic=support-open-case). And if you're looking to provide feedback, see [Submitting feedback](/docs/overview?topic=overview-feedback).
