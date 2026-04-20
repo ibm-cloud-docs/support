@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2026
-lastupdated: "2026-03-20"
+lastupdated: "2026-04-20"
 
 keywords: basic support, advanced support, premium support, support plans, free technical support, response time
 
@@ -31,7 +31,7 @@ The following table compares the support plans available for Pay-As-You-Go accou
 |-------------|---------------|------------------|-----------------|
 | **Best for** | Basic business protection included with Pay-As-You-Go or Subscription accounts | Prioritized case handling aligned with business needs for your Pay-As-You-Go account, Subscription account, or Enterprise Savings Plan billing model | Client engagement aligned with business outcomes to accelerate time-to-value for your Pay-As-You-Go account, Subscription account, or Enterprise Savings Plan billing model |
 | **Availability** | Access to documentation, AI Assistant, and community forums | 24 x 7 access to technical support through cases, phone, and chat | 24 x 7 access to technical support through cases, phone, and chat |
-| **[Case severity](/docs/account?topic=account-support-case-severity)** | Not available | All severity levels available | All severity levels available |
+| **[Case severity](/docs/support?topic=support-support-case-severity)** | Not available | All severity levels available | All severity levels available |
 | **Initial response time objectives** | No SLO for response time | Severity 1: Less than 1 hour  \n Severity 2: Less than 2 hours  \n Severity 3: Less than 4 hours  \n Severity 4: Less than 8 hours | Severity 1: Less than 15 minutes  \n Severity 2: Less than 1 hour  \n Severity 3: Less than 2 hours  \n Severity 4: Less than 4 hours |
 | **Additional support** | None | None | Technical Account Manager  \n Quarterly business reviews  \n Access to experts  \n Event management support |
 | **Pricing** | Included with cloud entitlement | Pay-As-You-Go and Subscription: Starting at USD 200 per month or 10% of consumption if it exceeds the monthly starting price  \n Enterprise Savings Plan: 10% of consumption | Pay-As-You-Go and Subscription: Starting at USD 10,000 per month or 10% of consumption if it exceeds the monthly starting price  \n Enterprise Savings Plan: 10% of consumption. For more information, see [Viewing your support costs](/docs/account?topic=account-support). |

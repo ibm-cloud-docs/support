@@ -3,7 +3,7 @@
 copyright:
 
   years: 2019, 2026
-lastupdated: "2026-03-20"
+lastupdated: "2026-04-20"
 
 keywords: platform notifications, email notifications, IBM Cloud notifications, notification preferences, email preferences, user notifications, infrastructure notifications
 
@@ -109,7 +109,7 @@ To ensure that a user has the correct access, go to **Manage** > **Access (IAM)*
 | Services            | Storage Manage |
 {: caption="Required classic infrastructure permissions for receiving user notifications" caption-side="top"}
 
-Then, go to **Devices** to assign a user access to the specific devices and device types. You can also enable future access to all devices of a certain type. For more information about setting classic infrastructure permissions, see [Managing classic infrastructure access](/docs/account?topic=account-mngclassicinfra).
+Then, go to **Devices** to assign a user access to the specific devices and device types. You can also enable future access to all devices of a certain type. For more information about setting classic infrastructure permissions, see [Managing classic infrastructure access](/docs/iam?topic=iam-mngclassicinfra).
 
 ## Managing invitation notifications
 {: #invite-notifications}
@@ -122,7 +122,7 @@ Users can receive an invitation link in their notifications and by email to join
 
 On the [Notifications page](/notifications){: external}, search for an invitation or filter by the notification type called account. You can't set email preferences for receiving account type notifications.
 
-Active users receive an email and a notification with an invitation link. If an email address does not correspond to a known user, an invitation email is sent to accept, but users can choose not to accept the invitation. For more information, see [Viewing notifications](/docs/account?topic=account-viewing-cloud-status#view-notifications) and [Inviting users to an account](/docs/account?topic=account-iamuserinv).
+Active users receive an email and a notification with an invitation link. If an email address does not correspond to a known user, an invitation email is sent to accept, but users can choose not to accept the invitation. For more information, see [Viewing notifications](/docs/support?topic=support-viewing-notifications) and [Inviting users to an account](/docs/iam?topic=iam-iamuserinv).
 
 The invitations expire after 30 days. New users can accept an invitation only by using the invitation link that they received through email.
 {: note}

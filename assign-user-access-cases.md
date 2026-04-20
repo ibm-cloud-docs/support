@@ -3,7 +3,7 @@
 copyright:
 
   years: 2021, 2026
-lastupdated: "2026-03-20"
+lastupdated: "2026-04-20"
 
 keywords: access to cases, get access for cases, assign cases, assign access, access support center
 
@@ -21,7 +21,7 @@ By default, users in your account don't have access to create, update, search, o
 
 When you create a case, you can give other users full access to that case by adding their email to the **Add another person to this case** field. Any added users have access to view, edit, and update only that case in the account. They also receive notifications when the case is updated.
 
-For classic infrastructure users, the permissions to assign support case access is now available in [migrated classic infrastructure permission access groups](/docs/account?topic=account-migrated_permissions). The migrated permission access groups do include the IAM policy on the user management service with the viewer role assigned.
+For classic infrastructure users, the permissions to assign support case access is now available in [migrated classic infrastructure permission access groups](/docs/iam?topic=iam-migrated_permissions). The migrated permission access groups do include the IAM policy on the user management service with the viewer role assigned.
 {: note}
 
 The following table shows the roles and actions that are required to work with cases:
@@ -65,7 +65,7 @@ When you give a user access, they might not have access to view all cases in an 
 ## Adding users to your case management access group
 {: #add-user-access-group}
 
-You need to have an access group to add users to it. For more information about access groups, see [Setting up access groups](/docs/account?topic=account-groups). After you create the access group, complete the following steps to add users:
+You need to have an access group to add users to it. For more information about access groups, see [Streamlined access management with access groups](/docs/iam?topic=iam-groups). After you create the access group, complete the following steps to add users:
 
 1. In the {{site.data.keyword.cloud_notm}} console, go to **Manage** > **Access (IAM)**, select **Access groups** and select the Group that you want to have access.
 1. From the **Users** tab for your access group, click **Add users**.

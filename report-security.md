@@ -3,7 +3,7 @@
 copyright:
 
   years: 2019, 2026
-lastupdated: "2026-03-20"
+lastupdated: "2026-04-20"
 
 keywords: security, reporting, vulnerability
 
@@ -18,7 +18,7 @@ subcollection: support
 
 If you see a potential {{site.data.keyword.cloud_notm}} security vulnerability, report it by completing the following steps:
 
-1. Open a severity 1 case or a case of the highest severity level that your support allows. For information about how to open a case, see [Creating support cases](/docs/account?topic=account-open-case).
+1. Open a severity 1 case or a case of the highest severity level that your support allows. For information about how to open a case, see [Creating support cases](/docs/support?topic=support-open-case).
 1. Clearly describe in the case summary that the case is about a potential security vulnerability.
 1. Provide details of the potential security vulnerability by including one of the following items:
    * A phone number at which you can be reached to discuss the issue.

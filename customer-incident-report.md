@@ -3,7 +3,7 @@
 copyright:
 
   years: 2019, 2026
-lastupdated: "2026-03-20"
+lastupdated: "2026-04-20"
 
 keywords: cir, impacting event, services, advanced customer support
 
@@ -19,7 +19,7 @@ subcollection: support
 {{site.data.keyword.Bluemix}} works hard to maintain high availability of infrastructure and cloud services. If you're impacted by any event that disrupts your service delivery, a Customer Incident Report (CIR) can be provided. A CIR provides information about how services are impacted and how an issue is getting resolved.
 {: shortdesc}
 
-After you create a support case, you can view updates about your impacting event from the Manage cases page. For more information, see [Managing your support cases](/docs/account?topic=account-managing-support-cases). If the scope of an impacting event is of a broader enterprise-wide scope, a CIR is provided upon request.
+After you create a support case, you can view updates about your impacting event from the Manage cases page. For more information, see [Managing your support cases](/docs/support?topic=support-managing-support-cases). If the scope of an impacting event is of a broader enterprise-wide scope, a CIR is provided upon request.
 {: note}
 
 ## Details about the Customer Incident Report (CIR)
@@ -29,7 +29,7 @@ A CIR is provided for broader, enterprise-level issues. They are updates that pr
 
 Broader enterprise-wide issues are events that typically impact multiple user environments or regions. Due to the scope and impact of enterprise issues, {{site.data.keyword.cloud_notm}} requires a thorough RCA and the CIR is a summary report for the findings of the investigation.
 
-RCA investigations are complex and involve program review, feedback from product specialists, multiple inter-related cloud services, and vendor discussions. If the CIR can't be delivered within the Service Level Objective (SLO), an interim CIR is provided within the five business day SLO. For more information about SLO, see [Case severity and initial response times](/docs/account?topic=account-support-case-severity).
+RCA investigations are complex and involve program review, feedback from product specialists, multiple inter-related cloud services, and vendor discussions. If the CIR can't be delivered within the Service Level Objective (SLO), an interim CIR is provided within the five business day SLO. For more information about SLO, see [Case severity and initial response times](/docs/support?topic=support-support-case-severity).
 
 The CIR is a point-in-time document that is intended to convey a specific set of information about an impacting incident. The interim CIR document provides the current findings of the ongoing RCA, the next investigative steps, and a timeline for the next expected update. Depending on the complexity of the issue, more than one interim CIR might be required before the final version is available. The Service team (SRE) determines when the CIR is available. Customers with follow-up questions about a specific detail of the incident, or its impact on their environment, need to ask those questions in a support case.
 

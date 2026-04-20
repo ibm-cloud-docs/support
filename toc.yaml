@@ -37,7 +37,6 @@ toc:
           label: Viewing status and incidents
           topics:
           - ViewStatus.md
-          - status_search.md
       - report-security.md
   - navgroup:
       id: reference
@@ -62,4 +61,3 @@ toc:
           - ts_service-broker.md
           - ts_view-archived-cases.md
           - ts_view-case-details.md
-          - ts_view-case-details-v2.md
