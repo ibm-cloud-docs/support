@@ -3,7 +3,7 @@
 copyright:
 
   years: 2019, 2026
-lastupdated: "2026-04-06"
+lastupdated: "2026-04-20"
 
 keywords: notifications, view notifications, set notifications, iaas notifications, notification icon, header bell, bell icon, email notification history, communication history
 
@@ -48,7 +48,7 @@ You can select whether to receive email notifications about {{site.data.keyword.
 
 You cannot set email preferences for receiving account type notifications. On the {{site.data.keyword.cloud_notm}} [Notifications page](/notifications){: external}, you can use the search field to locate an invitation or filter by the notification type called account.
 
-Users already present in {{site.data.keyword.cloud_notm}} receives an email and a notification with an invitation link. If an email address does not correspond to a known user in {{site.data.keyword.cloud_notm}}, an invitation email gets sent to accept, but users can also choose not to accept the invitation. For more information, see [Setting email preferences for notifications](/docs/support?topic=support-email-prefs) and [Inviting users to an account](/docs/account?topic=account-iamuserinv).
+Users already present in {{site.data.keyword.cloud_notm}} receives an email and a notification with an invitation link. If an email address does not correspond to a known user in {{site.data.keyword.cloud_notm}}, an invitation email gets sent to accept, but users can also choose not to accept the invitation. For more information, see [Setting email preferences for notifications](/docs/support?topic=support-email-prefs) and [Inviting users to an account](/docs/iam?topic=iam-iamuserinv).
 
 The invitations expire after 30 days. New users to {{site.data.keyword.cloud_notm}} can accept an invitation only by using the invitation link that they received through email.
 {: note}

@@ -3,7 +3,7 @@
 copyright:
 
   years: 2019, 2026
-lastupdated: "2026-03-20"
+lastupdated: "2026-04-20"
 
 keywords: manage case, open case, update case, escalate case
 
@@ -16,7 +16,7 @@ subcollection: support
 # Managing your support cases
 {: #managing-support-cases}
 
-Each support case is assigned a unique number and severity level based on the details in the case description. You can use the case number to track the progress of your reported issue, leave feedback, or update the support case. Updates and feedback are recorded in the case notes, which you can find by selecting the specific support case. You can also add users in your account to a watchlist so they can receive alerts about a case. For more information, see [Updating your support case's watchlist](/docs/account?topic=account-managing-support-cases&interface=ui#contact-watchlist).
+Each support case is assigned a unique number and severity level based on the details in the case description. You can use the case number to track the progress of your reported issue, leave feedback, or update the support case. Updates and feedback are recorded in the case notes, which you can find by selecting the specific support case. You can also add users in your account to a watchlist so they can receive alerts about a case. For more information, see [Updating your support case's watchlist](/docs/support?topic=support-managing-support-cases#contact-watchlist).
 {: shortdesc}
 
 To view and manage your support cases, go to the [Manage cases page](/unifiedsupport/cases).  If you're a classic infrastructure user, and you don't see a listing of a previous case, click **View classic infrastructure cases**. You can also get a quick view of your 5 most recently updated open cases by typing `case status` in the [{{site.data.keyword.cloud_notm}} AI assistant](/docs/overview?topic=overview-ask-ai-assistant#support-case-status).
@@ -318,7 +318,7 @@ Adding details about the specific resources related to a support case allows for
 {: #contact-watchlist}
 {: ui}
 
-You can update which users in your account can receive notifications about your support case by adding them to the watchlist. Users can be added to the watchlist when [Creating support cases](/docs/account?topic=account-open-case) or after the support case is created.
+You can update which users in your account can receive notifications about your support case by adding them to the watchlist. Users can be added to the watchlist when [Creating support cases](/docs/support?topic=support-open-case) or after the support case is created.
 {: shortdesc}
 
 By default, account users don't have access to create, update, search, or view cases. The account owner must provide users with access by assigning an Identity and Access Management (IAM) access policy. For more information, see [Assigning user access for working with support cases](/docs/account?topic=account-access#access).
@@ -351,7 +351,7 @@ When your response to an update in your support case is needed, the status is di
 ## Escalating support cases
 {: #escalation}
 
-With a paid support plan, you can use the escalation process to surface critical issues and voice your concern about a support case. When a case is escalated, the {{site.data.keyword.cloud_notm}} support team reviews the information in the support case and responds with appropriate updates. For information about case severity, see [Case severity and initial response times](/docs/account?topic=account-support-case-severity).
+With a paid support plan, you can use the escalation process to surface critical issues and voice your concern about a support case. When a case is escalated, the {{site.data.keyword.cloud_notm}} support team reviews the information in the support case and responds with appropriate updates. For information about case severity, see [Case severity and initial response times](/docs/support?topic=support-support-case-severity).
 
 To escalate a case, complete the following steps:
 
@@ -442,8 +442,7 @@ To use tags, the customer's account must have a Premium support tier.
 Before you can tag cases, you must create tags at the account level. To do so, complete the following steps:
 
 1. Navigate to **Support** > **Manage cases**.
-1. Click edit tags to add as many tags as needed.
-These tags are customizable and can reflect services, incidents, teams, or any other classification relevant to your organization.
+1. Click edit tags to add as many tags as needed. These tags are customizable and can reflect services, incidents, teams, or any other classification relevant to your organization.
 1. Click **Save**.
 
 Each tag must be alphanumeric and no longer than 40 characters, and you can attach up to 20 tags to a single support case.
@@ -471,4 +470,3 @@ Option 2: Notifications can be sent to the email address associated with the tru
 
 To use the second option, an email address must be associated with the trusted profile that is not a service ID, cloud resource, or computer resource.
 {: note}
-

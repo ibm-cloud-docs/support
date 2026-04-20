@@ -3,7 +3,7 @@
 copyright:
 
   years: 2019, 2026
-lastupdated: "2026-03-20"
+lastupdated: "2026-04-20"
 
 keywords: create case, open case, start case, raise ticket
 
@@ -22,7 +22,7 @@ If you experience problems with {{site.data.keyword.cloud}}, you can use the [Su
 If your account is deactivated or if you don't have access to your account, you can create a support case by completing the [Create an Account, Login or Billing Request](https://watson.service-now.com/x_ibmwc_open_case_app.do#!/create) form.
 {: tip}
 
-The types of available support depend on the support level of the account. Your support plan also determines the severity level that you can assign to support cases. For more information, see [Case severity and response time](/docs/account?topic=account-support-case-severity).
+The types of available support depend on the support level of the account. Your support plan also determines the severity level that you can assign to support cases. For more information, see [Case severity and response time](/docs/support?topic=support-support-case-severity).
 
 Users with a Lite or Trial account receive the same support as Basic support, which means that they can create support cases that are limited to nontechnical issues associated with access (IAM), billing and usage, account, and invoice or sales inquiries. Technical help for accounts with a no-cost support plan is provided by the [{{site.data.keyword.cloud_notm}} Docs](/docs){: external}, the {{site.data.keyword.cloud_notm}} AI Assistant, and online communities such as the [{{site.data.keyword.cloud_notm}} Community](https://community.ibm.com/community/user/my-community){: external} or [Stack Overflow](https://stackoverflow.com/questions/tagged/ibm-cloud?tab=Newest){: external}.
 
@@ -32,7 +32,7 @@ As a classic infrastructure user, you might be familiar with support tickets. Su
 {: #creating-support-case}
 {: ui}
 
-By default, account users don't have access to create, update, search, or view cases. The account owner must provide users with access by assigning an Identity and Access Management (IAM) access policy. For more information, see [Managing access to support cases](/docs/account?topic=account-access-cases).
+By default, account users don't have access to create, update, search, or view cases. The account owner must provide users with access by assigning an Identity and Access Management (IAM) access policy. For more information, see [Managing access to support cases](/docs/support?topic=support-access-cases).
 
 Complete the following steps to create a support case:
 
@@ -48,7 +48,7 @@ Complete the following steps to create a support case:
 1. Complete optional fields:
    * Add a specific resource or product for quicker triage and investigation.
    * Attach files to provide more details about the issue you're experiencing.
-   * If you'd like a user in your account to be updated about the case, add them by using the watchlist. For more information, see [Updating your support case's watchlist](/docs/account?topic=account-managing-support-cases&interface=api#contact-watchlist).
+   * If you'd like a user in your account to be updated about the case, add them by using the watchlist. For more information, see [Updating your support case's watchlist](/docs/support?topic=support-managing-support-cases#contact-watchlist).
    * Select **Email me updates about this case** to receive support case notifications.
 1. Click **Next**, review your case summary, and click **Submit case**.
 1. After you receive email verification for the case, follow the instructions for further communication on the issue.
@@ -70,7 +70,7 @@ To add a resource to a support case, use the following steps:
 2. Go to the **Add resource** field.
 3. Click to display the choices, then select a resource name from the list.
 
-You can also add a cloud resource name after the case is created or add the CRN within a comment. For more information, see [Updating support cases](/docs/account?topic=account-managing-support-cases#updating-case).
+You can also add a cloud resource name after the case is created or add the CRN within a comment. For more information, see [Updating support cases](/docs/support?topic=support-managing-support-cases#updating-case).
 
 ## Creating a support case by using the API
 {: #create-case-api}
