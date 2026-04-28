@@ -37,6 +37,8 @@ toc:
           label: Viewing status and incidents
           topics:
           - ViewStatus.md
+          - status_search.md
+      - support.md
       - report-security.md
   - navgroup:
       id: reference
