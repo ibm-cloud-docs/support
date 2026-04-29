@@ -3,7 +3,7 @@
 copyright:
 
   years: 2019, 2026
-lastupdated: "2026-03-24"
+lastupdated: "2026-04-28"
 
 keywords: frequently asked question, faq, support cases, email preferences, access for cases, support faq
 
@@ -15,10 +15,10 @@ content-type: faq
 
 {{site.data.keyword.attribute-definition-list}}
 
-# FAQ for getting support
+# FAQs
 {: #get-supportfaq}
 
-FAQ for support include questions on checking for planned maintenance, opening and managing support cases, contacting {{site.data.keyword.cloud_notm}} Support, managing notification preferences, and understanding support plans and costs. To find all FAQ for {{site.data.keyword.cloud_notm}}, see our [FAQ library](/docs/faqs).
+FAQs for support include questions on checking for planned maintenance, opening and managing support cases, contacting {{site.data.keyword.cloud_notm}} Support, managing notification preferences, and understanding support plans and costs. To find all FAQ for {{site.data.keyword.cloud_notm}}, see our [FAQ library](/docs/faqs).
 {: shortdesc}
 
 ## How do I check for planned maintenance?
