@@ -3,7 +3,7 @@
   "title": "Getting support",
   "introduction": "Get the help you need with IBM Cloud support. Learn about support plans, create and manage support cases, monitor notifications, view platform status, and report security vulnerabilities. Access comprehensive resources to resolve issues quickly and efficiently.",
   "product_page": "https://www.ibm.com/products/cloud/support",
-  "console_page": "/support",
+  "console_page": "/unifiedsupport/supportcenter",
   "section_topics": {
     "links": [
       {
