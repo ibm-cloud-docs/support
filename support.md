@@ -3,7 +3,7 @@
 copyright:
 
   years: 2019, 2026
-lastupdated: "2026-04-28"
+lastupdated: "2026-04-30"
 
 keywords: support costs, support subscriptions, support credit, support
 
@@ -22,12 +22,12 @@ If you have Advanced or Premium support, you can keep track of your monthly supp
 ## How you're charged for support
 {: #how-support}
 
-Each [{{site.data.keyword.cloud_notm}} support plan](/docs/account-new?topic=account-support-plans) has a minimum monthly price for providing support for your cloud workload at the stated service level. Beyond this starting price, any additional costs for support are based on your resource usage. The higher your resource usage, the higher your total support cost. For details about your purchased support plan, contact [{{site.data.keyword.cloud_notm}} Sales](https://www.ibm.com/solutions/cloud?contactmodule){: external}.
+Each [{{site.data.keyword.cloud_notm}} support plan](/docs/support?topic=support-support-plans) has a minimum monthly price for providing support for your cloud workload at the stated service level. Beyond this starting price, any additional costs for support are based on your resource usage. The higher your resource usage, the higher your total support cost. For details about your purchased support plan, contact [{{site.data.keyword.cloud_notm}} Sales](https://www.ibm.com/solutions/cloud?contactmodule){: external}.
 
 ## Viewing support costs
 {: #view-support}
 
-To view your support costs, you need an access policy with the Administrator role on the Billing account management service. For more information about access roles, see [IAM access](/docs/account-new?topic=account-userroles).
+To view your support costs, you need an access policy with the Administrator role on the Billing account management service. For more information about access roles, see [Platform and service access roles for permissions](/docs/iam?topic=iam-userroles).
 
 In the {{site.data.keyword.cloud_notm}} console, go to **Manage > Billing and usage**, and select **Support costs**. You can view your support plan and relevant cost details:
 * If your support costs are billed monthly, you can view your costs for the current month. These costs include the starting price for the plan and any additional costs from your resource usage. After each billing cycle, these charges are added to your monthly invoice.
