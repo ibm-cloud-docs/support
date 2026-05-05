@@ -50,7 +50,6 @@ toc:
               label: Case Management
               href: https://{DomainName}/apidocs/support-center/case-management-v2
       - customer-incident-report.md
-      - data-center-closures.md
   - navgroup:
       id: help
       topics:
