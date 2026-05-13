@@ -3,7 +3,7 @@
 copyright:
 
   years: 2019, 2026
-lastupdated: "2026-04-28"
+lastupdated: "2026-05-12"
 
 keywords: frequently asked question, faq, support cases, email preferences, access for cases, support faq
 
@@ -15,7 +15,7 @@ content-type: faq
 
 {{site.data.keyword.attribute-definition-list}}
 
-# FAQs
+# FAQ for getting support
 {: #get-supportfaq}
 
 FAQs for support include questions on checking for planned maintenance, opening and managing support cases, contacting {{site.data.keyword.cloud_notm}} Support, managing notification preferences, and understanding support plans and costs. To find all FAQ for {{site.data.keyword.cloud_notm}}, see our [FAQ library](/docs/faqs).
