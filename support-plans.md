@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2026
-lastupdated: "2026-04-30"
+lastupdated: "2026-05-18"
 
 keywords: basic support, advanced support, premium support, support plans, free technical support, response time
 
@@ -16,7 +16,7 @@ subcollection: support
 # Support plans
 {: #support-plans}
 
-{{site.data.keyword.cloud_notm}} offers Basic, Advanced, and Premium support plans to meet your business needs. The support plan that you select determines the severity levels that you can assign to support cases, your response time objectives, and your access to Support Center tools. To upgrade your support plan, contact [{{site.data.keyword.cloud_notm}} Sales](https://www.ibm.com/solutions/cloud?contactmodule){: external}.
+IBM Cloud offers Basic, Advanced, and Premium support plans to meet your business needs. The support plan that you select determines the severity levels that you can assign to support cases, your response time objectives, and your access to Support Center tools. To upgrade your support plan, contact [IBM Cloud Sales](https://www.ibm.com/solutions/cloud?contactmodule){: external}.
 {: shortdesc}
 
 Initial response Service Level Objectives (SLO) do not apply to billing, invoice, sales, or account-related cases.
@@ -40,15 +40,15 @@ The following table compares the support plans available for Pay-As-You-Go accou
 {: caption="Support plan comparison" caption-side="bottom"}
 {: summary="This table has row and column headers. The row headers identify the aspects of support. The column headers identify the support plan."}
 
-For Enterprise Savings Plans, there is a minimum commitment for Advanced and Premium support. If you don't spend the total committed amount by the end of the commitment term, you are invoiced for the amount that you didn't consume, and any amount used over the commitment is also charged. For more information, contact an [{{site.data.keyword.cloud_notm}} Sales](https://www.ibm.com/solutions/cloud?contactmodule){: external} representative.
+For Enterprise Savings Plans, there is a minimum commitment for Advanced and Premium support. If you don't spend the total committed amount by the end of the commitment term, you are invoiced for the amount that you didn't consume, and any amount used over the commitment is also charged. For more information, contact an [IBM Cloud Sales](https://www.ibm.com/solutions/cloud?contactmodule){: external} representative.
 {: note}
 
 ## Premium support
 {: #premium-support}
 
-The Premium support plan is for mission-critical environments that have a strategic dependency on {{site.data.keyword.cloud_notm}}. The additional features of Premium support provide you the comfort in knowing that {{site.data.keyword.cloud_notm}} has you covered in any situation. With your Premium support plan you get a technical account manager that advises you on processes, policies, and best practices related to the platform or infrastructure services. In addition, your technical account manager assists you with:
+The Premium support plan is for mission-critical environments that have a strategic dependency on IBM Cloud. The additional features of Premium support provide you the comfort in knowing that IBM Cloud has you covered in any situation. With your Premium support plan you get a technical account manager that advises you on processes, policies, and best practices related to the platform or infrastructure services. In addition, your technical account manager assists you with:
 
-* **Issue management.** Your technical account manager works with the {{site.data.keyword.cloud_notm}} Support team to reduce time-to-resolution.
+* **Issue management.** Your technical account manager works with the IBM Cloud Support team to reduce time-to-resolution.
 * **Onboarding assistance.** Your technical account manager helps with cloud onboarding and serves as your advocate, aligning resources to meet your needs.
 * **Platform and infrastructure maintenance.** Your technical account manager alerts you about maintenance events or service end of life that might impact your environment.
 * **Event management.** The technical account manager can arrange architectural support on scaling and high availability for critical customer events such as maintenance, promotions, or holiday events.
@@ -103,9 +103,9 @@ The Basic support plan is included with all Pay-As-You-Go and Subscription accou
    * Invoice inquiries
    * Sales inquiries
 * Access self-service resources:
-   * {{site.data.keyword.cloud_notm}} documentation
+   * IBM Cloud documentation
    * AI assistant for technical questions
-   * Community forums ({{site.data.keyword.cloud_notm}} Community and Stack Overflow)
+   * Community forums (IBM Cloud Community and Stack Overflow)
 
 Basic support does not include technical support for product issues or access to case severity rankings and response time objectives.
 {: note}
@@ -119,12 +119,12 @@ Lite and Trial accounts receive the same support as Basic support. You can creat
 ## Support level and enterprises
 {: #support_level_enterprise}
 
-The level of support that is assigned to an [{{site.data.keyword.cloud_notm}} enterprise](/docs/enterprise-management?topic=enterprise-management-what-is-enterprise) defaults to the highest support plan within the enterprise. All child accounts within the enterprise also default to the highest support plan.
+The level of support that is assigned to an [IBM Cloud enterprise](/docs/enterprise-management?topic=enterprise-management-what-is-enterprise) defaults to the highest support plan within the enterprise. All child accounts within the enterprise also default to the highest support plan.
 
 ## Technical support team
 {: #tech-support-team}
 
-The {{site.data.keyword.cloud_notm}} support team, also known as the Client Service Delivery team, provides 24 x 7 support from strategic {{site.data.keyword.IBM_notm}} locations worldwide. The team consists of technical engineers with domain expertise to triage and troubleshoot issues quickly and effectively.
+The IBM Cloud support team, also known as the Client Service Delivery team, provides 24 x 7 support from strategic IBM locations worldwide. The team consists of technical engineers with domain expertise to triage and troubleshoot issues quickly and effectively.
 
 Support engineers are organized by technology domains, including:
 * Compute

@@ -3,7 +3,7 @@
 copyright:
 
   years: 2019, 2026
-lastupdated: "2026-03-20"
+lastupdated: "2026-05-18"
 
 keywords: support center help, resolve issues on the support center, trouble support center, personalized help
 
@@ -27,5 +27,5 @@ You can create cases that are related to access management, accounts, and billin
 Technical cases can be created only by accounts with Advanced and Premium support. If you have a Basic or Lite account, you must upgrade your account to create a technical support case.
 {: tsCauses}
 
-To update your support plan, go to [{{site.data.keyword.cloud_notm}} support](https://www.ibm.com/products/cloud/support){: external}, and click **Contact us**. From there, you can communicate with an expert through chat, phone, or email.
+To update your support plan, go to [IBM Cloud support](https://www.ibm.com/products/cloud/support){: external}, and click **Contact us**. From there, you can communicate with an expert through chat, phone, or email.
 {: tsResolve}

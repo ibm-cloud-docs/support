@@ -3,7 +3,7 @@
 copyright:
 
   years: 2019, 2026
-lastupdated: "2026-03-20"
+lastupdated: "2026-05-18"
 
 keywords: support center help, resolve issues on the support center, trouble support center, personalized help
 
@@ -27,5 +27,5 @@ The Support Center doesn't include the My products topics, common tasks, or FAQs
 Not all services provide personalized help information in the Support Center.
 {: tsCauses}
 
-The Support Center is updated as help information for more services becomes available. In the meantime, you can explore the [{{site.data.keyword.Bluemix}} FAQ library](/docs/faqs) to view FAQ for your services that aren't highlighted in the Support Center.
+The Support Center is updated as help information for more services becomes available. In the meantime, you can explore the [IBM Cloud&reg; FAQ library](/docs/faqs) to view FAQ for your services that aren't highlighted in the Support Center.
 {: tsResolve}

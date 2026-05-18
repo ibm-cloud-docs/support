@@ -3,7 +3,7 @@
 copyright:
 
   years: 2019, 2026
-lastupdated: "2026-05-12"
+lastupdated: "2026-05-18"
 
 keywords: frequently asked question, faq, support cases, email preferences, access for cases, support faq
 
@@ -18,14 +18,14 @@ content-type: faq
 # FAQ for getting support
 {: #get-supportfaq}
 
-FAQs for support include questions on checking for planned maintenance, opening and managing support cases, contacting {{site.data.keyword.cloud_notm}} Support, managing notification preferences, and understanding support plans and costs. To find all FAQ for {{site.data.keyword.cloud_notm}}, see our [FAQ library](/docs/faqs).
+FAQs for support include questions on checking for planned maintenance, opening and managing support cases, contacting IBM Cloud Support, managing notification preferences, and understanding support plans and costs. To find all FAQ for IBM Cloud, see our [FAQ library](/docs/faqs).
 {: shortdesc}
 
 ## How do I check for planned maintenance?
 {: #planned_maintenance_gs}
 {: faq}
 
-You can check for upcoming maintenance from your dashboard in the {{site.data.keyword.cloud}} console at least one time every 24 hours. Use one of the following options:
+You can check for upcoming maintenance from your dashboard in the IBM Cloud&reg; console at least one time every 24 hours. Use one of the following options:
 
 * Check out the Planned maintenance widget on the [Dashboard](/){: external}, and click **View all**.
 * Go directly to the [Status - Planned maintenance page](/status?selected=maintenance){: external}.
@@ -41,35 +41,35 @@ Before you open a support case, explore the following resources:
 * Review the [documentation](/docs).
 * Review the [Featured FAQs](/unifiedsupport/supportcenter) on the Support Center.
 * Go to the [FAQ library](/docs/faqs).
-* Go to [Stack Overflow](https://stackoverflow.com/questions/tagged/ibm-cloud){: external} to ask technical questions about developing apps with the {{site.data.keyword.cloud_notm}} platform and services.
+* Go to [Stack Overflow](https://stackoverflow.com/questions/tagged/ibm-cloud){: external} to ask technical questions about developing apps with the IBM Cloud platform and services.
 
 
 ## How do I open a support case?
 {: #open-support-case}
 {: faq}
 
-If you have paid support plans, for example Advanced or Premium plans, go to the [Support Center](/unifiedsupport/supportcenter){: external} in the {{site.data.keyword.cloud_notm}} console, and click **Create a case** from the Contact Support section. After your support case is created, you can follow its progress on the [Manage cases](/unifiedsupport/cases/manage){: external} page. For more information about creating a case, see [Creating support cases](/docs/support?topic=support-open-case).
+If you have paid support plans, for example Advanced or Premium plans, go to the [Support Center](/unifiedsupport/supportcenter){: external} in the IBM Cloud console, and click **Create a case** from the Contact Support section. After your support case is created, you can follow its progress on the [Manage cases](/unifiedsupport/cases/manage){: external} page. For more information about creating a case, see [Creating support cases](/docs/support?topic=support-open-case).
 
 
-## What are my options for contacting {{site.data.keyword.cloud_notm}} Support?
+## What are my options for contacting IBM Cloud Support?
 {: #contactsupport-faq}
 {: faq}
 
-From the {{site.data.keyword.cloud_notm}} console menu bar, click the **Help** icon ![Help icon](../icons/help.svg "Help") > **Support center**. The **Contact Support** section provides the options for getting in touch with a support representative: start a live chat from the AI Assistant, contact by phone, or create a support case. You can start a chat with a live agent from the [AI assistant](/docs/overview?topic=overview-ask-ai-assistant#chat-with-support) by typing `agent` in the chat. The options that are available to you depend on your support plan. For more information, see [Getting support](/docs/support?topic=support-support-plans).
+From the IBM Cloud console menu bar, click the **Help** icon ![Help icon](../icons/help.svg "Help") > **Support center**. The **Contact Support** section provides the options for getting in touch with a support representative: start a live chat from the AI Assistant, contact by phone, or create a support case. You can start a chat with a live agent from the [AI assistant](/docs/overview?topic=overview-ask-ai-assistant#chat-with-support) by typing `agent` in the chat. The options that are available to you depend on your support plan. For more information, see [Getting support](/docs/support?topic=support-support-plans).
 
-Nonpaid account support is limited to non-technical support issues that are related to account access and billing. Users with these nonpaid support accounts can self-report hardware issues, submit account or billing requests (including quota increases) through the portal, respond to {{site.data.keyword.IBM_notm}}-initiated support cases, and access the following self-service tools: {{site.data.keyword.cloud_notm}} AI assistant, {{site.data.keyword.cloud_notm}} docs, Community forums, and status pages. Users can also use [Stack Overflow](https://stackoverflow.com/questions/tagged/ibm-cloud){: external}. If your organization needs more advanced technical support, faster response times, or severity-level control, you can upgrade to a paid support plan. Learn more from your {{site.data.keyword.IBM_notm}} Sales representative or open an account upgrade case in the Support Center.
+Nonpaid account support is limited to non-technical support issues that are related to account access and billing. Users with these nonpaid support accounts can self-report hardware issues, submit account or billing requests (including quota increases) through the portal, respond to IBM-initiated support cases, and access the following self-service tools: IBM Cloud AI assistant, IBM Cloud docs, Community forums, and status pages. Users can also use [Stack Overflow](https://stackoverflow.com/questions/tagged/ibm-cloud){: external}. If your organization needs more advanced technical support, faster response times, or severity-level control, you can upgrade to a paid support plan. Learn more from your IBM Sales representative or open an account upgrade case in the Support Center.
 
 ## How can I receive technical support as a Basic support customer?
 {: #basic-tech-support}
 {: faq}
 
-Customers with a Basic support plan can report a technical issue when help is needed with third-party software or with issues that only {{site.data.keyword.IBM_notm}} can resolve, such as hardware failures or quota limit increases.
+Customers with a Basic support plan can report a technical issue when help is needed with third-party software or with issues that only IBM can resolve, such as hardware failures or quota limit increases.
 
 ## How do I escalate support cases?
 {: #escalate_support}
 {: faq}
 
-As an {{site.data.keyword.cloud_notm}} customer with a paid support plan, you can escalate support cases to surface critical issues. To escalate a case, go to the [Support Center](/unifiedsupport/supportcenter){: external} and contact IBM Cloud Support by phone or chat. Provide your existing case number, the business impact of your issue, and a request to escalate the case.
+As an IBM Cloud customer with a paid support plan, you can escalate support cases to surface critical issues. To escalate a case, go to the [Support Center](/unifiedsupport/supportcenter){: external} and contact IBM Cloud Support by phone or chat. Provide your existing case number, the business impact of your issue, and a request to escalate the case.
 
 For more information, see [Escalating support cases](/docs/support?topic=support-managing-support-cases#escalation).
 
@@ -87,7 +87,7 @@ You can change which email notifications you receive for planned events, unplann
 {: #support-costs}
 {: faq}
 
-If you have Advanced or Premium support, you can track your monthly support costs. In the {{site.data.keyword.cloud_notm}} console, go to **Manage** > **Billing and usage**, and select **Support costs**. Each support plan has a minimum monthly support price for your cloud workload at the stated service level. Beyond this starting price, any additional costs for support are based on your resource usage. The higher your resource usage, the higher your total support cost.
+If you have Advanced or Premium support, you can track your monthly support costs. In the IBM Cloud console, go to **Manage** > **Billing and usage**, and select **Support costs**. Each support plan has a minimum monthly support price for your cloud workload at the stated service level. Beyond this starting price, any additional costs for support are based on your resource usage. The higher your resource usage, the higher your total support cost.
 
 Charges for support of third-party services are not included in the Advanced or Premium support charge calculations. These non-IBM programs are licensed directly by their providers.
 
@@ -99,31 +99,31 @@ To view your support costs, you need an access policy with the Administrator rol
 {: faq}
 {: support}
 
-If you want to upgrade your support plan, contact an [{{site.data.keyword.cloud_notm}} Sales](https://www.ibm.com/solutions/cloud?contactmodule){: external} representative, or open an account upgrade case in the [Support Center](/unifiedsupport/supportcenter). For more information on the different support plans, see [Support plans](/docs/support?topic=support-support-plans).
+If you want to upgrade your support plan, contact an [IBM Cloud Sales](https://www.ibm.com/solutions/cloud?contactmodule){: external} representative, or open an account upgrade case in the [Support Center](/unifiedsupport/supportcenter). For more information on the different support plans, see [Support plans](/docs/support?topic=support-support-plans).
 
 ## Why can't I see my support cases? 
 {: #view-support-cases}
 {: faq}
 
-To access your support cases, from the {{site.data.keyword.cloud_notm}} console menu bar, click the **Help** icon ![Help icon](../icons/help.svg "Help") > **Support center**, and click **Manage cases**. If you're unable to view your cases, try clicking **View classic infrastructure cases**.
+To access your support cases, from the IBM Cloud console menu bar, click the **Help** icon ![Help icon](../icons/help.svg "Help") > **Support center**, and click **Manage cases**. If you're unable to view your cases, try clicking **View classic infrastructure cases**.
 
 If you still can't view them, you might not have the required permission. Ask your account owner to add you to the support case access group. For more information, see [SoftLayer account permissions](/docs/iam?topic=iam-migrated_permissions). 
 
 
-## How do I get support for non-{{site.data.keyword.cloud_notm}} products?
+## How do I get support for non-IBM Cloud products?
 {: #on-cloud-cases}
 {: faq}
 
-Some cloud-based {{site.data.keyword.IBM_notm}} products are not offered in {{site.data.keyword.cloud_notm}}. These products, such as [Aspera on Cloud](https://www.ibm.com/products/aspera){: external}, are offered by {{site.data.keyword.IBM_notm}} but aren't supported by the {{site.data.keyword.cloud_notm}} platform. For support for these products, go to [{{site.data.keyword.IBM_notm}} support](https://www.ibm.com/mysupport/s/){: external}.
+Some cloud-based IBM products are not offered in IBM Cloud. These products, such as [Aspera on Cloud](https://www.ibm.com/products/aspera){: external}, are offered by IBM but aren't supported by the IBM Cloud platform. For support for these products, go to [IBM support](https://www.ibm.com/mysupport/s/){: external}.
 
 Support for third-party services is provided by the service provider.
 
 
-## Does {{site.data.keyword.cloud_notm}} provide support for resources available through the {{site.data.keyword.IBM_notm}} SkillsBuild Software Downloads?
+## Does IBM Cloud provide support for resources available through the IBM SkillsBuild Software Downloads?
 {: #academic-ibm}
 {: faq}
 
-The [{{site.data.keyword.IBM_notm}} SkillsBuild Software Downloads](https://www.ibm.com/academic/){: external} is an {{site.data.keyword.IBM_notm}} corporate program that provides access to the {{site.data.keyword.cloud_notm}} Platform for faculty, students, and researchers at accredited academic institutions. Acceptance decisions, length of participation, awarding of credits, and any possible extensions are made by the {{site.data.keyword.IBM_notm}} SkillsBuild Software Downloads Team and not {{site.data.keyword.cloud_notm}} Support. {{site.data.keyword.cloud_notm}} Support also does not provide technical support for accounts that are part of the {{site.data.keyword.IBM_notm}} SkillsBuild Software Downloads Program.
+The [IBM SkillsBuild Software Downloads](https://www.ibm.com/academic/){: external} is an IBM corporate program that provides access to the IBM Cloud Platform for faculty, students, and researchers at accredited academic institutions. Acceptance decisions, length of participation, awarding of credits, and any possible extensions are made by the IBM SkillsBuild Software Downloads Team and not IBM Cloud Support. IBM Cloud Support also does not provide technical support for accounts that are part of the IBM SkillsBuild Software Downloads Program.
 
 ## How do I ensure that users in my account get updates for a support case?
 {: #watchlist}
@@ -139,7 +139,7 @@ You can download a list of created support cases and view the cases that are cre
 
 To download a list of created support cases, use the following steps:
 
-1. From the {{site.data.keyword.cloud_notm}} console menu bar, click the **Help** icon ![Help icon](../icons/help.svg "Help") > **Support center**.
+1. From the IBM Cloud console menu bar, click the **Help** icon ![Help icon](../icons/help.svg "Help") > **Support center**.
 1. Click **View all** from the Recent support cases tile.
 1. On the Manage cases page, click **Filter by status** and select the case status that you want to view. You can select more than one status.
 1. Click the **Download** icon ![Download icon](../icons/download.svg "Download").
@@ -168,4 +168,4 @@ Watchlists are specific to each case. You must manually add a user to each indiv
 {: #chat-with-support}
 {: faq}
 
-You can chat with support if you have an Advanced or Premium support plan. Go to the [Support Center](/unifiedsupport/supportcenter){: external}, click **Launch AI Assistant**, and type `agent` to connect with a support agent. Alternatively, you can request to chat with a live agent by opening the [AI assistant](/docs/overview?topic=overview-ask-ai-assistant#chat-with-support) from the Help menu and typing `agent` in the chat. Or, call the number provided in the Contact Support section. To upgrade your support plan, contact an [{{site.data.keyword.cloud_notm}} Sales](https://www.ibm.com/solutions/cloud?contactmodule){: external} representative, or open an account upgrade case in the [Support Center](/unifiedsupport/supportcenter).
+You can chat with support if you have an Advanced or Premium support plan. Go to the [Support Center](/unifiedsupport/supportcenter){: external}, click **Launch AI Assistant**, and type `agent` to connect with a support agent. Alternatively, you can request to chat with a live agent by opening the [AI assistant](/docs/overview?topic=overview-ask-ai-assistant#chat-with-support) from the Help menu and typing `agent` in the chat. Or, call the number provided in the Contact Support section. To upgrade your support plan, contact an [IBM Cloud Sales](https://www.ibm.com/solutions/cloud?contactmodule){: external} representative, or open an account upgrade case in the [Support Center](/unifiedsupport/supportcenter).

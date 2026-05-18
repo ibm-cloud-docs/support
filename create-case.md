@@ -3,7 +3,7 @@
 copyright:
 
   years: 2019, 2026
-lastupdated: "2026-04-20"
+lastupdated: "2026-05-18"
 
 keywords: create case, open case, start case, raise ticket
 
@@ -16,7 +16,7 @@ subcollection: support
 # Creating support cases
 {: #open-case}
 
-If you experience problems with {{site.data.keyword.cloud}}, you can use the [Support Center](/unifiedsupport/supportcenter){: external} to create a support case. You can create cases for issues that are associated with access (IAM), billing and usage, account, and invoice or sales inquiries. Users with an Advanced or Premium support plan can also create a case for technical support.
+If you experience problems with IBM Cloud&reg;, you can use the [Support Center](/unifiedsupport/supportcenter){: external} to create a support case. You can create cases for issues that are associated with access (IAM), billing and usage, account, and invoice or sales inquiries. Users with an Advanced or Premium support plan can also create a case for technical support.
 {: shortdesc}
 
 If your account is deactivated or if you don't have access to your account, you can create a support case by completing the [Create an Account, Login or Billing Request](https://watson.service-now.com/x_ibmwc_open_case_app.do#!/create) form.
@@ -24,9 +24,9 @@ If your account is deactivated or if you don't have access to your account, you 
 
 The types of available support depend on the support level of the account. Your support plan also determines the severity level that you can assign to support cases. For more information, see [Case severity and response time](/docs/support?topic=support-support-case-severity).
 
-Users with a Lite or Trial account receive the same support as Basic support, which means that they can create support cases that are limited to nontechnical issues associated with access (IAM), billing and usage, account, and invoice or sales inquiries. Technical help for accounts with a no-cost support plan is provided by the [{{site.data.keyword.cloud_notm}} Docs](/docs){: external}, the {{site.data.keyword.cloud_notm}} AI Assistant, and online communities such as the [{{site.data.keyword.cloud_notm}} Community](https://community.ibm.com/community/user/my-community){: external} or [Stack Overflow](https://stackoverflow.com/questions/tagged/ibm-cloud?tab=Newest){: external}.
+Users with a Lite or Trial account receive the same support as Basic support, which means that they can create support cases that are limited to nontechnical issues associated with access (IAM), billing and usage, account, and invoice or sales inquiries. Technical help for accounts with a no-cost support plan is provided by the [IBM Cloud Docs](/docs){: external}, the IBM Cloud AI Assistant, and online communities such as the [IBM Cloud Community](https://community.ibm.com/community/user/my-community){: external} or [Stack Overflow](https://stackoverflow.com/questions/tagged/ibm-cloud?tab=Newest){: external}.
 
-As a classic infrastructure user, you might be familiar with support tickets. Support tickets are now called support cases in {{site.data.keyword.cloud_notm}}.
+As a classic infrastructure user, you might be familiar with support tickets. Support tickets are now called support cases in IBM Cloud.
 
 ## Creating a support case
 {: #creating-support-case}
@@ -36,7 +36,7 @@ By default, account users don't have access to create, update, search, or view c
 
 Complete the following steps to create a support case:
 
-1. From the {{site.data.keyword.cloud_notm}} console menu bar, click the **Help** icon ![Help icon](../icons/help.svg "Help") > **Support center**.
+1. From the IBM Cloud console menu bar, click the **Help** icon ![Help icon](../icons/help.svg "Help") > **Support center**.
 1. From the Contact support section, click **Create a case**.
 1. Select the category for your issue.
 1. Select the topic and the associated subtopic that is most closely related to your issue, and click **Next**.

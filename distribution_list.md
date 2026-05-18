@@ -3,7 +3,7 @@
 copyright:
 
   years: 2021, 2026
-lastupdated: "2026-04-20"
+lastupdated: "2026-05-18"
 
 keywords: IBM Cloud notifications, notification preferences, user notifications, distribution list, notification distribution list, webhooks, Slack webhooks, Microsoft Teams webhooks, ServiceNow webhooks, SNOW
 
@@ -15,10 +15,10 @@ subcollection: support
 # Using the notification distribution list
 {: #add-users-distribution-list}
 
-The {{site.data.keyword.cloud_notm}} [Notification distribution list page](/account/notifications-distribution-list){: external} provides a way for you to specify a set of email addresses or webhooks to set suitable destinations for notifications about account-wide events.
+The IBM Cloud [Notification distribution list page](/account/notifications-distribution-list){: external} provides a way for you to specify a set of email addresses or webhooks to set suitable destinations for notifications about account-wide events.
 {: shortdesc}
 
-You can manage the notification distribution list by using the {{site.data.keyword.cloud_notm}} console. You can create a list of up to 10 email addresses can receive notifications. Emails that are added to the distribution list are notified about any event that is affecting the account. You must have the editor role or higher on the account management service to add email addresses to the distribution list. For more information, see [Assigning access to account management services](/docs/iam?topic=iam-account-services).
+You can manage the notification distribution list by using the IBM Cloud console. You can create a list of up to 10 email addresses can receive notifications. Emails that are added to the distribution list are notified about any event that is affecting the account. You must have the editor role or higher on the account management service to add email addresses to the distribution list. For more information, see [Assigning access to account management services](/docs/iam?topic=iam-account-services).
 
 Email addresses that are added to the distribution list by the account owner receive notifications about any incident, maintenance, announcement, or security bulletin that appears on the account owner's [Notifications page](/notifications){: external}.
 
@@ -29,11 +29,11 @@ In addition to adding email addresses, you can also add up to 10 webhooks to a d
 
 To add emails to a notification distribution list, complete the following steps:
 
-1. Using the {{site.data.keyword.cloud_notm}} console, go to **Manage** > **Account** > **Notification distribution list**.
+1. Using the IBM Cloud console, go to **Manage** > **Account** > **Notification distribution list**.
 2. Select **Add** > **Email**.
 3. Enter a name and an email address.
 
-    You can add up to 10 email addresses to the distribution list. Email addresses don't need to correspond to known users in {{site.data.keyword.cloud_notm}}, you can add any type.
+    You can add up to 10 email addresses to the distribution list. Email addresses don't need to correspond to known users in IBM Cloud, you can add any type.
     {: note}
 
 4. Click **Add**.
@@ -43,24 +43,24 @@ To add emails to a notification distribution list, complete the following steps:
 
 To unsubscribe from the distribution list, use the link in the footer of any email that is sent from the distribution list.
 
-## Enabling {{site.data.keyword.en_short}} for the notification distribution list
+## Enabling Event Notifications for the notification distribution list
 {: #event-notifications-distribution-list}
 
-With {{site.data.keyword.en_full}}, you can choose to deliver your notifications to different destinations, including email, SMS, or webhooks. {{site.data.keyword.en_short}} is an alternative to the notification distribution list. It provides a way for you to be notified about critical events that occur in your account, and manage your notifications at scale. For more information, see [Getting started with Event Notifications](/docs/event-notifications?topic=event-notifications-getting-started).
+With IBM Cloud&reg; Event Notifications, you can choose to deliver your notifications to different destinations, including email, SMS, or webhooks. Event Notifications is an alternative to the notification distribution list. It provides a way for you to be notified about critical events that occur in your account, and manage your notifications at scale. For more information, see [Getting started with Event Notifications](/docs/event-notifications?topic=event-notifications-getting-started).
 
-When an event of interest occurs on the {{site.data.keyword.cloud_notm}} platform and an event is generated, the notification distribution list communicates with a connected {{site.data.keyword.en_short}} instance to forward a notification to the supported destination. For more information about supported {{site.data.keyword.en_short}} destinations, see [Event destinations](/docs/event-notifications?topic=event-notifications-en-destinations-push).
+When an event of interest occurs on the IBM Cloud platform and an event is generated, the notification distribution list communicates with a connected Event Notifications instance to forward a notification to the supported destination. For more information about supported Event Notifications destinations, see [Event destinations](/docs/event-notifications?topic=event-notifications-en-destinations-push).
 
 ### Events for notifications
 {: #events-for-notifications}
 
-The following table lists the event types that the Notifications service sends to {{site.data.keyword.en_short}}:
+The following table lists the event types that the Notifications service sends to Event Notifications:
 
 | Event name         | Event type                                                | Description |
 |--------------------|-----------------------------------------------------------|-------------|
-| Maintenance        | `com.ibm.cloud.notificationapi.maintenance`               | Scheduled maintenance that is required to keep the {{site.data.keyword.cloud_notm}} platform and infrastructure operating at optimal status.  |
+| Maintenance        | `com.ibm.cloud.notificationapi.maintenance`               | Scheduled maintenance that is required to keep the IBM Cloud platform and infrastructure operating at optimal status.  |
 | Incident           | `com.ibm.cloud.notificationapi.incident`                  | Unexpected impacting events that can cause an outage or restrict functionality.  |
 | Security bulletins | `com.ibm.cloud.notificationapi.security_bulletins`        | Announcements about security vulnerabilities and the required actions. |
-| Announcements      | `com.ibm.cloud.notificationapi.announcements`             | Updates on new infrastructure features and services on {{site.data.keyword.cloud_notm}}.      |
+| Announcements      | `com.ibm.cloud.notificationapi.announcements`             | Updates on new infrastructure features and services on IBM Cloud.      |
 | Resource           | `com.ibm.cloud.notificationapi.resource`                  | Updates on resource activities.         |
 | Billing and usage  | `com.ibm.cloud.notificationapi.billing_and_usage` | Updates on billing and usage rates. |
 {: class="simple-tab-table"}
@@ -78,37 +78,37 @@ The following table lists the event types that the Notifications service sends t
 {: tab-title="Subtype events"}
 {: tab-group="events-by-notifications"}
 
-### Adding an {{site.data.keyword.en_short}} instance to the notification distribution list
+### Adding an Event Notifications instance to the notification distribution list
 {: #event-notifications-add-ui}
 
-Before you can add any {{site.data.keyword.en_short}} instance to the notification distribution list, make sure that you already have an [{{site.data.keyword.en_short}} service instance](/catalog/services/event-notifications){: external} that is in the same account as the distribution list.
-If you don't have an {{site.data.keyword.en_short}} service instance, see [Getting started with Event Notifications](/docs/event-notifications?topic=event-notifications-getting-started).
-To add an existing {{site.data.keyword.en_short}} service instance to the notification distribution list, complete the following steps:
+Before you can add any Event Notifications instance to the notification distribution list, make sure that you already have an [Event Notifications service instance](/catalog/services/event-notifications){: external} that is in the same account as the distribution list.
+If you don't have an Event Notifications service instance, see [Getting started with Event Notifications](/docs/event-notifications?topic=event-notifications-getting-started).
+To add an existing Event Notifications service instance to the notification distribution list, complete the following steps:
 
-1. Using the {{site.data.keyword.cloud_notm}} console, go to **Manage** > **Account** > **Notification distribution list**.
-1. Click **Add** > **{{site.data.keyword.en_short}}**.
-1. Select an {{site.data.keyword.en_short}} service instance from the {{site.data.keyword.en_short}} instance list. If you don't have an {{site.data.keyword.en_short}} service instance that you can connect to your account, you can create one in the [{{site.data.keyword.cloud_notm}} catalog](/catalog/services/event-notifications){: external}.
+1. Using the IBM Cloud console, go to **Manage** > **Account** > **Notification distribution list**.
+1. Click **Add** > **Event Notifications**.
+1. Select an Event Notifications service instance from the Event Notifications instance list. If you don't have an Event Notifications service instance that you can connect to your account, you can create one in the [IBM Cloud catalog](/catalog/services/event-notifications){: external}.
 1. Click **Add**.
 
-You cannot add an {{site.data.keyword.en_short}} service instance to the notification distribution list that is already configured.
+You cannot add an Event Notifications service instance to the notification distribution list that is already configured.
 {: note}
 
-### Sending test notifications to an {{site.data.keyword.en_short}} instance
+### Sending test notifications to an Event Notifications instance
 {: #send-test-notifications-en}
 
-After you added an {{site.data.keyword.en_short}} instance to your notification distribution list, you can test it out to make sure that the events that are generated by the Notifications service are being forwarded to that instance.
+After you added an Event Notifications instance to your notification distribution list, you can test it out to make sure that the events that are generated by the Notifications service are being forwarded to that instance.
 
-Complete the following steps to send a test notification to an {{site.data.keyword.en_short}} instance:
+Complete the following steps to send a test notification to an Event Notifications instance:
 
-1. In the {{site.data.keyword.cloud_notm}} console, go to **Manage > Account > Notification distribution list**.
-1. Select the {{site.data.keyword.en_short}} instance that you want to send a test notification to, and click the **Actions** icon ![Actions](../icons/action-menu-icon.svg "Actions") > **Test**.
+1. In the IBM Cloud console, go to **Manage > Account > Notification distribution list**.
+1. Select the Event Notifications instance that you want to send a test notification to, and click the **Actions** icon ![Actions](../icons/action-menu-icon.svg "Actions") > **Test**.
 1. Select the notification event type that you want to test, and then click **Send test**.
     1. To resend the test notification, click **Resend test**.
 
 ### Notification payload details
 {: #notification-payload}
 
-When an {{site.data.keyword.en_short}} instance is added to your account’s distribution list and the account receives a notification, a notification payload is sent to that {{site.data.keyword.en_short}} instance. The payload object properties are the same for all event types. See the following payload example that contains detailed information about a maintenance event for sending a test notification:
+When an Event Notifications instance is added to your account’s distribution list and the account receives a notification, a notification payload is sent to that Event Notifications instance. The payload object properties are the same for all event types. See the following payload example that contains detailed information about a maintenance event for sending a test notification:
 
 ```json
 {
@@ -152,13 +152,13 @@ When an {{site.data.keyword.en_short}} instance is added to your account’s dis
 ```
 {: codeblock}
 
-Review the following table for more information about the notification's payload properties for {{site.data.keyword.en_short}}.
+Review the following table for more information about the notification's payload properties for Event Notifications.
 
 | Property          | Description                                                                                      |
 |-------------------|--------------------------------------------------------------------------------------------------|
-| `instanceId`      | The service-instance value of the {{site.data.keyword.en_short}} instance from the `source` property. |
+| `instanceId`      | The service-instance value of the Event Notifications instance from the `source` property. |
 | `id`              | The notification ID.                                                                              |
-| `source`          | The identifier of the source of where the event occurred. In this case, `notification-api` triggers the event to a specific account's {{site.data.keyword.en_short}} instance. This is represented by a unique cloud resource name (CRN) as follows:  \n `crn:<version>:<cname>:<ctype>:notificationapi:<location>:a/<scope>:<instanceId>::`                               |
+| `source`          | The identifier of the source of where the event occurred. In this case, `notification-api` triggers the event to a specific account's Event Notifications instance. This is represented by a unique cloud resource name (CRN) as follows:  \n `crn:<version>:<cname>:<ctype>:notificationapi:<location>:a/<scope>:<instanceId>::`                               |
 | `ibmenseverity`   | The level of severity of the event. Only maintenance and incident events could have a non-empty severity value.  \n  \n Maintenance events can have non empty values: `high_impact`, `medium_impact` or `low_impact`.  \n Incident events can have non empty severity values: `sev1`, `sev2`, `sev3`,`sev4`.                                                               |
 | `severity`          | Same as the `ibmseverity` property.                                                           |
 | `type`              | The event type created.                          |
@@ -168,17 +168,17 @@ Review the following table for more information about the notification's payload
 | `ibmensmstext`      | Returns a single string composed of the title and any of these properties if they exist: `sourceID`, `component`, `region`, `category`, `severity`. |
 | `ibmensubject`      | Returns the title of the notification along with the severity level.          |
 | `ibmenhtmlbody`     | The HTML body of the notification.                                                               |
-| `specversion`       | The version of CloudEvents specification that {{site.data.keyword.en_short}} supports.           |
+| `specversion`       | The version of CloudEvents specification that Event Notifications supports.           |
 | `datacontenttype`   | The MIME type of the data content.                                                               |
 | `data`              | A notification object that contains the metadata about the notification event. Every event type has the same data properties. This consists of the `sourceID`, `category`, `severity`, `crnMasks`, `startTime`, `endTime`, `title`, and `body`.  \n  \n `sourceID`: a special identifier that contains the prefix of the system that is used to create the notification, as well as a unique value. It is not related to the `source` property found in the payload.  \n `category`: The type of notification sent (same as the event name).  \n `severity`: Number to represent the severity level. For a maintenance event type, the values are one of `[1,2,3]`. For an incident event type, the values are one of `[1,2,3,4]`. For other event types, the value is `""`.  \n `crnMasks`: An array of CRNs that represent a list of affected service types and regions (not specific instances).  \n `startTime`: The start time of the event in Unix time. Only the billing and usage event type has a value of `""`.  \n `endTime`: The end time of the event in Unix time. Only billing and usage, and resource event types have a value of `""`.  \n `title`: An array of titles, with their associated language.  \n `body`: Array that contains the body of the notification, one object for each available language. |
 {: caption="Detailed information about notification payload properties" caption-side="bottom"}
 
-### Deleting an {{site.data.keyword.en_short}} instance
+### Deleting an Event Notifications instance
 {: #event-notifications-delete}
 
-You can delete any {{site.data.keyword.en_short}} instance that you added to the notification distribution list by completing the following steps:
+You can delete any Event Notifications instance that you added to the notification distribution list by completing the following steps:
 
-1. Select the {{site.data.keyword.en_short}} service instance that you want to delete from the notification distribution list, and click the **Actions** icon ![Actions](../icons/action-menu-icon.svg "Actions").
+1. Select the Event Notifications service instance that you want to delete from the notification distribution list, and click the **Actions** icon ![Actions](../icons/action-menu-icon.svg "Actions").
 1. Click **Delete**.
 
 ## Adding webhooks to a distribution list
@@ -186,7 +186,7 @@ You can delete any {{site.data.keyword.en_short}} instance that you added to the
 
 To add webhooks to a distribution list, complete the following steps:
 
-1. Go to **Manage** > **Account** > **Notification distribution list** in the {{site.data.keyword.cloud}} console.
+1. Go to **Manage** > **Account** > **Notification distribution list** in the IBM Cloud&reg; console.
 1. Click **Add**, and select **Add webhook**.
 1. Enter a name identifier for your webhook and an endpoint URL, where the notifications about events are being sent when the webhook is triggered. Set up the URL that will be your own custom endpoint.
 
@@ -195,7 +195,7 @@ To add webhooks to a distribution list, complete the following steps:
 
    If you no longer want to receive notifications, you can easily delete your webhook from the distribution list by clicking the **Actions** icon ![Actions icon](../icons/action-menu-icon.svg "Actions") > **Delete** in your webhook's row.
 
-   You can select which {{site.data.keyword.cloud_notm}} account you use by clicking the account switcher in the console. Users in the selected account receive notifications about any events that affect the account.
+   You can select which IBM Cloud account you use by clicking the account switcher in the console. Users in the selected account receive notifications about any events that affect the account.
    {: note}
 
 When you receive a notification through a webhook, a payload is being sent to your given webhook endpoint (URL), and informs you about all the details of an occurring event. See the following example:
@@ -262,7 +262,7 @@ The following descriptions provide information about the field values that are b
 
 `category`: The type of the event. This can be incident, maintenance, announcement, or security bulletins.
 
-`componentNames`: If a service is impacted, this field represents it. This can also be a global value like `Component: IBM Cloud`, not only a specific service. See the services on the [{{site.data.keyword.cloud_notm}} catalog page](/catalog#services){: external}.
+`componentNames`: If a service is impacted, this field represents it. This can also be a global value like `Component: IBM Cloud`, not only a specific service. See the services on the [IBM Cloud catalog page](/catalog#services){: external}.
 
 `regions`: This field shows you the location of the event.
 
@@ -335,7 +335,7 @@ If you are ready with the previous steps and have a configured webhook, you can 
 
 Complete the following steps to send a test notification to a webhook:
 
-1. Go to **Manage** > **Account** > **Notification distribution list** in the {{site.data.keyword.cloud_notm}} console.
+1. Go to **Manage** > **Account** > **Notification distribution list** in the IBM Cloud console.
 1. Select the webhook that you would like to send a test notification to, and click the **Actions** icon ![Actions](../icons/action-menu-icon.svg "Actions").
 1. Click **Test** > **Send test**.
 1. To resend the test notification, click **Resend test**.
@@ -343,26 +343,26 @@ Complete the following steps to send a test notification to a webhook:
 ## Adding Slack webhooks to a distribution list
 {: #add-slack-webhook}
 
-You can add Slack webhooks to your distribution list and receive account-wide {{site.data.keyword.cloud_notm}} notifications through them.
+You can add Slack webhooks to your distribution list and receive account-wide IBM Cloud notifications through them.
 
 To create a webhook, first set up an app in Slack and create the incoming webhook, which provides the unique URL where you can send the notification message text in the form of a JSON payload. You will receive the notifications in the selected Slack channel in which you installed your app. For more information, see [Sending messages using Incoming Webhooks](https://docs.slack.dev/messaging/sending-messages-using-incoming-webhooks/){: external}.
 
-To add a Slack webhook in the {{site.data.keyword.cloud_notm}} console, complete the following steps:
+To add a Slack webhook in the IBM Cloud console, complete the following steps:
 
-1. Go to **Manage** > **Account** > **Notification distribution list** in the {{site.data.keyword.cloud_notm}} console.
+1. Go to **Manage** > **Account** > **Notification distribution list** in the IBM Cloud console.
 1. Click **Add**, and select **Slack**.
 1. Enter a name for your webhook and a Slack webhook URL. The notifications are sent to this unique URL.
 
 ## Adding Microsoft Teams webhooks to a distribution list
 {: #add-microsoft-teams-webhook}
 
-Adding Microsoft Teams webhooks to your distribution list is also available for you to receive account-wide {{site.data.keyword.cloud_notm}} notifications.
+Adding Microsoft Teams webhooks to your distribution list is also available for you to receive account-wide IBM Cloud notifications.
 
-To create a webhook in the {{site.data.keyword.cloud_notm}} console, first create the incoming webhook in Microsoft Teams. This allows external apps to share content in Teams channels, and provides the unique URL where you can send the notification message text in the form of a JSON payload. You receive the notifications in the selected Teams channel in which you added the incoming webhook. For more information, see [Create Incoming Webhook](https://learn.microsoft.com/en-us/microsoftteams/platform/webhooks-and-connectors/how-to/add-incoming-webhook?tabs=dotnet){: external}.
+To create a webhook in the IBM Cloud console, first create the incoming webhook in Microsoft Teams. This allows external apps to share content in Teams channels, and provides the unique URL where you can send the notification message text in the form of a JSON payload. You receive the notifications in the selected Teams channel in which you added the incoming webhook. For more information, see [Create Incoming Webhook](https://learn.microsoft.com/en-us/microsoftteams/platform/webhooks-and-connectors/how-to/add-incoming-webhook?tabs=dotnet){: external}.
 
-To add a Microsoft Teams webhook in the {{site.data.keyword.cloud_notm}} console, complete the following steps:
+To add a Microsoft Teams webhook in the IBM Cloud console, complete the following steps:
 
-1. Go to **Manage** > **Account** > **Notification distribution list** in the {{site.data.keyword.cloud_notm}} console.
+1. Go to **Manage** > **Account** > **Notification distribution list** in the IBM Cloud console.
 1. Click **Add**, and select **Microsoft Teams**.
 1. Enter a name for your webhook and a Microsoft Teams webhook URL. The notifications are sent to this unique URL.
 
@@ -373,6 +373,6 @@ Unlike Microsoft Teams and Slack webhook integrations, setting up a ServiceNow w
 
 First, you need to create a Scripted REST API on the ServiceNow website. After the Scripted REST API is configured, you also need to create a Scripted REST API Resource. The request method needs to be set to HTTP POST. Then, you need to provide a code for the resource to run.
 
-When you are ready with the process and have the URL for your Scripted REST API, you can start to use it on the **{{site.data.keyword.cloud_notm}} Notification distribution list** page and create webhooks.
+When you are ready with the process and have the URL for your Scripted REST API, you can start to use it on the **IBM Cloud Notification distribution list** page and create webhooks.
 
 To get to know the complete ServiceNow webhook integration process, follow the instructions in the [How to Integrate Webhooks Into ServiceNow](https://www.servicenow.com/community/in-other-news/how-to-integrate-webhooks-into-servicenow/ba-p/2271745){: external} blog post. This blog walks you through the steps in detail.
