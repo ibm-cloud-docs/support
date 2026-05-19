@@ -3,9 +3,9 @@
 copyright:
 
   years: 2015, 2026
-lastupdated: "2026-03-20"
+lastupdated: "2026-05-19"
 
-keywords: spending notification, spending alert, cost threshold, spending threshold, service notifications, preset notifications, notification,
+keywords: IBM Cloud spending notification, spending alert, cost threshold, spending threshold, service notifications, preset notifications, notification, email notifications
 
 subcollection: support
 
@@ -13,12 +13,12 @@ subcollection: support
 
 {{site.data.keyword.attribute-definition-list}}
 
-# Setting spending notifications
+# Configuring spending notifications in IBM Cloud
 {: #spending}
 {: help}
 {: support}
 
-If you have an {{site.data.keyword.cloud}} Pay-As-You-Go or Subscription account, you can set up email spending notifications. Now, in addition to account owners, any user on the account with the editor role or higher on the billing service can set spending notifications. You can enable spending notifications for total account, container, and service spending, or add spending for individual services, including third-party services. 
+Learn how to set up email spending notifications for your IBM Cloud Pay-As-You-Go or Subscription account, including total account and specific service spending.
 {: shortdesc}
 
 You receive notifications when you reach 80%, 90%, and 100% of the spending thresholds that you specify. As your needs change, you can edit the spending threshold. If you're interested, you can use our latest enhancement to select up to 10 users from your account to receive notifications about the service.

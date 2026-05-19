@@ -3,9 +3,9 @@
 copyright:
 
   years: 2021, 2026
-lastupdated: "2026-04-20"
+lastupdated: "2026-05-19"
 
-keywords: access to cases, get access for cases, assign cases, assign access, access support center
+keywords: IBM Cloud support cases, access to cases, get access for cases, assign cases, assign access, access support center, IAM policies
 
 subcollection: support
 
@@ -13,10 +13,10 @@ subcollection: support
 
 {{site.data.keyword.attribute-definition-list}}
 
-# Managing access to support cases
+# Managing access to IBM Cloud support cases
 {: #access-cases}
 
-By default, users in your account don't have access to create, update, search, or view cases. The account owner must provide users access by assigning an Identity and Access Management (IAM) access policy. Use the Support Center account management service to assign users access to work with support cases.
+Learn how to manage access to support cases in IBM Cloud by assigning Identity and Access Management (IAM) policies to users and access groups.
 {: shortdesc}
 
 When you create a case, you can give other users full access to that case by adding their email to the **Add another person to this case** field. Any added users have access to view, edit, and update only that case in the account. They also receive notifications when the case is updated.

@@ -3,9 +3,9 @@
 copyright:
 
   years: 2019, 2026
-lastupdated: "2026-04-20"
+lastupdated: "2026-05-19"
 
-keywords: support, support case, premium support, advanced support, basic support, support page, help, support agent, speak with agent, connect to agent, live agent, chat with human agent, talk to an agent
+keywords: IBM Cloud support center, support case, premium support, advanced support, basic support, support page, help, support agent, AI assistant, technical support
 
 subcollection: support
 
@@ -13,10 +13,10 @@ subcollection: support
 
 {{site.data.keyword.attribute-definition-list}}
 
-# Using the Support Center
+# Getting help with IBM Cloud: Using the Support Center
 {: #using-avatar}
 
-If you experience problems with {{site.data.keyword.Bluemix}}, you have several options to get help with determining the cause of the problem and finding a solution. If you're logged in, you can go directly to the [Support center](/unifiedsupport/supportcenter){: external} to review your product topics and featured FAQs, open or manage a support case, or search community content. Alternatively, you can use the [{{site.data.keyword.cloud_notm}} AI assistant](/docs/overview?topic=overview-ask-ai-assistant) to quickly get answers to your questions.
+Learn how to access the IBM Cloud Support Center, create and manage support cases, and access self-help resources like getting help with technical issues by using the IBM Cloud AI assistant.
 {: shortdesc}
 
 If you can't log in to your account, start a chat by going to the [{{site.data.keyword.cloud_notm}} Support](https://www.ibm.com/products/cloud/support){: external} page and clicking **Contact us**. Or you can complete the [Create an Account, Login, or Billing Request form](https://watson.service-now.com/x_ibmwc_open_case_app.do#!/create).

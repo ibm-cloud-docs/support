@@ -3,9 +3,9 @@
 copyright:
 
   years: 2019, 2026
-lastupdated: "2026-05-14"
+lastupdated: "2026-05-19"
 
-keywords: error messages, errors, platform errors, message ID
+keywords: IBM Cloud error messages, errors, platform errors, message ID, troubleshooting, error resolution
 
 subcollection: support
 
@@ -13,10 +13,10 @@ subcollection: support
 
 {{site.data.keyword.attribute-definition-list}}
 
-# {{site.data.keyword.cloud_notm}} error messages
+# Resolving IBM Cloud error messages and troubleshooting issues
 {: #bxn-error-messages}
 
-When you receive an error message from {{site.data.keyword.Bluemix}}, you can use the message ID to find more information about how to resolve the problem.
+Learn how to resolve IBM Cloud error messages by using the message ID to find more information about the problem and its solution.
 {: shortdesc}
 
 ## BXNUI0001E

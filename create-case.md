@@ -3,9 +3,9 @@
 copyright:
 
   years: 2019, 2026
-lastupdated: "2026-04-20"
+lastupdated: "2026-05-19"
 
-keywords: create case, open case, start case, raise ticket
+keywords: IBM Cloud support case, create support case, open support ticket, technical support, customer support, support ticket, access issues, billing support
 
 subcollection: support
 
@@ -13,10 +13,10 @@ subcollection: support
 
 {{site.data.keyword.attribute-definition-list}}
 
-# Creating support cases
+# Creating support cases in IBM Cloud
 {: #open-case}
 
-If you experience problems with {{site.data.keyword.cloud}}, you can use the [Support Center](/unifiedsupport/supportcenter){: external} to create a support case. You can create cases for issues that are associated with access (IAM), billing and usage, account, and invoice or sales inquiries. Users with an Advanced or Premium support plan can also create a case for technical support.
+Learn how to create support cases for IBM Cloud issues related to access, billing, account, and technical support with an advanced or premium plan.
 {: shortdesc}
 
 If your account is deactivated or if you don't have access to your account, you can create a support case by completing the [Create an Account, Login or Billing Request](https://watson.service-now.com/x_ibmwc_open_case_app.do#!/create) form.
@@ -59,7 +59,7 @@ IBM support cases can also be opened in the cloud console as well as in the [IBM
 {: note}
 
 ### Adding a resource to a support case
-{: #adding-case-resource} 
+{: #adding-case-resource}
 {: ui}
 
 Users with a support plan that includes technical support assistance can add a specific resource or product to a case. Adding a cloud resource name (CRN) to a support case allows for a more efficient triage, investigation, and resolution.

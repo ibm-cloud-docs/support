@@ -3,9 +3,9 @@
 copyright:
 
   years: 2019, 2026
-lastupdated: "2026-04-20"
+lastupdated: "2026-05-19"
 
-keywords: manage case, open case, update case, escalate case
+keywords: managing support cases, IBM Cloud support, case management, update support ticket, view case status, resolve support case, case severity, close support ticket, reopen case
 
 subcollection: support
 
@@ -13,10 +13,10 @@ subcollection: support
 
 {{site.data.keyword.attribute-definition-list}}
 
-# Managing your support cases
+# Managing your IBM Cloud support cases effectively
 {: #managing-support-cases}
 
-Each support case is assigned a unique number and severity level based on the details in the case description. You can use the case number to track the progress of your reported issue, leave feedback, or update the support case. Updates and feedback are recorded in the case notes, which you can find by selecting the specific support case. You can also add users in your account to a watchlist so they can receive alerts about a case. For more information, see [Updating your support case's watchlist](/docs/support?topic=support-managing-support-cases#contact-watchlist).
+Learn how to manage your IBM Cloud support cases, including tracking progress, updating cases, and managing watchlists for effective issue resolution.
 {: shortdesc}
 
 To view and manage your support cases, go to the [Manage cases page](/unifiedsupport/cases).  If you're a classic infrastructure user, and you don't see a listing of a previous case, click **View classic infrastructure cases**. You can also get a quick view of your 5 most recently updated open cases by typing `case status` in the [{{site.data.keyword.cloud_notm}} AI assistant](/docs/overview?topic=overview-ask-ai-assistant#support-case-status).

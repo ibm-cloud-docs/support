@@ -3,9 +3,9 @@
 copyright:
 
   years: 2019, 2026
-lastupdated: "2026-04-20"
+lastupdated: "2026-05-19"
 
-keywords: cir, impacting event, services, advanced customer support
+keywords: IBM Cloud CIR, customer incident report, impacting event, services, advanced customer support, service disruption
 
 subcollection: support
 
@@ -13,10 +13,10 @@ subcollection: support
 
 {{site.data.keyword.attribute-definition-list}}
 
-# Customer Incident Report
+# Understanding Customer Incident Reports in IBM Cloud
 {: #cir}
 
-{{site.data.keyword.Bluemix}} works hard to maintain high availability of infrastructure and cloud services. If you're impacted by any event that disrupts your service delivery, a Customer Incident Report (CIR) can be provided. A CIR provides information about how services are impacted and how an issue is getting resolved.
+Learn how IBM Cloud provides customer incident reports (CIRs) for service disruptions, including details on requesting and receiving CIRs for impactful events.
 {: shortdesc}
 
 After you create a support case, you can view updates about your impacting event from the Manage cases page. For more information, see [Managing your support cases](/docs/support?topic=support-managing-support-cases). If the scope of an impacting event is of a broader enterprise-wide scope, a CIR is provided upon request.

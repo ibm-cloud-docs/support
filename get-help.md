@@ -2,9 +2,9 @@
 
 copyright:
   years: 2026, 2026
-lastupdated: "2026-04-20"
+lastupdated: "2026-05-19"
 
-keywords:
+keywords: IBM Cloud support, get help, technical support, customer support, support resources, troubleshooting, FAQs, support case
 
 subcollection: support
 
@@ -14,10 +14,10 @@ subcollection: support
 
 
 
-# Getting help and support for IBM Cloud
+# Getting help and support for issues in IBM Cloud
 {: #help-and-support}
 
-If you experience an issue or have questions when working in IBM Cloud, you can use the following resources before you open a support case.
+Find resources to resolve issues and get help with IBM Cloud, including FAQs, troubleshooting, and support case creation.
 {: shortdesc}
 
 * Ask a question in the [AI assistant](/docs/overview?topic=overview-ask-ai-assistant) from the console or the {{site.data.keyword.cloud_notm}} CLI.

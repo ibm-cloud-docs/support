@@ -3,9 +3,9 @@
 copyright:
 
   years: 2015, 2026
-lastupdated: "2026-04-20"
+lastupdated: "2026-05-19"
 
-keywords: cloud status, view cloud status, planned maintenance, RSS feed, unfied notifications, iaas notifications, classic infrastructure notifications, incident reports, MZR, private MZR
+keywords: IBM Cloud status, view cloud status, planned maintenance, RSS feed, unified notifications, iaas notifications, classic infrastructure notifications, incident reports, MZR, private MZR, security bulletins
 
 subcollection: support
 
@@ -13,10 +13,10 @@ subcollection: support
 
 {{site.data.keyword.attribute-definition-list}}
 
-# Viewing cloud status
+# Checking IBM Cloud status and notifications
 {: #viewing-status}
 
-The {{site.data.keyword.cloud_notm}} [Status page](/status){: external} is the central place to find details about major incidents that affect the {{site.data.keyword.Bluemix}} platform and services. Other incidents, planned maintenance, announcements, release notes, and security bulletins are posted on the Notifications page, where you can easily view them.
+Learn how to view IBM Cloud status, including major incidents, planned maintenance, and security bulletins, and manage your notification preferences in the IBM Cloud console.
 {: shortdesc}
 
 To get notified about key events that are specifically affecting your account, go to the [Notifications page](/notifications){: external}. You can easily update your preferences by clicking **Manage email preferences**.

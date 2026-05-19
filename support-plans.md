@@ -3,9 +3,9 @@
 copyright:
 
   years: 2015, 2026
-lastupdated: "2026-04-30"
+lastupdated: "2026-05-19"
 
-keywords: basic support, advanced support, premium support, support plans, free technical support, response time
+keywords: IBM Cloud support plans, basic support, advanced support, premium support, cloud support, IBM Cloud sales, technical support, response time
 
 subcollection: support
 
@@ -13,10 +13,10 @@ subcollection: support
 
 {{site.data.keyword.attribute-definition-list}}
 
-# Support plans
+# Comparing IBM Cloud support plans: Basic, Advanced, and Premium plan options
 {: #support-plans}
 
-{{site.data.keyword.cloud_notm}} offers Basic, Advanced, and Premium support plans to meet your business needs. The support plan that you select determines the severity levels that you can assign to support cases, your response time objectives, and your access to Support Center tools. To upgrade your support plan, contact [{{site.data.keyword.cloud_notm}} Sales](https://www.ibm.com/solutions/cloud?contactmodule){: external}.
+Discover IBM Cloud's support plans, including Basic, Advanced, and Premium options, designed to meet your business needs with varying levels of technical support and response times.
 {: shortdesc}
 
 Initial response Service Level Objectives (SLO) do not apply to billing, invoice, sales, or account-related cases.

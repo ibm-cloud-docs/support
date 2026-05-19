@@ -3,9 +3,9 @@
 copyright:
 
   years: 2019, 2026
-lastupdated: "2026-04-30"
+lastupdated: "2026-05-19"
 
-keywords: support costs, support subscriptions, support credit, support
+keywords: IBM Cloud support costs, support subscriptions, support credit, support, track support costs, monthly support costs
 
 subcollection: support
 
@@ -13,10 +13,10 @@ subcollection: support
 
 {{site.data.keyword.attribute-definition-list}}
 
-# Viewing your support costs
+# Tracking your IBM Cloud support costs and subscriptions
 {: #support}
 
-If you have Advanced or Premium support, you can keep track of your monthly support costs from the Support costs page in the {{site.data.keyword.Bluemix}} console.
+Learn how to view your monthly IBM Cloud support costs and manage your support subscriptions in the IBM Cloud console, including costs for Advanced and Premium support plans and additional costs based on your resource usage.
 {: shortdesc}
 
 ## How you're charged for support

@@ -3,9 +3,9 @@
 copyright:
 
   years: 2019, 2026
-lastupdated: "2026-04-20"
+lastupdated: "2026-05-19"
 
-keywords: notifications, view notifications, set notifications, iaas notifications, notification icon, header bell, bell icon, email notification history, communication history
+keywords: IBM Cloud notifications, view notifications, set notifications, iaas notifications, notification icon, header bell, bell icon, email notification history, communication history, console notifications
 
 subcollection: support
 
@@ -13,10 +13,10 @@ subcollection: support
 
 {{site.data.keyword.attribute-definition-list}}
 
-# Viewing notifications
+# Accessing IBM Cloud notifications in the console
 {: #viewing-notifications}
 
-Access essential account information by clicking the **Notifications** icon ![Notification icon "Notifications"](../icons/Notification.svg) in the console menu bar. To help you stay up to date with the latest announcements, maintenance plans, and other impacts to your account experience, a visual indicator is displayed next to the icon when a new notification is available.
+Learn how to view essential account information and stay updated with the latest announcements and maintenance plans by clicking the **Notifications** icon ![Notification icon "Notifications"](../icons/Notification.svg) in the console menu bar to view the Notifications page.
 {: shortdesc}
 
 Notifications are scoped to the specific account in which you are working. Use the list of accounts that's displayed in the console menu bar to view notifications related to other accounts you have access to.
@@ -89,7 +89,7 @@ You can directly go to the maintenance notification page through [{{site.data.ke
 
 {{site.data.keyword.cloud_notm}} tries to limit disruptive, required maintenance for Platform as a Service (PaaS), Infrastructure as a Service (IaaS), and Software as a Service offerings. Most maintenance is done in a nondisruptive manner to avoid the impact to your business, but when disruptive maintenance is necessary, we provide as much advanced notice as possible.
 
-### Iaas
+### IaaS
 {: #iaas-offering}
 
 For IaaS offerings, {{site.data.keyword.cloud_notm}} provides advanced notice that's dependent on the severity of the impact. The following table defines the types and levels of the possibility of an impact.

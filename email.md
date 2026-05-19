@@ -3,9 +3,9 @@
 copyright:
 
   years: 2019, 2026
-lastupdated: "2026-04-20"
+lastupdated: "2026-05-19"
 
-keywords: platform notifications, email notifications, IBM Cloud notifications, notification preferences, email preferences, user notifications, infrastructure notifications
+keywords: IBM Cloud notifications, email notifications, notification preferences, email preferences, user notifications, infrastructure notifications, platform notifications, resource notifications
 
 subcollection: support
 
@@ -13,10 +13,10 @@ subcollection: support
 
 {{site.data.keyword.attribute-definition-list}}
 
-# Setting email preferences for notifications
+# Configuring email preferences for IBM Cloud notifications
 {: #email-prefs}
 
-{{site.data.keyword.cloud}} users can choose to receive email notifications about {{site.data.keyword.cloud_notm}} platform-related items, such as announcements, billing and usage, additional notification preferences, and ordering. Users can also update their preferences to receive email notifications about resource-related items, such as incidents, maintenance, security bulletins, or resource activity on the [Notification preferences page](/user/notifications){: external}. These notifications are for only the resources in use.
+Learn how to set email preferences for IBM Cloud notifications, including platform-related and resource-related notifications, and manage your notification settings in the IBM Cloud console.
 {: shortdesc}
 
 To view the Notifications preferences page, go to the **Avatar** icon ![Avatar icon](../icons/i-avatar-icon.svg "Avatar") in the {{site.data.keyword.cloud_notm}} console, and then click **Profile > Notification preferences**.
