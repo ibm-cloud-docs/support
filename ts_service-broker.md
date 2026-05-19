@@ -3,9 +3,9 @@
 copyright:
 
   years: 2015, 2026
-lastupdated: "2026-05-18"
+lastupdated: "2026-05-19"
 
-keywords: help managing cases, resolve issues managing cases, trouble working with cases, support center, help support center, resolve issues support center, help getting support, help support
+keywords: IBM Cloud support case, create support case, edit support case, IAM policies, support center, help support center, resolve issues support center, help getting support
 
 subcollection: support
 
@@ -15,10 +15,11 @@ content-type: troubleshoot
 
 {{site.data.keyword.attribute-definition-list}}
 
-# Why can't I create or edit support cases?
+# Troubleshooting IBM Cloud support case creation and editing issues
 {: #ts-edit-case}
+{: troubleshoot}
 
-You can't create or edit an IBM Cloud support case, and you receive an error message that you don't have the appropriate access.
+Resolve issues with creating or editing IBM Cloud support cases due to access restrictions and learn how to assign necessary IAM policies.
 {: shortdesc}
 
 When you try to create a case, the following error message is displayed:
@@ -37,7 +38,7 @@ The account owner, an administrator on the support center service, or the admini
 
 If you're the account owner or an administrator of the Support Center, complete the following steps to create an access policy for working with support cases:
 
-1. In the IBM Cloud console, go to **Manage** > **Access (IAM)** and select **Users**.
+1. In the {{site.data.keyword.cloud_notm}} console, go to **Manage** > **Access (IAM)** and select **Users**.
 1. Select a username, and click **Access policies**.
 1. Click **Assign Access**.
 1. From the Assign users additional access section, select **Account management**.

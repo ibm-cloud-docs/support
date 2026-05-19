@@ -3,9 +3,9 @@
 copyright:
 
   years: 2019, 2026
-lastupdated: "2026-05-18"
+lastupdated: "2026-05-19"
 
-keywords: cir, impacting event, services, advanced customer support
+keywords: IBM Cloud CIR, customer incident report, impacting event, services, advanced customer support, service disruption
 
 subcollection: support
 
@@ -13,10 +13,10 @@ subcollection: support
 
 {{site.data.keyword.attribute-definition-list}}
 
-# Customer Incident Report
+# Understanding Customer Incident Reports in IBM Cloud
 {: #cir}
 
-IBM Cloud&reg; works hard to maintain high availability of infrastructure and cloud services. If you're impacted by any event that disrupts your service delivery, a Customer Incident Report (CIR) can be provided. A CIR provides information about how services are impacted and how an issue is getting resolved.
+Learn how IBM Cloud provides customer incident reports (CIRs) for service disruptions, including details on requesting and receiving CIRs for impactful events.
 {: shortdesc}
 
 After you create a support case, you can view updates about your impacting event from the Manage cases page. For more information, see [Managing your support cases](/docs/support?topic=support-managing-support-cases). If the scope of an impacting event is of a broader enterprise-wide scope, a CIR is provided upon request.
@@ -25,9 +25,9 @@ After you create a support case, you can view updates about your impacting event
 ## Details about the Customer Incident Report (CIR)
 {: #details-customer-incident-report}
 
-A CIR is provided for broader, enterprise-level issues. They are updates that provide a Root Cause Analysis (RCA) which is the process for determining the underlying cause of a Customer Impacting Event (CIE). More loclized issues that don't affect IBM Cloud at an enterprise level don't provide an RCA or CIR. The Client Service Delivery team that mitigates the issue still provides updates, but they're not a formal RCA.
+A CIR is provided for broader, enterprise-level issues. They are updates that provide a Root Cause Analysis (RCA) which is the process for determining the underlying cause of a Customer Impacting Event (CIE). More loclized issues that don't affect {{site.data.keyword.cloud_notm}} at an enterprise level don't provide an RCA or CIR. The Client Service Delivery team that mitigates the issue still provides updates, but they're not a formal RCA.
 
-Broader enterprise-wide issues are events that typically impact multiple user environments or regions. Due to the scope and impact of enterprise issues, IBM Cloud requires a thorough RCA and the CIR is a summary report for the findings of the investigation.
+Broader enterprise-wide issues are events that typically impact multiple user environments or regions. Due to the scope and impact of enterprise issues, {{site.data.keyword.cloud_notm}} requires a thorough RCA and the CIR is a summary report for the findings of the investigation.
 
 RCA investigations are complex and involve program review, feedback from product specialists, multiple inter-related cloud services, and vendor discussions. If the CIR can't be delivered within the Service Level Objective (SLO), an interim CIR is provided within the five business day SLO. For more information about SLO, see [Case severity and initial response times](/docs/support?topic=support-support-case-severity).
 

@@ -3,9 +3,9 @@
 copyright:
 
   years: 2021, 2026
-lastupdated: "2026-05-18"
+lastupdated: "2026-05-19"
 
-keywords: access to cases, get access for cases, assign cases, assign access, access support center
+keywords: IBM Cloud support cases, access to cases, get access for cases, assign cases, assign access, access support center, IAM policies
 
 subcollection: support
 
@@ -13,10 +13,10 @@ subcollection: support
 
 {{site.data.keyword.attribute-definition-list}}
 
-# Managing access to support cases
+# Managing access to IBM Cloud support cases
 {: #access-cases}
 
-By default, users in your account don't have access to create, update, search, or view cases. The account owner must provide users access by assigning an Identity and Access Management (IAM) access policy. Use the Support Center account management service to assign users access to work with support cases.
+Learn how to manage access to support cases in IBM Cloud by assigning Identity and Access Management (IAM) policies to users and access groups.
 {: shortdesc}
 
 When you create a case, you can give other users full access to that case by adding their email to the **Add another person to this case** field. Any added users have access to view, edit, and update only that case in the account. They also receive notifications when the case is updated.
@@ -43,7 +43,7 @@ By default, users with a Support Center service role can access support cases th
 
 To streamline the access assignment process, you can take advantage of assigning a policy to users through access groups. Complete the following steps to create an access group with support center service access:
 
-1. In the IBM Cloud console, go to **Manage** > **Access (IAM)**, select **Access groups**, and click **Create**.
+1. In the {{site.data.keyword.cloud_notm}} console, go to **Manage** > **Access (IAM)**, select **Access groups**, and click **Create**.
 1. Enter an access group name and description, and click **Create**.
 1. Click **Actions...** > **Assign access**.
 1. Select **Support Center** from the list of services and click **Next**.
@@ -55,7 +55,7 @@ To streamline the access assignment process, you can take advantage of assigning
 
 When you give a user access, they might not have access to view all cases in an account. If the account owner sets the user list visibility setting to restricted, users can view only the cases that they create themselves. To ensure that a user can always view or edit all cases in the account, you must assign a second access policy with the viewer role on the User Management service. If you want to ensure that your users can view all support cases in the account, add a policy with the viewer role for the User Management service to your access group:
 
-1. In the IBM Cloud console, go to **Manage** > **Access (IAM)**, select **Access groups** and select the Group that you want to have access.
+1. In the {{site.data.keyword.cloud_notm}} console, go to **Manage** > **Access (IAM)**, select **Access groups** and select the Group that you want to have access.
 1. Click **Actions...** > **Assign access**.
 1. Select **User Management** from the list of services and click **Next**.
 1. Select the resources you want to assign access to and click **Next**.
@@ -67,7 +67,7 @@ When you give a user access, they might not have access to view all cases in an 
 
 You need to have an access group to add users to it. For more information about access groups, see [Streamlined access management with access groups](/docs/iam?topic=iam-groups). After you create the access group, complete the following steps to add users:
 
-1. In the IBM Cloud console, go to **Manage** > **Access (IAM)**, select **Access groups** and select the Group that you want to have access.
+1. In the {{site.data.keyword.cloud_notm}} console, go to **Manage** > **Access (IAM)**, select **Access groups** and select the Group that you want to have access.
 1. From the **Users** tab for your access group, click **Add users**.
 1. Select the user that you want to add and click **Add to group**.
 
@@ -76,7 +76,7 @@ You need to have an access group to add users to it. For more information about 
 
 Using access groups to assign the support center and user management services is the most efficient way for you to assign access, but you can also assign the same permissions to individual users. To assign permissions to an individual user, use the following steps:
 
-1. In the IBM Cloud console, go to **Manage** > **Access (IAM)**, and then select **Users**.
+1. In the {{site.data.keyword.cloud_notm}} console, go to **Manage** > **Access (IAM)**, and then select **Users**.
 1. Select the user.
 1. Select the **Access** tab, and click **Assign access**.
 1. Select **Support Center** from the list of services and click **Next**.

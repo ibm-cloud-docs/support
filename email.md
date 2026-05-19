@@ -3,9 +3,9 @@
 copyright:
 
   years: 2019, 2026
-lastupdated: "2026-05-18"
+lastupdated: "2026-05-19"
 
-keywords: platform notifications, email notifications, IBM Cloud notifications, notification preferences, email preferences, user notifications, infrastructure notifications
+keywords: IBM Cloud notifications, email notifications, notification preferences, email preferences, user notifications, infrastructure notifications, platform notifications, resource notifications
 
 subcollection: support
 
@@ -13,13 +13,13 @@ subcollection: support
 
 {{site.data.keyword.attribute-definition-list}}
 
-# Setting email preferences for notifications
+# Configuring email preferences for IBM Cloud notifications
 {: #email-prefs}
 
-IBM Cloud&reg; users can choose to receive email notifications about IBM Cloud platform-related items, such as announcements, billing and usage, additional notification preferences, and ordering. Users can also update their preferences to receive email notifications about resource-related items, such as incidents, maintenance, security bulletins, or resource activity on the [Notification preferences page](/user/notifications){: external}. These notifications are for only the resources in use.
+Learn how to set email preferences for IBM Cloud notifications, including platform-related and resource-related notifications, and manage your notification settings in the IBM Cloud console.
 {: shortdesc}
 
-To view the Notifications preferences page, go to the **Avatar** icon ![Avatar icon](../icons/i-avatar-icon.svg "Avatar") in the IBM Cloud console, and then click **Profile > Notification preferences**.
+To view the Notifications preferences page, go to the **Avatar** icon ![Avatar icon](../icons/i-avatar-icon.svg "Avatar") in the {{site.data.keyword.cloud_notm}} console, and then click **Profile > Notification preferences**.
 
 You can also view the page if you click the **Notifications** icon ![Notifications icon](../icons/Notification.svg "Notifications") in the console, and then click **Actions > View notification preferences**.
 
@@ -31,7 +31,7 @@ If you set your email preferences but aren't receiving email notifications, make
 {: help}
 {: support}
 
-You can choose to receive email notifications about IBM Cloud platform-related items across your account. When you set platform notifications, you receive email notifications that are associated with only the platform. You do not receive email notifications about events that are associated with IBM Cloud services.
+You can choose to receive email notifications about {{site.data.keyword.cloud_notm}} platform-related items across your account. When you set platform notifications, you receive email notifications that are associated with only the platform. You do not receive email notifications about events that are associated with {{site.data.keyword.cloud_notm}} services.
 
 Your platform email notifications settings are tied to your account.
 {: note}
@@ -39,7 +39,7 @@ Your platform email notifications settings are tied to your account.
 1. In the console, go to the **Avatar** icon ![Avatar icon](../icons/i-avatar-icon.svg "Avatar") > **Profile**.
 2. Click **Notification preferences** > **Platform**.
 
-    * To stay up to date with changes to the IBM Cloud platform and products, go to **Notification preferences** > **Announcements**. To select a subcategory, turn **Emails** on, or off.
+    * To stay up to date with changes to the {{site.data.keyword.cloud_notm}} platform and products, go to **Notification preferences** > **Announcements**. To select a subcategory, turn **Emails** on, or off.
     * To receive notifications about invoices, payments, subscription and promo codes, or spending and usage warnings, go to **Manage** > **Billing and usage** > **Manage** in the console to set up spending notifications.
 
     You can only set up email spending notifications if you have a Pay-As-You-Go or Subscription account.
@@ -66,7 +66,7 @@ You can set your preferences to receive resource-related notifications for incid
     * Receive notifications about any important maintenance that keeps the platform operating at optimal status. You can receive notifications for all impact levels (high, medium, low), or just a subset.
     * Receive notifications about security vulnerabilities and the required actions to take.
     * Receive notifications about resource activity, such as status and service updates.
-    * By default, all IBM Cloud resource notifications are turned off.
+    * By default, all {{site.data.keyword.cloud_notm}} resource notifications are turned off.
 
 To quickly turn off emails for the selected account or for all other accounts, click **Actions**, and select your preference.
 {: tip}
@@ -74,7 +74,7 @@ To quickly turn off emails for the selected account or for all other accounts, c
 ## Setting user notifications for classic infrastructure resources
 {: #setting-user-notifications}
 
-Setting user notifications is available for classic infrastructure resources only. If you're an account owner, you can subscribe users in your account to notifications for a specific set of developer services like Auto-Scaling and Raid Alert Monitoring. When the user is subscribed to a service, they receive emails about that service. Changes that you make for a user take effect only for future notifications. A user is not notified about events that occurred before you set up notifications.
+Setting user notifications is available for classic infrastructure resources only. If you're an account owner, you can subscribe users in your account to notifications for a specific set of developer services like {{site.data.keyword.autoscaling}} and Raid Alert Monitoring. When the user is subscribed to a service, they receive emails about that service. Changes that you make for a user take effect only for future notifications. A user is not notified about events that occurred before you set up notifications.
 
 Users in your account receive notifications for the following types of important operational events:
 
@@ -82,7 +82,7 @@ Users in your account receive notifications for the following types of important
 * Planned service or scheduled maintenance: Maintenance that is required to keep the infrastructure operating at optimal status.
 * Security vulnerabilities: The affected area is isolated. A patch is created to close the vulnerability, and tests are performed on the patch to ensure that no collateral function is affected.
 
-The timing of the notification varies depending on whether the event is unplanned, planned, or scheduled. The IBM Cloud infrastructure policy is to remedy problems as quickly as possible to remove or minimize the risk of further issues that might have a greater impact. Sometimes even planned maintenance is performed with only a short advanced notification.
+The timing of the notification varies depending on whether the event is unplanned, planned, or scheduled. The {{site.data.keyword.BluSoftlayer_notm}} infrastructure policy is to remedy problems as quickly as possible to remove or minimize the risk of further issues that might have a greater impact. Sometimes even planned maintenance is performed with only a short advanced notification.
 
 To set up subscription notifications for your users, complete the following steps:
 
@@ -114,7 +114,7 @@ Then, go to **Devices** to assign a user access to the specific devices and devi
 ## Managing invitation notifications
 {: #invite-notifications}
 
-Users can receive an invitation link in their notifications and by email to join an account if they are already members of IBM Cloud. Users only with the following types of access can invite others to the IBM Cloud platform.
+Users can receive an invitation link in their notifications and by email to join an account if they are already members of {{site.data.keyword.cloud_notm}}. Users only with the following types of access can invite others to the {{site.data.keyword.cloud_notm}} platform.
 
 * Account owner
 * An IAM access policy with the Editor role or higher on the user management account management service
@@ -130,11 +130,11 @@ The invitations expire after 30 days. New users can accept an invitation only by
 ## Managing marketing communications
 {: #marcom-notifications}
 
-You might receive notifications about significant technical enhancements, changes to the terms of service, plan changes, pricing changes, and the future removal of a product from the IBM Cloud catalog. With a few exceptions, these announcements are available on the [IBM Cloud blog](https://www.ibm.com/think){: external}.
+You might receive notifications about significant technical enhancements, changes to the terms of service, plan changes, pricing changes, and the future removal of a product from the {{site.data.keyword.cloud_notm}} catalog. With a few exceptions, these announcements are available on the [{{site.data.keyword.cloud_notm}} blog](https://www.ibm.com/think){: external}.
 
 Use the following steps to update your preferences:
 
-1. Log in to the [IBM Privacy Preference Center](https://www.ibm.com/about){: external} by using your IBM Cloud credentials. The toggle indicates whether your entered credential is your preferred method of contact.
+1. Log in to the [{{site.data.keyword.IBM_notm}} Privacy Preference Center](https://www.ibm.com/about){: external} by using your {{site.data.keyword.cloud_notm}} credentials. The toggle indicates whether your entered credential is your preferred method of contact.
 1. Click **Next**.
 1. Deselect **Public cloud** to stop marketing communications.
 1. Click **Save**.

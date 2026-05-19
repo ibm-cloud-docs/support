@@ -3,9 +3,9 @@
 copyright:
 
   years: 2019, 2026
-lastupdated: "2026-05-18"
+lastupdated: "2026-05-19"
 
-keywords: manage case, open case, update case, escalate case
+keywords: managing support cases, IBM Cloud support, case management, update support ticket, view case status, resolve support case, case severity, close support ticket, reopen case
 
 subcollection: support
 
@@ -13,13 +13,13 @@ subcollection: support
 
 {{site.data.keyword.attribute-definition-list}}
 
-# Managing your support cases
+# Managing your IBM Cloud support cases effectively
 {: #managing-support-cases}
 
-Each support case is assigned a unique number and severity level based on the details in the case description. You can use the case number to track the progress of your reported issue, leave feedback, or update the support case. Updates and feedback are recorded in the case notes, which you can find by selecting the specific support case. You can also add users in your account to a watchlist so they can receive alerts about a case. For more information, see [Updating your support case's watchlist](/docs/support?topic=support-managing-support-cases#contact-watchlist).
+Learn how to manage your IBM Cloud support cases, including tracking progress, updating cases, and managing watchlists for effective issue resolution.
 {: shortdesc}
 
-To view and manage your support cases, go to the [Manage cases page](/unifiedsupport/cases).  If you're a classic infrastructure user, and you don't see a listing of a previous case, click **View classic infrastructure cases**. You can also get a quick view of your 5 most recently updated open cases by typing `case status` in the [IBM Cloud AI assistant](/docs/overview?topic=overview-ask-ai-assistant#support-case-status).
+To view and manage your support cases, go to the [Manage cases page](/unifiedsupport/cases).  If you're a classic infrastructure user, and you don't see a listing of a previous case, click **View classic infrastructure cases**. You can also get a quick view of your 5 most recently updated open cases by typing `case status` in the [{{site.data.keyword.cloud_notm}} AI assistant](/docs/overview?topic=overview-ask-ai-assistant#support-case-status).
 
 You can also view your IBM support cases on the Manage cases page, but they can only be managed in the [IBM support portal](https://www.ibm.com/mysupport/s/){: external}. Access for viewing these cases is controlled in the IBM support portal. For more information about access, see [Managing Your Support Account Access](https://www.ibm.com/mysupport/s/article/Managing-Your-Support-Account-Access?language=en_US){: external}.
 {: note}
@@ -294,7 +294,7 @@ fmt.Println(string(b))
 
 Select the case number to update the support case. You can add a comment, attach or remove files, add resources, or update the watchlist.
 To update your support case, complete the following steps:
-1. From the IBM Cloud console menu bar, click the **Help** icon ![Help icon](../icons/help.svg "Help") > **Support center**.
+1. From the {{site.data.keyword.cloud_notm}} console menu bar, click the **Help** icon ![Help icon](../icons/help.svg "Help") > **Support center**.
 1. Select the support case from the **Recent support cases** tile.
 1. Add a comment, then click **Submit**.
 1. Optionally, you can update the following fields:
@@ -308,7 +308,7 @@ To update your support case, complete the following steps:
 
 Adding details about the specific resources related to a support case allows for a more efficient triage, investigation, and resolution. To view and copy a cloud resource name (CRN) to add to a support case, follow these steps:
 
-1. From the IBM Cloud&reg; console, click the Navigation Menu icon ![Navigation Menu icon](../icons/icon_hamburger.svg "Menu") > **Resource list** to view your list of resources.
+1. From the {{site.data.keyword.cloud}} console, click the Navigation Menu icon ![Navigation Menu icon](../icons/icon_hamburger.svg "Menu") > **Resource list** to view your list of resources.
 1. Expand the sections to locate the service instance for which you want to retrieve the CRN.
 1. Click the table row. This action opens the resources table side panel, where you can view the CRN.
 1. Select **Copy to clipboard** next to the CRN value.
@@ -325,7 +325,7 @@ By default, account users don't have access to create, update, search, or view c
 
 To ensure that users are notified about updates to an existing support case that you created, complete the following steps to add them to the watchlist.
 
-1. From the IBM Cloud console menu bar, click the **Help** icon ![Help icon](../icons/help.svg "Help") > **Support center**.
+1. From the {{site.data.keyword.cloud_notm}} console menu bar, click the **Help** icon ![Help icon](../icons/help.svg "Help") > **Support center**.
 1. Select the support case from the **Recent support cases** tile.
 1. From the Watchlist section, click the **Settings** icon ![Settings icon](../icons/settings.svg "Settings").
 1. Select users that are in the account to add to the watchlist.
@@ -351,17 +351,17 @@ When your response to an update in your support case is needed, the status is di
 ## Escalating support cases
 {: #escalation}
 
-With a paid support plan, you can use the escalation process to surface critical issues and voice your concern about a support case. When a case is escalated, the IBM Cloud support team reviews the information in the support case and responds with appropriate updates. For information about case severity, see [Case severity and initial response times](/docs/support?topic=support-support-case-severity).
+With a paid support plan, you can use the escalation process to surface critical issues and voice your concern about a support case. When a case is escalated, the {{site.data.keyword.cloud_notm}} support team reviews the information in the support case and responds with appropriate updates. For information about case severity, see [Case severity and initial response times](/docs/support?topic=support-support-case-severity).
 
 To escalate a case, complete the following steps:
 
-1. Contact IBM Cloud Support by chat or by phone.
+1. Contact {{site.data.keyword.cloud_notm}} Support by chat or by phone.
    * Click **Launch AI Assistant** in the [Support Center](/unifiedsupport/supportcenter){: external} and type `agent` to connect with a support agent
    * Connect by phone using the number in the [Support Center](/unifiedsupport/supportcenter){: external}.
 1. Provide your existing case number and a request to escalate the case.
 1. Provide the justification an escalation and explain the business impact of your problem or issue.
 
-Basic support plans: If you have a Basic support plan, access to support is through non-technical cases only. If your support inquiry requires a more immediate response, consider upgrading to a Premium or Advanced support plan so you can assign a severity level to a case. To upgrade your support plan, contact an [IBM Cloud Sales](https://www.ibm.com/solutions/cloud?contactmodule){: external} representative.
+Basic support plans: If you have a Basic support plan, access to support is through non-technical cases only. If your support inquiry requires a more immediate response, consider upgrading to a Premium or Advanced support plan so you can assign a severity level to a case. To upgrade your support plan, contact an [{{site.data.keyword.cloud_notm}} Sales](https://www.ibm.com/solutions/cloud?contactmodule){: external} representative.
 
 ## Searching for support cases
 {: #search-options}

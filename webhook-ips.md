@@ -2,9 +2,9 @@
 
 copyright:
   years: 2026
-lastupdated: "2026-03-20"
+lastupdated: "2026-05-19"
 
-keywords: webhook, IP
+keywords: webhook, IP, allowlist, firewall, security, IP addresses, webhook notifications
 
 subcollection: support
 
@@ -12,11 +12,13 @@ subcollection: support
 
 {{site.data.keyword.attribute-definition-list}}
 
-# Webhook IP addresses
+# Allowlisting webhook IP addresses for secure server access
 {: #webhook-ips}
 
-You can allowlist the ranges of IP addresses to restrict access to your servers that receive webhooks. For example, you can use our IP addresses to configure your firewall to allow traffic from only these IPs to help make your applications more secure. The outbound webhook notifications come from the IP addresses in the following subnets.
+Learn how to allowlist ranges of IP addresses to restrict access to your servers that receive webhooks. For example, you can use our IP addresses to configure your firewall to allow traffic from only these IPs to help make your applications more secure.
 {: shortdesc}
+
+The outbound webhook notifications come from the IP addresses in the following subnets. Review each table to find the IP ranges by region, and then use the IP addresses to configure your firewall to allow traffic from only these IPs.
 
 ## IP ranges for Dallas
 {: #webhook-ips-dallas}
