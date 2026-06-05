@@ -2,7 +2,7 @@
 
 copyright:
   years: 2026
-lastupdated: "2026-05-19"
+lastupdated: "2026-06-05"
 
 keywords: webhook, IP, allowlist, firewall, security, IP addresses, webhook notifications
 
@@ -15,10 +15,10 @@ subcollection: support
 # Allowlisting webhook IP addresses for secure server access
 {: #webhook-ips}
 
-Learn how to allowlist ranges of IP addresses to restrict access to your servers that receive webhooks. For example, you can use our IP addresses to configure your firewall to allow traffic from only these IPs to help make your applications more secure.
+Learn how to allowlist IP addresses to restrict access to your servers that receive webhooks. For example, you can use our IP addresses to configure your firewall to allow traffic from only these IPs to help make your applications more secure.
 {: shortdesc}
 
-The outbound webhook notifications come from the IP addresses in the following subnets. Review each table to find the IP ranges by region, and then use the IP addresses to configure your firewall to allow traffic from only these IPs.
+Outbound webhook notifications come from subnet ranges for specific data center locations and individual IP addresses for multi-zone regions. Review the tables to find the IP addresses by region, and then use them to configure your firewall to allow traffic from only these IPs.
 
 ## IP ranges for Dallas
 {: #webhook-ips-dallas}
@@ -102,3 +102,21 @@ The following table shows the IP ranges for Washington DC.
 | 52.117.106.0/26	 | Washington DC 07 |
 | 169.62.0.160/27	 | Washington DC 07 |
 {: caption="IP ranges for Washington DC" caption-side="top"}
+
+## Individual IP addresses for multi-zone regions
+{: #webhook-ips-individual}
+
+The following table shows individual IP addresses for multi-zone regions.
+
+| IP address      | Region  |
+|-----------------|---------|
+| 149.81.7.200    | eu-de   |
+| 161.156.83.205  | eu-de   |
+| 149.81.161.175  | eu-de   |
+| 159.23.101.115  | au-syd  |
+| 130.198.23.125  | au-syd  |
+| 135.90.137.37   | au-syd  |
+| 52.116.127.12   | us-east |
+| 169.59.167.47   | us-east |
+| 52.117.124.84   | us-east |
+{: caption="Individual IP addresses for multi-zone regions" caption-side="top"}
