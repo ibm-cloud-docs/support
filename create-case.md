@@ -58,8 +58,6 @@ After your support case is created, you can follow its progress on the [Manage c
 IBM support cases can also be opened in the cloud console as well as in the [IBM support portal](https://www.ibm.com/mysupport/s/){: external}. These cases can only be managed in the IBM support portal and access is controlled in the IBM support portal. For more information about access, see [Managing Your Support Account Access](https://www.ibm.com/mysupport/s/article/Managing-Your-Support-Account-Access?language=en_US){: external}.
 {: note}
 
-
-
 ### Adding a resource to a support case
 {: #adding-case-resource}
 {: ui}
@@ -73,6 +71,8 @@ To add a resource to a support case, use the following steps:
 3. Click to display the choices, then select a resource name from the list.
 
 You can also add a cloud resource name after the case is created or add the CRN within a comment. For more information, see [Updating support cases](/docs/support?topic=support-managing-support-cases#updating-case).
+
+
 
 ## Creating a support case by using the API
 {: #create-case-api}
