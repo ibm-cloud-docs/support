@@ -3,7 +3,7 @@
 copyright:
 
   years: 2019, 2026
-lastupdated: "2026-05-19"
+lastupdated: "2026-06-11"
 
 keywords: IBM Cloud support case, create support case, open support ticket, technical support, customer support, support ticket, access issues, billing support
 
@@ -42,7 +42,7 @@ Complete the following steps to create a support case:
 1. Select the topic and the associated subtopic that is most closely related to your issue, and click **Next**.
 1. Complete the required fields.
 
-   To maintain security, do not include any personal information, sensitive data, or device or service credentials in case responses. For example, don't include passwords, API keys, secrets, or credit card information.
+   Do not include personal information, sensitive data, or payment details in case responses. For example, don't include passwords, API keys, secrets, or credit card numbers.
    {: important}
 
 1. Complete optional fields:
@@ -57,6 +57,8 @@ After your support case is created, you can follow its progress on the [Manage c
 
 IBM support cases can also be opened in the cloud console as well as in the [IBM support portal](https://www.ibm.com/mysupport/s/){: external}. These cases can only be managed in the IBM support portal and access is controlled in the IBM support portal. For more information about access, see [Managing Your Support Account Access](https://www.ibm.com/mysupport/s/article/Managing-Your-Support-Account-Access?language=en_US){: external}.
 {: note}
+
+
 
 ### Adding a resource to a support case
 {: #adding-case-resource}
