@@ -3,7 +3,7 @@
 copyright:
 
   years: 2019, 2026
-lastupdated: "2026-06-11"
+lastupdated: "2026-06-22"
 
 keywords: IBM Cloud support, frequently asked question, faq, support cases, email preferences, access for cases, support faq, contact support
 
@@ -57,10 +57,7 @@ If you have paid support plans, for example Advanced or Premium plans, go to the
 
 From the {{site.data.keyword.cloud_notm}} console menu bar, click the **Help** icon ![Help icon](../icons/help.svg "Help") > **Support center**. The **Contact Support** section provides the options for getting in touch with a support representative: start a live chat from the AI Assistant, contact by phone, or create a support case. You can start a chat with a live agent from the [AI assistant](/docs/overview?topic=overview-ask-ai-assistant#chat-with-support) by typing `agent` in the chat. The options that are available to you depend on your support plan. For more information, see [Getting support](/docs/support?topic=support-support-plans).
 
-
-Nonpaid account support is limited to non-technical support issues that are related to account access and billing. Users with these nonpaid support accounts can self-report hardware issues, submit account or billing requests (including quota increases) through the portal, respond to {{site.data.keyword.IBM_notm}}-initiated support cases, and access the following self-service tools: {{site.data.keyword.cloud_notm}} AI assistant, {{site.data.keyword.cloud_notm}} docs, Community forums, and status pages. Users can also use [Stack Overflow](https://stackoverflow.com/questions/tagged/ibm-cloud){: external}. If your organization needs more advanced technical support, faster response times, or severity-level control, you can upgrade to a paid support plan. Learn more from your {{site.data.keyword.IBM_notm}} Sales representative or open an account upgrade case in the Support Center.
-
-
+Nonpaid account support is limited to nontechnical support issues that are related to account access and billing. Users with these nonpaid support accounts can self-report hardware issues, submit account or billing requests (including quota increases) through the portal, respond to {{site.data.keyword.IBM_notm}}-initiated support cases, and access the following self-service tools: {{site.data.keyword.cloud_notm}} AI assistant, {{site.data.keyword.cloud_notm}} docs, Community forums, and status pages. Users can also use [Stack Overflow](https://stackoverflow.com/questions/tagged/ibm-cloud){: external}. If your organization needs more advanced technical support, faster response times, or severity-level control, you can upgrade to a paid support plan by creating a case in the [Support Center](/unifiedsupport/supportcenter). You can also contact your {{site.data.keyword.IBM_notm}} Sales representative for assistance.
 
 ## How can I receive technical support as a Basic support customer?
 {: #basic-tech-support}
@@ -102,10 +99,7 @@ To view your support costs, you need an access policy with the Administrator rol
 {: faq}
 {: support}
 
-
-If you want to upgrade your support plan, contact an [{{site.data.keyword.cloud_notm}} Sales](https://www.ibm.com/solutions/cloud?contactmodule){: external} representative, or open an account upgrade case in the [Support Center](/unifiedsupport/supportcenter). For more information on the different support plans, see [Support plans](/docs/support?topic=support-support-plans).
-
-
+If you have a Basic or Advanced support plan, you can request to upgrade your plan by creating a case in the [Support Center](/unifiedsupport/supportcenter). Alternatively, you can contact an [{{site.data.keyword.cloud_notm}} Sales](https://www.ibm.com/solutions/cloud?contactmodule){: external} representative. For more information about the different support plans, see [Support plans](/docs/support?topic=support-support-plans).
 
 ## Why can't I see my support cases? 
 {: #view-support-cases}
@@ -174,5 +168,4 @@ Watchlists are specific to each case. You must manually add a user to each indiv
 {: #chat-with-support}
 {: faq}
 
-
-You can chat with support if you have an Advanced or Premium support plan. Go to the [Support Center](/unifiedsupport/supportcenter){: external}, click **Launch AI Assistant**, and type `agent` to connect with a support agent. Alternatively, you can request to chat with a live agent by opening the [AI assistant](/docs/overview?topic=overview-ask-ai-assistant#chat-with-support) from the Help menu and typing `agent` in the chat. Or, call the number provided in the Contact Support section. To upgrade your support plan, contact an [{{site.data.keyword.cloud_notm}} Sales](https://www.ibm.com/solutions/cloud?contactmodule){: external} representative, or open an account upgrade case in the [Support Center](/unifiedsupport/supportcenter).
+You can chat with support if you have an Advanced or Premium support plan. Go to the [Support Center](/unifiedsupport/supportcenter){: external}, click **Launch AI Assistant**, and type `agent` to connect with a support agent. Alternatively, you can request to chat with a live agent by opening the [AI assistant](/docs/overview?topic=overview-ask-ai-assistant#chat-with-support) from the Help menu and typing `agent` in the chat. Or, call the number provided in the Contact Support section. To upgrade your support plan, create a case in the [Support Center](/unifiedsupport/supportcenter) or contact an [{{site.data.keyword.cloud_notm}} Sales](https://www.ibm.com/solutions/cloud?contactmodule){: external} representative for assistance.

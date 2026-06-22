@@ -3,7 +3,7 @@
 copyright:
 
   years: 2019, 2026
-lastupdated: "2026-06-11"
+lastupdated: "2026-06-22"
 
 keywords: IBM Cloud support case, create support case, open support ticket, technical support, customer support, support ticket, access issues, billing support
 
@@ -72,7 +72,31 @@ To add a resource to a support case, use the following steps:
 
 You can also add a cloud resource name after the case is created or add the CRN within a comment. For more information, see [Updating support cases](/docs/support?topic=support-managing-support-cases#updating-case).
 
+## Upgrading your support plan
+{: #upgrade-support-plan}
+{: ui}
 
+If you have a Basic support plan, you can request an upgrade directly from the Support Center by creating a support case. The process uses a pre-filled case with the appropriate topic and subtopic to streamline your upgrade request. Upgrading to Advanced or Premium support provides benefits such as continuous access to technical support, faster response times for critical issues, and access to additional support resources.
+
+To request an upgrade to your support plan, complete the following steps:
+
+1. From the {{site.data.keyword.cloud_notm}} console menu bar, click the **Help** icon ![Help icon](../icons/help.svg "Help") > **Support center**.
+1. From the Contact support section, click **Create a case**.
+1. On the Create case page, you'll see a message about upgrading your support plan. Click **Request an upgrade** to open a pre-filled upgrade request case.
+1. In the **Subject** field, provide a brief description of your upgrade request. In the **Description** field, include details about your desired support plan.
+
+   Do not include personal information, sensitive data, or payment details in your upgrade request. For example, don't include passwords, API keys, secrets, or credit card numbers.
+   {: important}
+
+1. Optionally, attach files with additional information, add users to the watchlist to keep them informed, or select **Email me updates about this case** to receive notifications.
+1. Click **Next**, review your case summary, and click **Submit case**.
+
+After you submit your upgrade request case, the {{site.data.keyword.cloud_notm}} support team upgrades the support plan for you and let you know when the process is complete. The upgrade typically takes a few days to a week to complete. For more information about the different support plans and their features, see [Support plans](/docs/support?topic=support-support-plans).
+
+Alternatively, you can upgrade your support plan by contacting an [{{site.data.keyword.cloud_notm}} Sales](https://www.ibm.com/solutions/cloud?contactmodule){: external} representative.
+
+   You can contact the {{site.data.keyword.cloud_notm}} Sales team directly through the pop-up window.
+   {: note}
 
 ## Creating a support case by using the API
 {: #create-case-api}
