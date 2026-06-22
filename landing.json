@@ -44,16 +44,16 @@
     "view_more": "/docs/overview?topic=overview-whatsnew",
     "tiles": [
       {
+        "date": "22 June 2026",
+        "title": "Basic support plan upgrade available in Support Center"
+      },
+      {
         "date": "11 June 2026",
         "title": "Chennai 01 (CHE01) data center closes in June 2027"
       },
       {
         "date": "20 February 2026",
         "title": "Enhanced case management features"
-      },
-      {
-        "date": "15 January 2026",
-        "title": "Improved notification system"
       }
     ]
   }
