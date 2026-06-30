@@ -3,7 +3,7 @@
 copyright:
 
   years: 2019, 2026
-lastupdated: "2026-06-22"
+lastupdated: "2026-06-30"
 
 keywords: IBM Cloud support case, create support case, open support ticket, technical support, customer support, support ticket, access issues, billing support
 
@@ -102,7 +102,7 @@ Alternatively, you can upgrade your support plan by contacting an [{{site.data.k
 {: #create-case-api}
 {: api}
 
-You can programmatically open a support case by calling the Case Management API as shown in the following sample requests. For more information about the API, see [Case Management](/apidocs/case-management#createcase){: external}.
+You can programmatically open a support case by calling the Case Management API as shown in the following sample requests. For more information about the API, see [Case Management](/docs/apis/case-management#createcase){: external}.
 
 ```curl
 curl --location --request POST 'support-center.cloud.ibm.com/case-management/v1/cases' --header 'Content-Type: application/json' --header 'Content-Type: text/plain' --data-raw '{ "type": "technical",
@@ -240,7 +240,7 @@ fmt.Println(string(b))
 {: #add-resource-api}
 {: api}
 
-You can programmatically add a resource to a support case by using the API as shown in the following sample request. For more information, see the [Case Management API reference](/apidocs/case-management#createcase){: external}.
+You can programmatically add a resource to a support case by using the API as shown in the following sample request. For more information, see the [Case Management API reference](/docs/apis/case-management#createcase){: external}.
 
 ```curl
 curl -X PUT '/case-management/v1/cases/{case_number}/resources' -H 'Authorization: TOKEN' -d '{

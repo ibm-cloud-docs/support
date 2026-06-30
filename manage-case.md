@@ -3,7 +3,7 @@
 copyright:
 
   years: 2019, 2026
-lastupdated: "2026-06-22"
+lastupdated: "2026-06-30"
 
 keywords: managing support cases, IBM Cloud support, case management, update support ticket, view case status, resolve support case, case severity, close support ticket, reopen case
 
@@ -28,7 +28,7 @@ You can also view your IBM support cases on the Manage cases page, but they can 
 {: #viewing-case-api}
 {: api}
 
-You can programmatically view a support case by using the API as shown in the following sample request. For more information, see the [Case Management API](/apidocs/case-management#createcase){: external}.
+You can programmatically view a support case by using the API as shown in the following sample request. For more information, see the [Case Management API](/docs/apis/case-management#createcase){: external}.
 
 To view a case, see the following samples:
 
@@ -123,7 +123,7 @@ fmt.Println(string(b))
 {: #updating-case-api}
 {: api}
 
-The following sample request shows how to programmatically update a support case. For more information, see the [Case Management API](/apidocs/case-management#createcase){: external}.
+The following sample request shows how to programmatically update a support case. For more information, see the [Case Management API](/docs/apis/case-management#createcase){: external}.
 
 ```curl
 curl -X PUT '/case-management/v1/cases/{case_number}/status' -H 'Authorization: TOKEN' -d '{
@@ -220,7 +220,7 @@ fmt.Println(string(b))
 {: #comment-case-api}
 {: api}
 
-The following sample request shows how to programmatically add a comment to a support case. For more information, see the [Case Management API](/apidocs/case-management#createcase){: external}.
+The following sample request shows how to programmatically add a comment to a support case. For more information, see the [Case Management API](/docs/apis/case-management#createcase){: external}.
 
 ```curl
 curl -X PUT '/case-management/v1/cases/{case_number}/comments' -H 'Authorization: TOKEN' -d '{
