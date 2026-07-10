@@ -1,9 +1,8 @@
 ---
 
 copyright:
-
   years: 2015, 2026
-lastupdated: "2026-05-19"
+lastupdated: "2026-07-10"
 
 keywords: IBM Cloud status, upcoming maintenance, stay up-to-date, monitor status, best practices, status monitoring
 
