@@ -3,7 +3,7 @@
 copyright:
 
   years: 2019, 2026
-lastupdated: "2026-06-30"
+lastupdated: "2026-08-13"
 
 keywords: managing support cases, IBM Cloud support, case management, update support ticket, view case status, resolve support case, case severity, close support ticket, reopen case
 
@@ -288,6 +288,8 @@ fmt.Println(string(b))
 {: codeblock}
 {: go}
 
+
+
 ## Updating support cases
 {: #updating-case}
 {: ui}
@@ -314,6 +316,10 @@ Adding details about the specific resources related to a support case allows for
 1. Select **Copy to clipboard** next to the CRN value.
 1. Paste the value into a comment in the support case.
 
+
+
+
+
 ## Updating your support case's watchlist
 {: #contact-watchlist}
 {: ui}
@@ -332,6 +338,8 @@ To ensure that users are notified about updates to an existing support case that
 
    Users that are added to the watchlist must be a member of the account in which the case was created. For more information about assigning users access to your account, see [Adding users to your case management access group](/docs/account?topic=account-access&interface=ui#iam-managed).
    {: note}
+
+
 
 ## Support case status types
 {: #search-case-status}
