@@ -3,7 +3,7 @@
 copyright:
 
   years: 2019, 2026
-lastupdated: "2026-08-13"
+lastupdated: "2026-09-02"
 
 keywords: managing support cases, IBM Cloud support, case management, update support ticket, view case status, resolve support case, case severity, close support ticket, reopen case
 
@@ -435,6 +435,8 @@ Query
 URL
 :   `https://cloud.ibm.com/unifiedsupport/cases?sort=~updatedAT&status=resolved`
 
+
+
 ## Creating and managing case tags
 {: #create-case-tags}
 
@@ -465,6 +467,10 @@ To find cases with specific tags, click one or more tags. For example, click `ta
 
 Only cases that contain all selected tags are displayed, as the search option uses an AND condition. OR filtering is not supported.
 {: note}
+
+
+
+
 
 ## Getting notifications for cases opened by using a trusted profile
 {: #tp-notifications}
