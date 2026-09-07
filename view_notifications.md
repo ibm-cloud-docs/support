@@ -3,7 +3,7 @@
 copyright:
 
   years: 2019, 2026
-lastupdated: "2026-05-19"
+lastupdated: "2026-09-07"
 
 keywords: IBM Cloud notifications, view notifications, set notifications, iaas notifications, notification icon, header bell, bell icon, email notification history, communication history, console notifications
 
@@ -97,7 +97,7 @@ For IaaS offerings, {{site.data.keyword.cloud_notm}} provides advanced notice th
 | Possibility of impact | Definition | Advanced Notice Guidelines |
 |-----------------------|------------|----------------------------|
 | Emergency             | Customer Impacting Event (CIE) | a minimum of 24 hours |
-| High                  | Certain, likely, or has the potential to cause an extended or brief service disruption. | a minimum of 30 days |
+| High                  | Certain, or has the potential to cause an extended or brief service disruption. | a minimum of 30 days; for GPU maintenance, a minimum of 14 days |
 | Medium                | Low to moderate possibility of a brief disruption. | a minimum of 21 days |
 | Low                   | None to negligible chance of a disruption or routine change. No assumed risk or a disruption that is isolated to a single customer. | offering-specific |
 {: caption="IaaS offerings impact possibility definitions" caption-side="top"}
