@@ -3,7 +3,7 @@
 copyright:
 
   years: 2019, 2026
-lastupdated: "2026-06-30"
+lastupdated: "2026-09-17"
 
 keywords: IBM Cloud support case, create support case, open support ticket, technical support, customer support, support ticket, access issues, billing support
 
@@ -27,6 +27,8 @@ The types of available support depend on the support level of the account. Your 
 Users with a Lite or Trial account receive the same support as Basic support, which means that they can create support cases that are limited to nontechnical issues associated with access (IAM), billing and usage, account, and invoice or sales inquiries. Technical help for accounts with a no-cost support plan is provided by the [{{site.data.keyword.cloud_notm}} Docs](/docs){: external}, the {{site.data.keyword.cloud_notm}} AI Assistant, and online communities such as the [{{site.data.keyword.cloud_notm}} Community](https://community.ibm.com/community/user/my-community){: external} or [Stack Overflow](https://stackoverflow.com/questions/tagged/ibm-cloud?tab=Newest){: external}.
 
 As a classic infrastructure user, you might be familiar with support tickets. Support tickets are now called support cases in {{site.data.keyword.cloud_notm}}.
+
+
 
 ## Creating a support case
 {: #creating-support-case}
@@ -71,6 +73,8 @@ To add a resource to a support case, use the following steps:
 3. Click to display the choices, then select a resource name from the list.
 
 You can also add a cloud resource name after the case is created or add the CRN within a comment. For more information, see [Updating support cases](/docs/support?topic=support-managing-support-cases#updating-case).
+
+
 
 ## Upgrading your support plan
 {: #upgrade-support-plan}
