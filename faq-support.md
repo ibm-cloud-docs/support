@@ -3,7 +3,7 @@
 copyright:
 
   years: 2019, 2026
-lastupdated: "2026-06-22"
+lastupdated: "2026-09-18"
 
 keywords: IBM Cloud support, frequently asked question, faq, support cases, email preferences, access for cases, support faq, contact support
 
@@ -89,9 +89,12 @@ You can change which email notifications you receive for planned events, unplann
 
 If you have Advanced or Premium support, you can track your monthly support costs. In the {{site.data.keyword.cloud_notm}} console, go to **Manage** > **Billing and usage**, and select **Support costs**. Each support plan has a minimum monthly support price for your cloud workload at the stated service level. Beyond this starting price, any additional costs for support are based on your resource usage. The higher your resource usage, the higher your total support cost.
 
+
+
 Charges for support of third-party services are not included in the Advanced or Premium support charge calculations. These non-IBM programs are licensed directly by their providers.
 
 To view your support costs, you need an access policy with the Administrator role on the Billing account management service. For more information about access roles, see [Actions and roles for account management services](/docs/iam?topic=iam-account-services#billing-acct-mgmt).
+
 
 
 ## How can I upgrade my support plan?

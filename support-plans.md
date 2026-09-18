@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2026
-lastupdated: "2026-05-19"
+lastupdated: "2026-09-18"
 
 keywords: IBM Cloud support plans, basic support, advanced support, premium support, cloud support, IBM Cloud sales, technical support, response time
 
@@ -90,6 +90,10 @@ The Advanced support plan is designed for environments with a limited number of 
 * Support for technical product issues
 
 Advanced support is ideal for organizations that need faster response times and technical assistance beyond self-service resources.
+
+
+
+
 
 ## Basic support
 {: #free-support}
