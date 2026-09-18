@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2026
-lastupdated: "2026-05-19"
+lastupdated: "2026-09-18"
 
 keywords: IBM Cloud support plans, basic support, advanced support, premium support, cloud support, IBM Cloud sales, technical support, response time
 
@@ -55,6 +55,8 @@ The Premium support plan is for mission-critical environments that have a strate
 * **Seminars and events.** Your technical account manager ensures that your teams are engaged in IBM events and conferences.
 * **Quarterly business reviews.** Your technical account manager provides periodic business reviews of cloud usage, support case activity, escalations, upcoming planned maintenance, upcoming EOL/EOS dates and how to plan for those, and reviews of your users and permissions.
 
+
+
 ### Premium support for events
 {: #premium-support-events}
 
@@ -90,6 +92,8 @@ The Advanced support plan is designed for environments with a limited number of 
 * Support for technical product issues
 
 Advanced support is ideal for organizations that need faster response times and technical assistance beyond self-service resources.
+
+
 
 ## Basic support
 {: #free-support}

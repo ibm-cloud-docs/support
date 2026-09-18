@@ -3,7 +3,7 @@
 copyright:
 
   years: 2019, 2026
-lastupdated: "2026-05-19"
+lastupdated: "2026-09-18"
 
 keywords: IBM Cloud support costs, support subscriptions, support credit, support, track support costs, monthly support costs
 
@@ -23,6 +23,8 @@ Learn how to view your monthly IBM Cloud support costs and manage your support s
 {: #how-support}
 
 Each [{{site.data.keyword.cloud_notm}} support plan](/docs/support?topic=support-support-plans) has a minimum monthly price for providing support for your cloud workload at the stated service level. Beyond this starting price, any additional costs for support are based on your resource usage. The higher your resource usage, the higher your total support cost. For details about your purchased support plan, contact [{{site.data.keyword.cloud_notm}} Sales](https://www.ibm.com/solutions/cloud?contactmodule){: external}.
+
+
 
 ## Viewing support costs
 {: #view-support}
