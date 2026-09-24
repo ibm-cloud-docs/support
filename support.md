@@ -3,7 +3,7 @@
 copyright:
 
   years: 2019, 2026
-lastupdated: "2026-09-23"
+lastupdated: "2026-09-24"
 
 keywords: IBM Cloud support costs, support subscriptions, support credit, support, track support costs, monthly support costs
 
@@ -30,6 +30,8 @@ Each [{{site.data.keyword.cloud_notm}} support plan](/docs/support?topic=support
 {: #view-support}
 
 To view your support costs, you need an access policy with the Administrator role on the Billing account management service. For more information about access roles, see [Platform and service access roles for permissions](/docs/iam?topic=iam-userroles).
+
+In the {{site.data.keyword.cloud_notm}} console, go to **Manage > Billing and usage**, and select **Support costs**. You can view your support plan and relevant cost details:
 
 
 
