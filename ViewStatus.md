@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2026
-lastupdated: "2026-05-19"
+lastupdated: "2026-09-25"
 
 keywords: IBM Cloud status, view cloud status, planned maintenance, RSS feed, unified notifications, iaas notifications, classic infrastructure notifications, incident reports, MZR, private MZR, security bulletins
 
@@ -42,7 +42,7 @@ To view the Status page, complete the following steps:
 
 1. You can filter the lists by selecting specific components, locations, dates, types of ongoing events, or by using keyword searches. Click each item to get more details about the changes and why, and how they impact your environment.
 
-You can build URL search values by using query parameters from outside the console. For more information, see [Advanced status search](/docs/support?topic=support-viewing-status#adv-status-search).
+You can build URL search values by using query parameters from outside the console. For more information, see [Advanced status page search with query parameters](/docs/support?topic=support-advance-search).
 {: tip}
 
 ## Viewing the status of a dedicated multizone region (MZR)
