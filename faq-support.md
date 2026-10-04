@@ -3,7 +3,7 @@
 copyright:
 
   years: 2019, 2026
-lastupdated: "2026-09-18"
+lastupdated: "2026-10-04"
 
 keywords: IBM Cloud support, frequently asked question, faq, support cases, email preferences, access for cases, support faq, contact support
 
@@ -89,13 +89,9 @@ You can change which email notifications you receive for planned events, unplann
 
 If you have Advanced or Premium support, you can track your monthly support costs. In the {{site.data.keyword.cloud_notm}} console, go to **Manage** > **Billing and usage**, and select **Support costs**. Each support plan has a minimum monthly support price for your cloud workload at the stated service level. Beyond this starting price, any additional costs for support are based on your resource usage. The higher your resource usage, the higher your total support cost.
 
-
-
 Charges for support of third-party services are not included in the Advanced or Premium support charge calculations. These non-IBM programs are licensed directly by their providers.
 
 To view your support costs, you need an access policy with the Administrator role on the Billing account management service. For more information about access roles, see [Actions and roles for account management services](/docs/iam?topic=iam-account-services#billing-acct-mgmt).
-
-
 
 ## How can I upgrade my support plan?
 {: #support-plan}
@@ -172,3 +168,125 @@ Watchlists are specific to each case. You must manually add a user to each indiv
 {: faq}
 
 You can chat with support if you have an Advanced or Premium support plan. Go to the [Support Center](/unifiedsupport/supportcenter){: external}, click **Launch AI Assistant**, and type `agent` to connect with a support agent. Alternatively, you can request to chat with a live agent by opening the [AI assistant](/docs/overview?topic=overview-ask-ai-assistant#chat-with-support) from the Help menu and typing `agent` in the chat. Or, call the number provided in the Contact Support section. To upgrade your support plan, create a case in the [Support Center](/unifiedsupport/supportcenter) or contact an [{{site.data.keyword.cloud_notm}} Sales](https://www.ibm.com/solutions/cloud?contactmodule){: external} representative for assistance.
+
+
+
+<st-staging>
+
+## What changes are being introduced with the new ESP pricing model?
+{: #esp-pricing-changes}
+{: faq}
+
+The following key changes are included in the updated ESP support pricing model. IBM sellers and partners must account for these changes when placing new or renewal orders.
+
+**New Advanced and Premium Support options**
+:   Two pricing structures are now available for both Advanced Support and Premium Support:
+    - IBM Cloud Pay as you go with Tiered Use Advanced Support
+    - IBM Cloud Pay as you go with Tiered Use Premium Support
+    - IBM Cloud Pay as you go Use Advanced Support
+    - IBM Cloud Pay as you go Use Premium Support
+
+    You must choose either the fixed discount model or the tiered rate model. The two pricing structures cannot be combined within the same support contract.
+
+**Removal of separate support commitments for new opportunities**
+:   For new opportunities, there is no longer a separate support commitment. Support consumption contributes toward the overall Cloud Platform commitment. For example, a previous commitment of $1,000,000 for cloud plus $100,000 for support should now be entered as a $1,100,000 ESP commitment.
+
+**Changes to monthly minimum charges**
+:   The applicable monthly minimum support fee is charged regardless of actual platform consumption. Monthly minimum charges are billed each month and are not dependent on whether a specific support consumption level is reached. This provides a simpler and more predictable billing experience and eliminates the need for support commitment true-ups related to underconsumption.
+
+**Support is based on platform list price**
+:   Support is calculated on the platform list price before any discounts are applied, consistent with other services. Previously, support inherited platform or service level discounts, with additional support discounts stacked on top.
+
+## How is support attached to a new Cloud Platform order?
+{: #support-attachment}
+{: faq}
+
+IBM sellers and partners attach support based on the Cloud Platform deal size. Advanced Support or Premium Support is recommended depending on the size of the opportunity. Support can be downgraded or removed from the quote if the environment is confirmed to be non-production.
+
+## Will existing customers be affected by the new ESP pricing changes?
+{: #esp-existing-customers}
+{: faq}
+
+No. There are currently no changes to existing customers, active agreements, or existing support part numbers for agreements in place before October 14, 2026.
+
+## Do support part numbers change at renewal?
+{: #esp-renewal-part-numbers}
+{: faq}
+
+Yes. IBM sellers and partners must transition customers to the new support part numbers upon renewal. Several legacy support part numbers have been, or will be, sunset for new orders. Use the replacement part numbers identified in the current pricing and ordering guide.
+
+The following table shows the part number changes effective October 14, 2026.
+
+| Support type | Parts before October 14 | Parts after October 14 |
+|---|---|---|
+| ESP Advanced Support | D0BMJZX (USD), D0BM5ZX (EUR), D0BMHZX (CHF), D0BLXZX (GBP), D0BLZZX (CAD), D0BM3ZX (DKK), D0BMBZX (NOK), D0BMFZX (SEK), D0BLTZX (AUD), D0BM9ZX (NZD), D0BMLZX (JPY), D0BMMZX | D0QDIZX (IBM Cloud Advanced Support List) or D0QDJZX (IBM Cloud Advanced Support Tiered) |
+| ESP Premium Support | D0BMJZX (USD), D0BM5ZX (EUR), D0BMHZX (CHF), D0BLXZX (GBP), D0BLZZX (CAD), D0BM3ZX (DKK), D0BMBZX (NOK), D0BMFZX (SEK), D0BLTZX (AUD), D0BM9ZX (NZD), D0BMLZX (JPY), D0QDKZX | D0QDKZX (IBM Cloud Premium Support List) or D0QDLZX (IBM Cloud Premium Support Tiered) |
+| PayGo Advanced Support | D0B20ZX (USD), D0B19ZX (GBP), D0B1BZX (CAD), D0B1HZX (EUR), D0B1YZX (CHF), D0B1FZX (DKK), D0B1QZX (NOK), D0B1WZX (SEK), D0B15ZX (AUD), D0B1NZX (NZD), A0G7CZX (JPY) | D0QDIZX (IBM Cloud Advanced Support List) or D0QDJZX (IBM Cloud Advanced Support Tiered) |
+{: caption="ESP support part number changes effective October 14, 2026" caption-side="bottom"}
+
+A single USD-denominated part number is used for PayGo, with monthly conversion to local currency.
+
+## How do I upgrade a customer from Basic Support to a paid support plan?
+{: #upgrade-basic-to-paid}
+{: faq}
+
+IBM sellers and partners can upgrade a customer from Basic Support to Advanced Support or Premium Support by placing a new order.
+
+## How do I upgrade a customer from Advanced Support to Premium Support?
+{: #upgrade-advanced-to-premium}
+{: faq}
+
+IBM sellers and partners who upgrade a customer from Advanced Support to Premium Support mid-term must obtain exception approval because the existing contract must be canceled and reordered.
+
+## When should I use fixed discount pricing?
+{: #support-fixed-discount}
+{: faq}
+
+IBM sellers and partners should use fixed discount pricing when:
+
+- A consistent discount throughout the entire contract term is preferred.
+- Predictable pricing is important for the customer.
+- Consumption growth is expected to remain relatively stable.
+
+The discount is applied directly to the {{site.data.keyword.cloud_notm}} Support list price. Discount requests should focus on the support rate itself and follow standard approval processes. The {{site.data.keyword.cloud_notm}} Support monthly minimum is subject to separate discounting by working with the {{site.data.keyword.cloud_notm}} Support Special Bid team.
+
+## When should I use tiered pricing?
+{: #support-tiered-pricing}
+{: faq}
+
+IBM sellers and partners should use tiered pricing when:
+
+- The customer's environment is expected to grow over time.
+- Consumption is expected to increase during the contract.
+- The customer wants to benefit from lower rates as usage reaches higher consumption tiers.
+
+Tiered rates are calculated monthly and automatically decrease as consumption increases.
+
+## Can fixed discounts and tiered rates be combined?
+{: #support-combine-pricing}
+{: faq}
+
+No. IBM sellers and partners must choose either list pricing with a fixed discount or tiered pricing. The two pricing models cannot be combined within the same support contract.
+
+## What support discounts are automatically approved?
+{: #support-auto-approval}
+{: faq}
+
+IBM sellers and partners receive automatic approval for support discounts of up to 10% off list price on eligible support part numbers.
+
+Tiered pricing already provides lower rates as consumption grows. Any discount requested in addition to tiered rates requires Special Bid Approval.
+
+Special Bid Approval is required for:
+
+- Any discount requested beyond the auto-approved threshold.
+- Any additional discount requested on top of tiered pricing rates.
+
+To request discounting on the monthly support minimum, work with the {{site.data.keyword.cloud_notm}} Support Special Bid team.
+
+## How does compensation work for support?
+{: #support-compensation}
+{: faq}
+
+IBM sellers follow the same compensation model for support as for Cloud. Because {{site.data.keyword.cloud_notm}} Support contributes to Cloud consumption, there is no impact on Cloud sellers.
+
+</st-staging>
