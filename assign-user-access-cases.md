@@ -3,7 +3,7 @@
 copyright:
 
   years: 2021, 2026
-lastupdated: "2026-05-19"
+lastupdated: "2026-10-07"
 
 keywords: IBM Cloud support cases, access to cases, get access for cases, assign cases, assign access, access support center, IAM policies
 
@@ -19,7 +19,11 @@ subcollection: support
 Learn how to manage access to support cases in IBM Cloud by assigning Identity and Access Management (IAM) policies to users and access groups.
 {: shortdesc}
 
+
 When you create a case, you can give other users full access to that case by adding their email to the **Add another person to this case** field. Any added users have access to view, edit, and update only that case in the account. They also receive notifications when the case is updated.
+
+
+
 
 For classic infrastructure users, the permissions to assign support case access is now available in [migrated classic infrastructure permission access groups](/docs/iam?topic=iam-migrated_permissions). The migrated permission access groups do include the IAM policy on the user management service with the viewer role assigned.
 {: note}

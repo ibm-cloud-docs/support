@@ -3,13 +3,14 @@
 copyright:
 
   years: 2021, 2026
-lastupdated: "2026-05-19"
+lastupdated: "2026-10-07"
 
 keywords: IBM Cloud notifications, notification preferences, user notifications, distribution list, notification distribution list, webhooks, Slack webhooks, Microsoft Teams webhooks, ServiceNow webhooks, SNOW, email notifications
 
 subcollection: support
 
 ---
+
 {{site.data.keyword.attribute-definition-list}}
 
 # Managing notifications with IBM Cloud distribution lists
@@ -290,7 +291,7 @@ The severity attribute in the request payload can take on a value of 0, 1, 2, 3,
 | 2              | Severity 2 | Medium      | Minor        |
 | 3              | Severity 3 | Low         | Minor        |
 | 4              | Severity 4 | Low         | Minor        |
-{: caption="Severity levels and their corresponing categories" caption-side="top"}
+{: caption="Severity levels and their corresponding categories" caption-side="bottom"}
 
 `state`: This field is only for maintenance and notifications. See the following possible values:
 
