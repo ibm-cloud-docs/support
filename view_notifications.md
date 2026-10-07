@@ -3,7 +3,7 @@
 copyright:
 
   years: 2019, 2026
-lastupdated: "2026-09-07"
+lastupdated: "2026-10-07"
 
 keywords: IBM Cloud notifications, view notifications, set notifications, iaas notifications, notification icon, header bell, bell icon, email notification history, communication history, console notifications
 
@@ -39,7 +39,7 @@ The following table describes the different types of notifications that are disp
 | Announcements | Updates on new infrastructure features and services in {{site.data.keyword.cloud_notm}}. |
 | Incidents | Unexpected impacting events that can cause an outage or restrict functionality. |
 | Account | Invitation email, or console notifications for inviting users to the {{site.data.keyword.cloud_notm}} platform.  |
-{: caption="Notification types" caption-side="top"}
+{: caption="Notification types" caption-side="bottom"}
 
 ## Subscribing to email notifications
 {: #subscribe-email-notifications}
@@ -48,7 +48,7 @@ You can select whether to receive email notifications about {{site.data.keyword.
 
 You cannot set email preferences for receiving account type notifications. On the {{site.data.keyword.cloud_notm}} [Notifications page](/notifications){: external}, you can use the search field to locate an invitation or filter by the notification type called account.
 
-Users already present in {{site.data.keyword.cloud_notm}} receives an email and a notification with an invitation link. If an email address does not correspond to a known user in {{site.data.keyword.cloud_notm}}, an invitation email gets sent to accept, but users can also choose not to accept the invitation. For more information, see [Setting email preferences for notifications](/docs/support?topic=support-email-prefs) and [Inviting users to an account](/docs/iam?topic=iam-iamuserinv).
+Users already present in {{site.data.keyword.cloud_notm}} receive an email and a notification with an invitation link. If an email address does not correspond to a known user in {{site.data.keyword.cloud_notm}}, an invitation email gets sent to accept, but users can also choose not to accept the invitation. For more information, see [Setting email preferences for notifications](/docs/support?topic=support-email-prefs) and [Inviting users to an account](/docs/iam?topic=iam-iamuserinv).
 
 The invitations expire after 30 days. New users to {{site.data.keyword.cloud_notm}} can accept an invitation only by using the invitation link that they received through email.
 {: note}
@@ -77,7 +77,7 @@ Identify which of your devices are affected by the scheduled or ongoing maintena
 To obtain a list of devices impacted under the maintenance activity, complete the following steps:
 
 1. Log in to {{site.data.keyword.cloud_notm}} by using your credentials.
-1. Click the **Notifications** icon ![Notifications icon](../icons/Notification.svg "Notifications") to view a list of open and completed maintenance's for your account in the past 30 days.
+1. Click the **Notifications** icon ![Notifications icon](../icons/Notification.svg "Notifications") to view a list of open and completed maintenances for your account in the past 30 days.
 
 You can directly go to the maintenance notification page through [{{site.data.keyword.cloud_notm}} Notifications](https://cloud.ibm.com/notifications){: external}
 {: note}

@@ -3,7 +3,7 @@
 copyright:
 
   years: 2019, 2026
-lastupdated: "2026-09-02"
+lastupdated: "2026-10-07"
 
 keywords: managing support cases, IBM Cloud support, case management, update support ticket, view case status, resolve support case, case severity, close support ticket, reopen case
 
@@ -19,7 +19,7 @@ subcollection: support
 Learn how to manage your IBM Cloud support cases, including tracking progress, updating cases, and managing watchlists for effective issue resolution.
 {: shortdesc}
 
-To view and manage your support cases, go to the [Manage cases page](/unifiedsupport/cases).  If you're a classic infrastructure user, and you don't see a listing of a previous case, click **View classic infrastructure cases**. You can also get a quick view of your 5 most recently updated open cases by typing `case status` in the [{{site.data.keyword.cloud_notm}} AI assistant](/docs/overview?topic=overview-ask-ai-assistant#support-case-status).
+To view and manage your support cases, go to the [Manage cases page](/unifiedsupport/cases). If you're a classic infrastructure user, and you don't see a listing of a previous case, click **View classic infrastructure cases**. You can also get a quick view of your 5 most recently updated open cases by typing `case status` in the [{{site.data.keyword.cloud_notm}} AI assistant](/docs/overview?topic=overview-ask-ai-assistant#support-case-status).
 
 You can also view your IBM support cases on the Manage cases page, but they can only be managed in the [IBM support portal](https://www.ibm.com/mysupport/s/){: external}. Access for viewing these cases is controlled in the IBM support portal. For more information about access, see [Managing Your Support Account Access](https://www.ibm.com/mysupport/s/article/Managing-Your-Support-Account-Access?language=en_US){: external}.
 {: note}
@@ -354,7 +354,7 @@ When your response to an update in your support case is needed, the status is di
 | Resolution provided | The support engineer provided a resolution that the user needs to perform. |
 | Resolved            | The support case is considered finished and ready to be closed. |
 | Closed              | Case is closed by a support engineer and can't be reopened. |
-{: caption="Support case status types" caption-side="top"}
+{: caption="Support case status types" caption-side="bottom"}
 
 ## Escalating support cases
 {: #escalation}
@@ -367,7 +367,7 @@ To escalate a case, complete the following steps:
    * Click **Launch AI Assistant** in the [Support Center](/unifiedsupport/supportcenter){: external} and type `agent` to connect with a support agent
    * Connect by phone using the number in the [Support Center](/unifiedsupport/supportcenter){: external}.
 1. Provide your existing case number and a request to escalate the case.
-1. Provide the justification an escalation and explain the business impact of your problem or issue.
+1. Provide the justification for an escalation and explain the business impact of your problem or issue.
 
 Basic support plans: If you have a Basic support plan, access to support is through non-technical cases only. If your support inquiry requires a more immediate response, consider upgrading to a Premium or Advanced support plan so you can assign a severity level to a case. To upgrade your support plan, [create a case in the Support Center](/docs/support?topic=support-open-case&interface=ui#upgrade-support-plan) or contact an [{{site.data.keyword.cloud_notm}} Sales](https://www.ibm.com/solutions/cloud?contactmodule){: external} representative for assistance.
 
@@ -381,12 +381,12 @@ See the following table for details about the search parameters:
 
 | Parameter | Option | Rule |
 |-----------|--------|------|
-| `number` | target case number | This parameter can't be used with other parameters. When the `number` parameter is used, all of the other parameters and options ignored. The `number` parameter doesn't autofill the search. You must use the whole case number to start the search. |
+| `number` | target case number | This parameter can't be used with other parameters. When the `number` parameter is used, all of the other parameters and options are ignored. The `number` parameter doesn't autofill the search. You must use the whole case number to start the search. |
 | `sort` | number  \n subject  \n severity  \n updatedAt | Only one of the `sort` options can be used at one time. You can use the `~` prefix to reverse the sorting order. |
 | `status` | new  \n inProgress  \n waitingOnClient  \n resolutionProvided  \n resolved  \n closed | Any number of options can be used. The available options can be entered as `status:new,inProgress` or as `status:new status:inProgress`. |
 | `page` | target page to view | If you have several results from your search that spans multiple pages, you can view your results from any result page. For example, to view page 5 out of 10, use `page:5`. |
 | `pageSize`  | 10  \n 25  \n 50  \n 100  | The size of that page to be viewed. The page size refers to the number of results that you want to load. |
-{: caption="Search query parameters and options" caption-side="top"}
+{: caption="Search query parameters and options" caption-side="bottom"}
 
 If you enter a term without a parameter, the search results are shown for the support case number and the case subject.
 {: note}

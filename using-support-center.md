@@ -3,7 +3,7 @@
 copyright:
 
   years: 2019, 2026
-lastupdated: "2026-06-22"
+lastupdated: "2026-10-07"
 
 keywords: IBM Cloud support center, support case, premium support, advanced support, basic support, support page, help, support agent, AI assistant, technical support
 
@@ -19,7 +19,7 @@ subcollection: support
 Learn how to access the IBM Cloud Support Center, create and manage support cases, and access self-help resources like getting help with technical issues by using the IBM Cloud AI assistant.
 {: shortdesc}
 
-If you can't log in to your account, start a chat by going to the [{{site.data.keyword.cloud_notm}} Support](https://www.ibm.com/products/cloud/support){: external} page and clicking **Contact us**. Or you can complete the [Create an Account, Login, or Billing Request form](https://watson.service-now.com/x_ibmwc_open_case_app.do#!/create).
+If you can't log in to your account, start a chat by going to the [{{site.data.keyword.cloud_notm}} Support](https://www.ibm.com/products/cloud/support){: external} page and clicking **Contact us**. Or you can complete the [Create an Account, Login, or Billing Request form](https://watson.service-now.com/x_ibmwc_open_case_app.do#!/create){: external}.
 
 As a classic infrastructure user, you might be familiar with support tickets. Tickets are now called cases in {{site.data.keyword.cloud_notm}}.
 {: note}

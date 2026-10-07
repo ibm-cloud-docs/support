@@ -3,7 +3,7 @@
 copyright:
   years: 2018, 2026
 
-lastupdated: "2026-09-25"
+lastupdated: "2026-10-07"
 
 keywords: IBM Cloud status page, status query, incident, maintenance, search query, query parameters, advanced search
 
@@ -40,7 +40,7 @@ The following table provides information on URL query filters that you can use t
 | `?type`             | A filter that applies only to the Status tab. Use the `?type` query to filter the Status tab by incidents or maintenance.           | `=incident`, `=maintenance` |
 | `?region`           | Filter the page by geographic location.                                                                                             | `=na`, `=eu`, `=sa`, `=ap`  |
 | `?component`        | Filter the page by {{site.data.keyword.cloud_notm}} components. For example, you might filter by a service you are interested in. | Applies to most global catalog IDs; for example, `?component=iotf-service` filters the page and display events that affect Internet of Things Platform |
-{: caption="URL query filters" caption-side="top"}
+{: caption="URL query filters" caption-side="bottom"}
 
 You can always use the **Filter by** filters, and then copy or bookmark the URL query that is generated. The filters are displayed in your URL and can help you build future queries.
 {: tip}
