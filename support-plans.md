@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2026
-lastupdated: "2026-10-15"
+lastupdated: "2026-10-20"
 
 keywords: IBM Cloud support plans, basic support, advanced support, premium support, cloud support, IBM Cloud sales, technical support, response time
 
@@ -40,8 +40,13 @@ The following table compares the support plans available for Pay-As-You-Go accou
 {: caption="Support plan comparison" caption-side="bottom"}
 {: summary="This table has row and column headers. The row headers identify the aspects of support. The column headers identify the support plan."}
 
-For Enterprise Savings Plans, there is a monthly minimum for Advanced and Premium support. For more information, contact an [{{site.data.keyword.cloud_notm}} Sales](https://www.ibm.com/solutions/cloud?contactmodule){: external} representative.
+
+For Enterprise Savings Plans, there is a minimum commitment for Advanced and Premium support. If you don't spend the total committed amount by the end of the commitment term, you are invoiced for the amount that you didn't consume, and any amount used over the commitment is also charged. For more information, contact an [{{site.data.keyword.cloud_notm}} Sales](https://www.ibm.com/solutions/cloud?contactmodule){: external} representative.
 {: note}
+
+
+
+
 
 ## Premium support
 {: #premium-support}
