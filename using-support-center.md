@@ -16,7 +16,7 @@ subcollection: support
 # Getting help with IBM Cloud: Using the Support Center
 {: #using-avatar}
 
-Learn how to access the IBM Cloud Support Center, create and manage support cases, and access self-help resources like getting help with technical issues by using the IBM Cloud AI assistant.
+Learn how to access the IBM Cloud Support Center, create and manage support cases, and access self-help resources.
 {: shortdesc}
 
 If you can't log in to your account, start a chat by going to the [{{site.data.keyword.cloud_notm}} Support](https://www.ibm.com/products/cloud/support){: external} page and clicking **Contact us**. Or you can complete the [Create an Account, Login, or Billing Request form](https://watson.service-now.com/x_ibmwc_open_case_app.do#!/create){: external}.
@@ -36,13 +36,12 @@ To access the Support Center, click the **Help** icon ![Help icon](../icons/help
 
 Review your product topics to get a quick overview of the {{site.data.keyword.cloud_notm}} documentation that offers common tasks based on what is provisioned on your account. You can search to view topics based on specific products. You can also view and search through Featured FAQs. If you experience problems with {{site.data.keyword.Bluemix}}, create and manage support cases from the Support Center.
 
-Try asking your question about the issue you're experiencing in the AI assistant by clicking **Launch AI Assistant** in the Support Center to get answers to your questions fast. Then, if you still need help, depending on your type of issue and support plan, you can request to chat with a live agent by typing `agent` in the chat.
+Try asking your question about the issue you're experiencing in [{{site.data.keyword.paver_full}}](https://paver.cloud.ibm.com/){: external}. {{site.data.keyword.paver}} is an AI operator that you can work with to troubleshoot and fix issues because it knows about your account and resources and can take action on your behalf.
 {: tip}
 
 The following are the methods that you can find in the Contact support section if you need help:
 
 * Use the [Create a case](/unifiedsupport/cases/add){: external} page to open a support case.
-* Click **Launch AI Assistant** from the [Support Center](/unifiedsupport/supportcenter){: external} to get help with questions about IBM Cloud.
 * If you have a Basic support plan, you can report technical issues about the {{site.data.keyword.cloud_notm}} platform, or third-party products that are available in the {{site.data.keyword.cloud_notm}} catalog.
 * If you have an Advanced or Premium support plan, you can contact support by using the following options:
      * To chat with support, click **Launch AI Assistant** and type `agent` to connect with a support agent.
@@ -74,20 +73,7 @@ After your technical issue is created, you can follow its progress on the [Manag
 ### Asking a question
 {: #asking-a-question}
 
-You can try asking your question in the {{site.data.keyword.cloud_notm}} AI assistant or you can look in the online communities and forums for guidance on the issue you're experiencing.
-
-#### Asking a question in the AI assistant
-{: #ask-ai}
-
-You can get answers to your questions quickly by using the {{site.data.keyword.cloud_notm}} AI assistant. You can start the AI assistant from the Support Center anytime that you want to ask a question. With each question that you ask, reference citations from the {{site.data.keyword.cloud_notm}} docs are provided.
-
-1. From the {{site.data.keyword.cloud_notm}} console menu bar, click the **Help** icon ![Help icon](../icons/help.svg "Help") > **Support center**.
-1. In the Contact Support section, click **Launch AI Assistant**.
-1. Ask questions about working in your account, working with products and offerings from the catalog, and more to help you stay productive in {{site.data.keyword.cloud_notm}}.
-1. Use the supported documentation references that are returned to have access to additional information and the ability to verify responses.
-
-Content that is generated in the AI assistant might include mistakes or be incorrect.
-{: important}
+You can try asking your question in [{{site.data.keyword.paver_full}}](https://paver.cloud.ibm.com/){: external}, an AI operator with knowledge of your account and resources, or you can look in the online communities and forums for guidance on the issue you're experiencing.
 
 #### Checking online communities
 {: #online-communities}

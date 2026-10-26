@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2026
-lastupdated: "2026-10-20"
+lastupdated: "2026-10-26"
 
 keywords: IBM Cloud support plans, basic support, advanced support, premium support, cloud support, IBM Cloud sales, technical support, response time
 
@@ -30,11 +30,11 @@ The following table compares the support plans available for Pay-As-You-Go accou
 |             | Basic         | Advanced         | Premium         |
 |-------------|---------------|------------------|-----------------|
 | **Best for** | Basic business protection included with Pay-As-You-Go or Subscription accounts | Prioritized case handling aligned with business needs for your Pay-As-You-Go account, Subscription account, or Enterprise Savings Plan billing model | Client engagement aligned with business outcomes to accelerate time-to-value for your Pay-As-You-Go account, Subscription account, or Enterprise Savings Plan billing model |
-| **Availability** | Access to documentation, AI Assistant, and community forums | 24 x 7 access to technical support through cases, phone, and chat | 24 x 7 access to technical support through cases, phone, and chat |
+| **Availability** | Access to documentation, {{site.data.keyword.paver_full}}, and community forums | 24 x 7 access to technical support through cases, phone, and chat | 24 x 7 access to technical support through cases, phone, and chat |
 | **[Case severity](/docs/support?topic=support-support-case-severity)** | Not available | All severity levels available | All severity levels available |
 | **Initial response time objectives** | No SLO for response time | Severity 1: Less than 1 hour  \n Severity 2: Less than 2 hours  \n Severity 3: Less than 4 hours  \n Severity 4: Less than 8 hours | Severity 1: Less than 15 minutes  \n Severity 2: Less than 1 hour  \n Severity 3: Less than 2 hours  \n Severity 4: Less than 4 hours |
 | **Additional support** | None | None | Technical Account Manager  \n Quarterly business reviews  \n Access to experts  \n Event management support | 
-| **Pricing** | Included with cloud entitlement | Pay-As-You-Go and Subscription: Starting at USD 200 per month or 10% of consumption if it exceeds the monthly starting price  \n Enterprise Savings Plan: 10% of consumption | Pay-As-You-Go and Subscription: Starting at USD 10,000 per month or 10% of consumption if it exceeds the monthly starting price  \n Enterprise Savings Plan: 10% of consumption. For more information, see [Viewing your support costs](/docs/support?topic=support-support). |   
+| **Pricing** | Included with cloud entitlement | Pay-As-You-Go and Subscription: Starting at USD 200 per month or 10% of consumption if it exceeds the monthly starting price  \n Enterprise Savings Plan: 10% of consumption | Pay-As-You-Go and Subscription: Starting at USD 10,000 per month or 10% of consumption if it exceeds the monthly starting price  \n Enterprise Savings Plan: 10% of consumption. For more information, see [Viewing your support costs](/docs/support?topic=support-support). |  
 {: row-headers}
 {: class="comparison-table"}
 {: caption="Support plan comparison" caption-side="bottom"}
@@ -113,7 +113,7 @@ The Basic support plan is included with all Pay-As-You-Go and Subscription accou
    * Sales inquiries
 * Access self-service resources:
    * {{site.data.keyword.cloud_notm}} documentation
-   * AI assistant for technical questions
+   * [{{site.data.keyword.paver}}](https://paver.cloud.ibm.com/){: external} for troubleshooting and technical questions
    * Community forums ({{site.data.keyword.cloud_notm}} Community and Stack Overflow)
 
 Basic support does not include technical support for product issues or access to case severity rankings and response time objectives.
