@@ -37,7 +37,7 @@ You can check for upcoming maintenance from your dashboard in the {{site.data.ke
 
 Before you open a support case, explore the following resources:
 
-* Troubleshoot with [{{site.data.keyword.paver_full}}](http://cloud.paver.ibm.com){: external}. {{site.data.keyword.paver}} is an embedded AI operator that understands your account context, creates a resolution plan, and executes changes on your behalf, while always requiring your approval before touching your live environment.
+* Troubleshoot with [{{site.data.keyword.paver}}](http://cloud.paver.ibm.com){: external}. {{site.data.keyword.paver}} is an embedded AI operator that understands your account context, creates a resolution plan, and executes changes on your behalf, while always requiring your approval before touching your live environment.
 * Ask your question in the AI assistant by clicking **Launch AI Assistant** in the Support Center. If you have an Advanced or Premium support plan, you can also chat with a live support agent from the AI assistant.
 * Review the [documentation](/docs).
 * Review the [Featured FAQs](/unifiedsupport/supportcenter) on the Support Center.
