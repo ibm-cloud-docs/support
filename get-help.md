@@ -2,9 +2,9 @@
 
 copyright:
   years: 2026, 2026
-lastupdated: "2026-05-19"
+lastupdated: "2026-10-26"
 
-keywords: IBM Cloud support, get help, technical support, customer support, support resources, troubleshooting, FAQs, support case
+keywords: IBM Cloud support, get help, technical support, customer support, support resources, troubleshooting, FAQs, support case, Paver, IBM Paver
 
 subcollection: support
 
@@ -20,7 +20,8 @@ subcollection: support
 Find resources to resolve issues and get help with IBM Cloud, including FAQs, troubleshooting, and support case creation.
 {: shortdesc}
 
-* Ask a question in the [AI assistant](/docs/overview?topic=overview-ask-ai-assistant) from the console or the {{site.data.keyword.cloud_notm}} CLI.
+* Troubleshoot with [{{site.data.keyword.paver_full}}](http://cloud.paver.ibm.com){: external}. {{site.data.keyword.paver}} is an embedded AI operator that understands your account context, creates a resolution plan, and executes changes on your behalf, while always requiring your approval before touching your live environment.
+* Ask a question in the AI assistant by clicking **Launch AI Assistant** in the Support Center. If you have an Advanced or Premium support plan, you can also chat with a live support agent from the AI assistant.
 * Review the [FAQs](/docs/support?topic=support-get-supportfaq) in the product documentation.
 * Review the [troubleshooting documentation](/docs/support?group=troubleshooting) to troubleshoot and resolve common issues.
 * Check the status of the {{site.data.keyword.Bluemix_notm}} platform and resources by going to the [Status page](/status){: external}.

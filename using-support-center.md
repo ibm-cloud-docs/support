@@ -3,7 +3,7 @@
 copyright:
 
   years: 2019, 2026
-lastupdated: "2026-10-07"
+lastupdated: "2026-10-26"
 
 keywords: IBM Cloud support center, support case, premium support, advanced support, basic support, support page, help, support agent, AI assistant, technical support
 
@@ -36,7 +36,7 @@ To access the Support Center, click the **Help** icon ![Help icon](../icons/help
 
 Review your product topics to get a quick overview of the {{site.data.keyword.cloud_notm}} documentation that offers common tasks based on what is provisioned on your account. You can search to view topics based on specific products. You can also view and search through Featured FAQs. If you experience problems with {{site.data.keyword.Bluemix}}, create and manage support cases from the Support Center.
 
-Try asking your question about the issue you're experiencing in the [AI assistant](/docs/overview?topic=overview-ask-ai-assistant#ask-about-cloud) from the Help menu to get answers to your questions fast. Then, if you still need help, depending on your type of issue and support plan, you can request to chat with a live agent by typing `agent` in the chat.
+Try asking your question about the issue you're experiencing in the AI assistant by clicking **Launch AI Assistant** in the Support Center to get answers to your questions fast. Then, if you still need help, depending on your type of issue and support plan, you can request to chat with a live agent by typing `agent` in the chat.
 {: tip}
 
 The following are the methods that you can find in the Contact support section if you need help:
@@ -79,9 +79,10 @@ You can try asking your question in the {{site.data.keyword.cloud_notm}} AI assi
 #### Asking a question in the AI assistant
 {: #ask-ai}
 
-You can get answers to your questions quickly by using the {{site.data.keyword.cloud_notm}} AI assistant. You can start the AI assistant from the {{site.data.keyword.cloud_notm}} console header from the Help menu anytime that you want to ask a question, and it follows along with you in the console until you close it. With each question that you ask, reference citations from the {{site.data.keyword.cloud_notm}} docs are provided. For more information, see [Getting help from the AI assistant](/docs/overview?topic=overview-ask-ai-assistant).
+You can get answers to your questions quickly by using the {{site.data.keyword.cloud_notm}} AI assistant. You can start the AI assistant from the Support Center anytime that you want to ask a question. With each question that you ask, reference citations from the {{site.data.keyword.cloud_notm}} docs are provided.
 
-1. From the {{site.data.keyword.cloud_notm}} console menu bar, click the **Help** icon ![Help icon](../icons/help.svg "Help") > **AI assistant**.
+1. From the {{site.data.keyword.cloud_notm}} console menu bar, click the **Help** icon ![Help icon](../icons/help.svg "Help") > **Support center**.
+1. In the Contact Support section, click **Launch AI Assistant**.
 1. Ask questions about working in your account, working with products and offerings from the catalog, and more to help you stay productive in {{site.data.keyword.cloud_notm}}.
 1. Use the supported documentation references that are returned to have access to additional information and the ability to verify responses.
 
