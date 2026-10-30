@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2026
-lastupdated: "2026-10-28"
+lastupdated: "2026-10-30"
 
 keywords: IBM Cloud support plans, basic support, basic support plan, what is basic support, support plans, advanced support, premium support, cloud support, IBM Cloud sales, technical support, response time
 
@@ -59,6 +59,13 @@ The Premium support plan is for mission-critical environments that have a strate
 * **Event management.** The technical account manager can arrange architectural support on scaling and high availability for critical customer events such as maintenance, promotions, or holiday events.
 * **Seminars and events.** Your technical account manager ensures that your teams are engaged in IBM events and conferences.
 * **Quarterly business reviews.** Your technical account manager provides periodic business reviews of cloud usage, support case activity, escalations, upcoming planned maintenance, upcoming EOL/EOS dates and how to plan for those, and reviews of your users and permissions.
+
+
+
+The monthly minimum is prorated in the first month of your order based on the order start date. In all subsequent months, the full monthly minimum of USD 10,000 applies from the first hour of the month.
+
+Paid support plans cannot be cancelled mid-month. Cancellations require a support case and take effect at the end of the current billing month.
+{: note}
 
 
 

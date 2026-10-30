@@ -3,7 +3,7 @@
 copyright:
 
   years: 2019, 2026
-lastupdated: "2026-10-26"
+lastupdated: "2026-10-30"
 
 keywords: IBM Cloud support, frequently asked question, faq, support cases, email preferences, access for cases, support faq, contact support, Paver, IBM Paver
 
@@ -99,7 +99,7 @@ To view your support costs, you need an access policy with the Administrator rol
 {: faq}
 {: support}
 
-If you have a Basic or Advanced support plan, you can request to upgrade your plan by creating a case in the [Support Center](/unifiedsupport/supportcenter). Alternatively, you can contact an [{{site.data.keyword.cloud_notm}} Sales](https://www.ibm.com/solutions/cloud?contactmodule){: external} representative. For more information about the different support plans, see [Support plans](/docs/support?topic=support-support-plans).
+If you have a Basic or Advanced support plan, you can request to upgrade your plan by creating a case in the [Request an upgrade](/unifiedsupport/cases/form#). Alternatively, you can contact an [{{site.data.keyword.cloud_notm}} Sales](https://www.ibm.com/solutions/cloud?contactmodule){: external} representative. For more information about the different support plans, see [Support plans](/docs/support?topic=support-support-plans).
 
 ## Why can't I see my support cases? 
 {: #view-support-cases}
