@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2026
-lastupdated: "2026-10-28"
+lastupdated: "2026-11-02"
 
 keywords: IBM Cloud support plans, basic support, basic support plan, what is basic support, support plans, advanced support, premium support, cloud support, IBM Cloud sales, technical support, response time
 
@@ -33,20 +33,16 @@ The following table compares the support plans available for Pay-As-You-Go accou
 | **Availability** | Access to documentation, {{site.data.keyword.paver_full}}, and community forums | 24 x 7 access to technical support through cases, phone, and chat | 24 x 7 access to technical support through cases, phone, and chat |
 | **[Case severity](/docs/support?topic=support-support-case-severity)** | Not available | All severity levels available | All severity levels available |
 | **Initial response time objectives** | No SLO for response time | Severity 1: Less than 1 hour  \n Severity 2: Less than 2 hours  \n Severity 3: Less than 4 hours  \n Severity 4: Less than 8 hours | Severity 1: Less than 15 minutes  \n Severity 2: Less than 1 hour  \n Severity 3: Less than 2 hours  \n Severity 4: Less than 4 hours |
-| **Additional support** | None | None | Technical Account Manager  \n Quarterly business reviews  \n Access to experts  \n Event management support | 
-| **Pricing** | Included with cloud entitlement | Pay-As-You-Go and Subscription: Starting at USD 200 per month or 10% of consumption if it exceeds the monthly starting price  \n Enterprise Savings Plan: 10% of consumption | Pay-As-You-Go and Subscription: Starting at USD 10,000 per month or 10% of consumption if it exceeds the monthly starting price  \n Enterprise Savings Plan: 10% of consumption. For more information, see [Viewing your support costs](/docs/support?topic=support-support). |  
+| **Additional support** | None | None | Technical Account Manager  \n Quarterly business reviews  \n Access to experts  \n Event management support |
+| **Pricing** | Included with cloud entitlement |  Pay-As-You-Go, Subscription, or Enterprise Savings Plan: Starting at USD 200 per month or 10% of consumption if it exceeds the monthly starting price. Pricing varies by plan type for new plans, see [Advanced support pricing](/docs/support?topic=support-support-plans#advanced-pricing). \n Charges for third-party services are excluded from Advanced support cost calculations. | Pay-As-You-Go, Subscription, or Enterprise Savings Plan: Starting at USD 10,000 per month or 10% of consumption if it exceeds the monthly starting price. Pricing varies by plan type for new plans, see [Premium support pricing](/docs/support?topic=support-support-plans#premium-pricing). \n Charges for third-party services are excluded from Premium support cost calculations. For more information, see [Viewing your support costs](/docs/support?topic=support-support#view-support). 
 {: row-headers}
 {: class="comparison-table"}
 {: caption="Support plan comparison" caption-side="bottom"}
 {: summary="This table has row and column headers. The row headers identify the aspects of support. The column headers identify the support plan."}
 
 
-For Enterprise Savings Plans, there is a minimum commitment for Advanced and Premium support. If you don't spend the total committed amount by the end of the commitment term, you are invoiced for the amount that you didn't consume, and any amount used over the commitment is also charged. For more information, contact an [{{site.data.keyword.cloud_notm}} Sales](https://www.ibm.com/solutions/cloud?contactmodule){: external} representative.
+There is a monthly minimum for Advanced and Premium support. For more information, contact an [{{site.data.keyword.cloud_notm}} Sales](https://www.ibm.com/solutions/cloud?contactmodule){: external} representative.
 {: note}
-
-
-
-
 
 ## Premium support
 {: #premium-support}
@@ -61,6 +57,11 @@ The Premium support plan is for mission-critical environments that have a strate
 * **Quarterly business reviews.** Your technical account manager provides periodic business reviews of cloud usage, support case activity, escalations, upcoming planned maintenance, upcoming EOL/EOS dates and how to plan for those, and reviews of your users and permissions.
 
 
+
+The monthly minimum is prorated in the first month of your order based on the order start date. In all subsequent months, the full monthly minimum of USD 10,000 applies from the first hour of the month.
+
+Paid support plans cannot be cancelled mid-month. Cancellations require a support case and take effect at the end of the current billing month.
+{: note}
 
 ### Premium support for events
 {: #premium-support-events}

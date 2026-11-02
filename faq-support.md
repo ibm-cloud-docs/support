@@ -3,7 +3,7 @@
 copyright:
 
   years: 2019, 2026
-lastupdated: "2026-10-26"
+lastupdated: "2026-11-02"
 
 keywords: IBM Cloud support, frequently asked question, faq, support cases, email preferences, access for cases, support faq, contact support, Paver, IBM Paver
 
@@ -99,7 +99,7 @@ To view your support costs, you need an access policy with the Administrator rol
 {: faq}
 {: support}
 
-If you have a Basic or Advanced support plan, you can request to upgrade your plan by creating a case in the [Support Center](/unifiedsupport/supportcenter). Alternatively, you can contact an [{{site.data.keyword.cloud_notm}} Sales](https://www.ibm.com/solutions/cloud?contactmodule){: external} representative. For more information about the different support plans, see [Support plans](/docs/support?topic=support-support-plans).
+If you have a Basic or Advanced support plan, you can request to upgrade your plan by creating a case in the support center through [Request an upgrade](/unifiedsupport/cases/form#) link. Alternatively, you can contact an [{{site.data.keyword.cloud_notm}} Sales](https://www.ibm.com/solutions/cloud?contactmodule){: external} representative. For more information about the different support plans, see [Support plans](/docs/support?topic=support-support-plans).
 
 ## Why can't I see my support cases? 
 {: #view-support-cases}
@@ -168,4 +168,16 @@ Watchlists are specific to each case. You must manually add a user to each indiv
 {: #chat-with-support}
 {: faq}
 
-You can chat with support if you have an Advanced or Premium support plan. Go to the [Support Center](/unifiedsupport/supportcenter){: external}, click **Launch AI Assistant**, and type `agent` to connect with a support agent. Or, call the number provided in the Contact Support section. To upgrade your support plan, create a case in the [Support Center](/unifiedsupport/supportcenter) or contact an [{{site.data.keyword.cloud_notm}} Sales](https://www.ibm.com/solutions/cloud?contactmodule){: external} representative for assistance.
+You can chat with support if you have an Advanced or Premium support plan. Go to the [Support Center](/unifiedsupport/supportcenter){: external}, click **Launch AI Assistant**, and type `agent` to connect with a support agent. Or, call the number provided in the Contact Support section. To upgrade your support plan, create a case in the support center through [Request an upgrade](/unifiedsupport/cases/form#) link, or contact an [{{site.data.keyword.cloud_notm}} Sales](https://www.ibm.com/solutions/cloud?contactmodule){: external} representative for assistance.
+
+
+
+## Are promotional credits and percentage discounts available for support?
+{: #support-promo-discount}
+{: faq}
+
+Yes. Both promotional credits and percentage discounts can be applied to your support costs. Account-level promotional credits apply across all eligible services, including support. Service-level promotional credits apply only to the specific service for which they are issued. Platform offers (free-of-charge credits), when available, can also be applied to the monthly minimum before any support charges are assessed.
+
+For Enterprise Savings Plan (ESP) accounts, previously, service-level promotional credits that reduced platform usage charges could also reduce support consumption and minimum support commitments. With the introduction of paid support, service-level discounts no longer affect support charges, minimums, or consumption calculations.
+
+For more information about promotional offerings, contact [{{site.data.keyword.cloud_notm}} Sales](https://www.ibm.com/solutions/cloud?contactmodule){: external}.
