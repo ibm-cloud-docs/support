@@ -168,7 +168,7 @@ Watchlists are specific to each case. You must manually add a user to each indiv
 {: #chat-with-support}
 {: faq}
 
-You can chat with support if you have an Advanced or Premium support plan. Go to the [Support Center](/unifiedsupport/supportcenter){: external}, click **Launch AI Assistant**, and type `agent` to connect with a support agent. Or, call the number provided in the Contact Support section. To upgrade your support plan, create a case in the [Support Center](/unifiedsupport/supportcenter) or contact an [{{site.data.keyword.cloud_notm}} Sales](https://www.ibm.com/solutions/cloud?contactmodule){: external} representative for assistance.
+You can chat with support if you have an Advanced or Premium support plan. Go to the [Support Center](/unifiedsupport/supportcenter){: external}, click **Launch AI Assistant**, and type `agent` to connect with a support agent. Or, call the number provided in the Contact Support section. To upgrade your support plan, create a case in the support center through [Request an upgrade](/unifiedsupport/cases/form#) link, or contact an [{{site.data.keyword.cloud_notm}} Sales](https://www.ibm.com/solutions/cloud?contactmodule){: external} representative for assistance.
 
 
 

@@ -63,8 +63,6 @@ The monthly minimum is prorated in the first month of your order based on the or
 Paid support plans cannot be cancelled mid-month. Cancellations require a support case and take effect at the end of the current billing month.
 {: note}
 
-
-
 ### Premium support for events
 {: #premium-support-events}
 
@@ -102,11 +100,6 @@ The Advanced support plan is designed for environments with a limited number of 
 Advanced support is ideal for organizations that need faster response times and technical assistance beyond self-service resources.
 
 
-
-The monthly minimum is prorated in the first month of your order based on the order start date. In all subsequent months, the full monthly minimum of USD 200 applies from the first hour of the month.
-
-Paid support plans cannot be cancelled mid-month. Cancellations require a support case and take effect at the end of the current billing month.
-{: note}
 
 ## Basic support
 {: #free-support}
