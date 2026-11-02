@@ -169,3 +169,15 @@ Watchlists are specific to each case. You must manually add a user to each indiv
 {: faq}
 
 You can chat with support if you have an Advanced or Premium support plan. Go to the [Support Center](/unifiedsupport/supportcenter){: external}, click **Launch AI Assistant**, and type `agent` to connect with a support agent. Or, call the number provided in the Contact Support section. To upgrade your support plan, create a case in the [Support Center](/unifiedsupport/supportcenter) or contact an [{{site.data.keyword.cloud_notm}} Sales](https://www.ibm.com/solutions/cloud?contactmodule){: external} representative for assistance.
+
+
+
+## Are promotional credits and percentage discounts available for support?
+{: #support-promo-discount}
+{: faq}
+
+Yes. Both promotional credits and percentage discounts can be applied to your support costs. Account-level promotional credits apply across all eligible services, including support. Service-level promotional credits apply only to the specific service for which they are issued. Platform offers (free-of-charge credits), when available, can also be applied to the monthly minimum before any support charges are assessed.
+
+For Enterprise Savings Plan (ESP) accounts, previously, service-level promotional credits that reduced platform usage charges could also reduce support consumption and minimum support commitments. With the introduction of paid support, service-level discounts no longer affect support charges, minimums, or consumption calculations.
+
+For more information about promotional offerings, contact [{{site.data.keyword.cloud_notm}} Sales](https://www.ibm.com/solutions/cloud?contactmodule){: external}.
