@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2026
-lastupdated: "2026-10-30"
+lastupdated: "2026-11-02"
 
 keywords: IBM Cloud support plans, basic support, basic support plan, what is basic support, support plans, advanced support, premium support, cloud support, IBM Cloud sales, technical support, response time
 
@@ -106,6 +106,11 @@ The Advanced support plan is designed for environments with a limited number of 
 Advanced support is ideal for organizations that need faster response times and technical assistance beyond self-service resources.
 
 
+
+The monthly minimum is prorated in the first month of your order based on the order start date. In all subsequent months, the full monthly minimum of USD 200 applies from the first hour of the month.
+
+Paid support plans cannot be cancelled mid-month. Cancellations require a support case and take effect at the end of the current billing month.
+{: note}-->
 
 ## Basic support
 {: #free-support}
