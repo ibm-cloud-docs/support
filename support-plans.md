@@ -110,7 +110,7 @@ Advanced support is ideal for organizations that need faster response times and 
 The monthly minimum is prorated in the first month of your order based on the order start date. In all subsequent months, the full monthly minimum of USD 200 applies from the first hour of the month.
 
 Paid support plans cannot be cancelled mid-month. Cancellations require a support case and take effect at the end of the current billing month.
-{: note}-->
+{: note}
 
 ## Basic support
 {: #free-support}
