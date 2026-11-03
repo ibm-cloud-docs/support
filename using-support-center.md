@@ -3,9 +3,9 @@
 copyright:
 
   years: 2019, 2026
-lastupdated: "2026-10-26"
+lastupdated: "2026-11-03"
 
-keywords: IBM Cloud support center, support case, premium support, advanced support, basic support, support page, help, support agent, AI assistant, technical support
+keywords: IBM Cloud support center, support case, premium support, advanced support, basic support, support page, help, support agent, IBM Paver, technical support
 
 subcollection: support
 
@@ -16,7 +16,7 @@ subcollection: support
 # Getting help with IBM Cloud: Using the Support Center
 {: #using-avatar}
 
-Learn how to access the IBM Cloud Support Center, create and manage support cases, and access self-help resources.
+Learn how to access the IBM Cloud Support Center, create and manage support cases, and access self-help resources like getting help with technical issues by using {{site.data.keyword.paver_full}}.
 {: shortdesc}
 
 If you can't log in to your account, start a chat by going to the [{{site.data.keyword.cloud_notm}} Support](https://www.ibm.com/products/cloud/support){: external} page and clicking **Contact us**. Or you can complete the [Create an Account, Login, or Billing Request form](https://watson.service-now.com/x_ibmwc_open_case_app.do#!/create){: external}.
@@ -34,19 +34,15 @@ Three different types of support plans are offered. For more information, see [S
 
 To access the Support Center, click the **Help** icon ![Help icon](../icons/help.svg "Help") > **Support center** from the {{site.data.keyword.cloud_notm}} console menu bar.
 
-Review your product topics to get a quick overview of the {{site.data.keyword.cloud_notm}} documentation that offers common tasks based on what is provisioned on your account. You can search to view topics based on specific products. You can also view and search through Featured FAQs. If you experience problems with {{site.data.keyword.Bluemix}}, create and manage support cases from the Support Center.
+From the Support Center, you can search documentation, view FAQs, and create and manage support cases.
 
-Try asking your question about the issue you're experiencing in [{{site.data.keyword.paver_full}}](https://paver.cloud.ibm.com/){: external}. {{site.data.keyword.paver}} is an AI operator that you can work with to troubleshoot and fix issues because it knows about your account and resources and can take action on your behalf.
-{: tip}
+The **Contact support** section provides the following options for getting help:
 
-The following are the methods that you can find in the Contact support section if you need help:
-
-* Use the [Create a case](/unifiedsupport/cases/add){: external} page to open a support case.
-* If you have a Basic support plan, you can report technical issues about the {{site.data.keyword.cloud_notm}} platform, or third-party products that are available in the {{site.data.keyword.cloud_notm}} catalog.
-* If you have an Advanced or Premium support plan, you can contact support by using the following options:
-     * To chat with support, click **Launch AI Assistant** and type `agent` to connect with a support agent.
-     * Contact support by phone using the number in the [Support Center](/unifiedsupport/supportcenter){: external}.
-* If you have technical questions, you can follow a link in the Ask your IBM peers section to ask questions of others in online communities.
+* Click **Create case** on the [Support Center](/unifiedsupport/supportcenter){: external} page to open a support case.
+* Click **Ask Paver** to ask questions, troubleshoot issues, or request to connect with a live support agent in chat.
+* If you have a Basic support plan, you can report technical issues about the {{site.data.keyword.cloud_notm}} platform or third-party products available in the catalog.
+* If you have an Advanced or Premium support plan, you can also contact support by phone using the number listed in the Support Center.
+* In the **Ask your IBM peers** section, follow community links to ask technical questions and find answers from other users.
 
 Users in the account need assigned access to create, update, search, or view cases. For more information, see [Assigning user access for working with support cases](/docs/support?topic=support-access-cases).
 {: note}
@@ -70,10 +66,25 @@ The technical issue that you submit does not include direct interaction with the
 After your technical issue is created, you can follow its progress on the [Manage cases](/unifiedsupport/cases){: external} page.
 {: tip}
 
-### Asking a question
+### Using self-help options in {{site.data.keyword.cloud_notm}}
 {: #asking-a-question}
 
-You can try asking your question in [{{site.data.keyword.paver_full}}](https://paver.cloud.ibm.com/){: external}, an AI operator with knowledge of your account and resources, or you can look in the online communities and forums for guidance on the issue you're experiencing.
+You can use {{site.data.keyword.paver_full_notm}} to troubleshoot and resolve issues, or you can look in the online communities and forums for guidance on the issue you're experiencing.
+
+#### Using IBM Paver
+{: #ask-ai}
+
+{{site.data.keyword.paver_full_notm}} is a built-in AI operator that helps you troubleshoot and resolve issues in {{site.data.keyword.cloud_notm}} by using natural language. In addition to answering questions, {{site.data.keyword.paver_full_notm}} can inspect your account and resources, propose a plan to fix an issue, and apply changes to your live environment with your approval. {{site.data.keyword.paver_full_notm}} operates within your assigned permissions and access policies and cannot exceed your authorized access. For more information, see [About {{site.data.keyword.paver_full_notm}} for {{site.data.keyword.cloud_notm}}](/docs/paver?topic=paver-paver-about).
+
+To use {{site.data.keyword.paver_full_notm}} from the Support Center, complete the following steps:
+
+1. From the {{site.data.keyword.cloud_notm}} console menu bar, click the **Help** icon ![Help icon](../icons/help.svg "Help") > **Support center**.
+1. In the **Contact Support** section, click **Ask Paver**.
+1. Describe your issue or request in natural language. {{site.data.keyword.paver_full_notm}} can help you troubleshoot issues, resolve incidents, deploy applications, optimize costs, and identify security risks.
+1. If your issue requires assistance from support, you can ask {{site.data.keyword.paver_full_notm}} in the chat to connect you with a live support agent or help you open a support case.
+
+Content that is generated by {{site.data.keyword.paver_full_notm}} might contain errors or inaccuracies.
+{: important}
 
 #### Checking online communities
 {: #online-communities}

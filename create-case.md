@@ -3,9 +3,9 @@
 copyright:
 
   years: 2019, 2026
-lastupdated: "2026-10-26"
+lastupdated: "2026-11-03"
 
-keywords: IBM Cloud support case, create support case, open support ticket, technical support, customer support, support ticket, access issues, billing support
+keywords: IBM Cloud support case, create support case, open support ticket, technical support, customer support, support ticket, access issues, billing support, Paver, IBM Paver
 
 subcollection: support
 

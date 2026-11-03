@@ -3,7 +3,7 @@
 copyright:
 
   years: 2019, 2026
-lastupdated: "2026-11-02"
+lastupdated: "2026-11-03"
 
 keywords: IBM Cloud support, frequently asked question, faq, support cases, email preferences, access for cases, support faq, contact support, Paver, IBM Paver
 
@@ -37,13 +37,17 @@ You can check for upcoming maintenance from your dashboard in the {{site.data.ke
 
 Before you open a support case, explore the following resources:
 
-* Troubleshoot with [{{site.data.keyword.paver_full}}](http://cloud.paver.ibm.com){: external}. {{site.data.keyword.paver}} is an embedded AI operator that understands your account context, creates a resolution plan, and executes changes on your behalf, while always requiring your approval before touching your live environment.
-* Ask your question in the AI assistant by clicking **Launch AI Assistant** in the Support Center. If you have an Advanced or Premium support plan, you can also chat with a live support agent from the AI assistant.
+* Troubleshoot with [{{site.data.keyword.paver_full}}](https://paver.cloud.ibm.com/){: external}. {{site.data.keyword.paver}} is a built-in AI operator that understands your account context, creates a resolution plan, and executes changes on your behalf, while always requiring your approval before touching your live environment.
 * Review the [documentation](/docs).
 * Review the [Featured FAQs](/unifiedsupport/supportcenter) on the Support Center.
 * Go to the [FAQ library](/docs/faqs).
 * Go to [Stack Overflow](https://stackoverflow.com/questions/tagged/ibm-cloud){: external} to ask technical questions about developing apps with the {{site.data.keyword.cloud_notm}} platform and services.
 
+## What can {{site.data.keyword.paver_full_notm}} do to help resolve my issue?
+{: #paver-resolve-issue}
+{: faq}
+
+[{{site.data.keyword.paver_full_notm}}](https://paver.cloud.ibm.com/){: external} is a built-in AI operator that helps you troubleshoot and resolve issues in {{site.data.keyword.cloud_notm}} through natural language. {{site.data.keyword.paver_full_notm}} can diagnose problems, resolve incidents, and answer questions about your account and resources. Rather than generating code for you to run elsewhere, {{site.data.keyword.paver_full_notm}} acts on your behalf: it reads your account context, explains its plan, and applies changes to your live environment only with your approval. {{site.data.keyword.paver_full_notm}} operates within your existing permissions and security policies and can't exceed your authorized access. If you have an Advanced or Premium support plan, you can also ask {{site.data.keyword.paver_full_notm}} to connect you with a live support agent by using natural language. If {{site.data.keyword.paver_full_notm}} can't resolve your issue, you can [create a support case](/docs/support?topic=support-open-case).
 
 ## How do I open a support case?
 {: #open-support-case}
@@ -56,9 +60,9 @@ If you have paid support plans, for example Advanced or Premium plans, go to the
 {: #contactsupport-faq}
 {: faq}
 
-From the {{site.data.keyword.cloud_notm}} console menu bar, click the **Help** icon ![Help icon](../icons/help.svg "Help") > **Support center**. The **Contact Support** section provides the options for getting in touch with a support representative: start a live chat from the AI Assistant, contact by phone, or create a support case. You can start a chat with a live agent from the AI assistant by typing `agent` in the chat. The options that are available to you depend on your support plan. For more information, see [Getting support](/docs/support?topic=support-support-plans).
+From the {{site.data.keyword.cloud_notm}} console menu bar, click the **Help** icon ![Help icon](../icons/help.svg "Help") > **Support center**. The **Contact Support** section provides the following options: use {{site.data.keyword.paver_full_notm}} to troubleshoot issues, resolve incidents, and ask questions, contact by phone, or create a support case. If you have an Advanced or Premium support plan, you can also start a chat with a live agent from [{{site.data.keyword.paver_full_notm}}](https://paver.cloud.ibm.com/){: external} by using natural language, for example: "I want to chat with a support agent." The options that are available to you depend on your support plan. For more information, see [Getting support](/docs/support?topic=support-support-plans).
 
-Nonpaid account support is limited to nontechnical support issues that are related to account access and billing. Users with these nonpaid support accounts can self-report hardware issues, submit account or billing requests (including quota increases) through the portal, respond to {{site.data.keyword.IBM_notm}}-initiated support cases, and access the following self-service tools: [{{site.data.keyword.paver}}](https://paver.cloud.ibm.com/){: external}, {{site.data.keyword.cloud_notm}} docs, Community forums, and status pages. Users can also use [Stack Overflow](https://stackoverflow.com/questions/tagged/ibm-cloud){: external}. If your organization needs more advanced technical support, faster response times, or severity-level control, you can upgrade to a paid support plan by creating a case in the [Support Center](/unifiedsupport/supportcenter). You can also contact your {{site.data.keyword.IBM_notm}} Sales representative for assistance.
+Nonpaid account support is limited to nontechnical support issues that are related to account access and billing. Users with these nonpaid support accounts can self-report hardware issues, submit account or billing requests (including quota increases) through the portal, respond to {{site.data.keyword.IBM_notm}}-initiated support cases, and access the following self-service tools: {{site.data.keyword.paver_full_notm}}, {{site.data.keyword.cloud_notm}} docs, Community forums, and status pages. Users can also use [Stack Overflow](https://stackoverflow.com/questions/tagged/ibm-cloud){: external}. If your organization needs more advanced technical support, faster response times, or severity-level control, you can upgrade to a paid support plan by creating a case in the [Support Center](/unifiedsupport/supportcenter). You can also contact your {{site.data.keyword.IBM_notm}} Sales representative for assistance.
 
 ## How can I receive technical support as a Basic support customer?
 {: #basic-tech-support}
@@ -168,7 +172,7 @@ Watchlists are specific to each case. You must manually add a user to each indiv
 {: #chat-with-support}
 {: faq}
 
-You can chat with support if you have an Advanced or Premium support plan. Go to the [Support Center](/unifiedsupport/supportcenter){: external}, click **Launch AI Assistant**, and type `agent` to connect with a support agent. Or, call the number provided in the Contact Support section. To upgrade your support plan, create a case in the support center through [Request an upgrade](/unifiedsupport/cases/form#) link, or contact an [{{site.data.keyword.cloud_notm}} Sales](https://www.ibm.com/solutions/cloud?contactmodule){: external} representative for assistance.
+You can chat with support if you have an Advanced or Premium support plan. Go to the [Support Center](/unifiedsupport/supportcenter){: external}, click **Ask Paver**, and ask to connect with a support agent in your own words, for example: "connect me to a live agent." Alternatively, you can request to chat with a live agent by opening [{{site.data.keyword.paver_full_notm}}](https://paver.cloud.ibm.com/){: external} from the Help menu. Or, call the number provided in the Contact Support section. To upgrade your support plan, create a case in the [Support Center](/unifiedsupport/supportcenter) or contact an [{{site.data.keyword.cloud_notm}} Sales](https://www.ibm.com/solutions/cloud?contactmodule){: external} representative for assistance.
 
 
 
