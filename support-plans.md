@@ -3,9 +3,9 @@
 copyright:
 
   years: 2015, 2026
-lastupdated: "2026-11-02"
+lastupdated: "2026-11-03"
 
-keywords: IBM Cloud support plans, basic support, basic support plan, what is basic support, support plans, advanced support, premium support, cloud support, IBM Cloud sales, technical support, response time
+keywords: IBM Cloud support plans, basic support, advanced support, premium support, cloud support, IBM Cloud sales, technical support, response time
 
 subcollection: support
 

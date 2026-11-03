@@ -44,16 +44,16 @@
     "view_more": "/docs/overview?topic=overview-whatsnew",
     "tiles": [
       {
+        "date": "3 November 2026",
+        "title": "Live support chat with IBM Paver in the Support Center"
+      },
+      {
         "date": "22 June 2026",
         "title": "Basic support plan upgrade available in Support Center"
       },
       {
         "date": "11 June 2026",
         "title": "Chennai 01 (CHE01) data center closes in June 2027"
-      },
-      {
-        "date": "20 February 2026",
-        "title": "Enhanced case management features"
       }
     ]
   }

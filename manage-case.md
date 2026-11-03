@@ -3,9 +3,9 @@
 copyright:
 
   years: 2019, 2026
-lastupdated: "2026-10-26"
+lastupdated: "2026-11-03"
 
-keywords: managing support cases, IBM Cloud support, case management, update support ticket, view case status, resolve support case, case severity, close support ticket, reopen case
+keywords: managing support cases, IBM Cloud support, case management, update support ticket, view case status, resolve support case, case severity, close support ticket, reopen case, Paver, IBM Paver
 
 subcollection: support
 
@@ -364,7 +364,7 @@ With a paid support plan, you can use the escalation process to surface critical
 To escalate a case, complete the following steps:
 
 1. Contact {{site.data.keyword.cloud_notm}} Support by chat or by phone.
-   * Click **Launch AI Assistant** in the [Support Center](/unifiedsupport/supportcenter){: external} and type `agent` to connect with a support agent
+   * Click **Ask Paver** in the [Support Center](/unifiedsupport/supportcenter){: external} and ask to connect with a support agent in your own words, for example: "I need to speak with a support agent."
    * Connect by phone using the number in the [Support Center](/unifiedsupport/supportcenter){: external}.
 1. Provide your existing case number and a request to escalate the case.
 1. Provide the justification for an escalation and explain the business impact of your problem or issue.
