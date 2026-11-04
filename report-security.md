@@ -3,7 +3,7 @@
 copyright:
 
   years: 2019, 2026
-lastupdated: "2026-05-19"
+lastupdated: "2026-11-04"
 
 keywords: IBM Cloud security, security vulnerability, reporting vulnerability, report security issue
 
@@ -13,10 +13,10 @@ subcollection: support
 
 {{site.data.keyword.attribute-definition-list}}
 
-# Reporting security vulnerabilities in IBM Cloud
+# Reporting IBM Cloud security vulnerabilities
 {: #report-security-vulnerability}
 
-Learn how to report a potential IBM Cloud security vulnerability by opening a support case and providing necessary details securely.
+Learn how to report an IBM Cloud security vulnerability by opening a high-severity support case and securely providing necessary details.
 {: shortdesc}
 
 1. Open a severity 1 case or a case of the highest severity level that your support allows. For information about how to open a case, see [Creating support cases](/docs/support?topic=support-open-case).

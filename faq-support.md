@@ -3,7 +3,7 @@
 copyright:
 
   years: 2019, 2026
-lastupdated: "2026-11-03"
+lastupdated: "2026-11-04"
 
 keywords: IBM Cloud support, frequently asked question, faq, support cases, email preferences, access for cases, support faq, contact support, Paver, IBM Paver
 
@@ -60,7 +60,7 @@ If you have paid support plans, for example Advanced or Premium plans, go to the
 {: #contactsupport-faq}
 {: faq}
 
-From the {{site.data.keyword.cloud_notm}} console menu bar, click the **Help** icon ![Help icon](../icons/help.svg "Help") > **Support center**. The **Contact Support** section provides the following options: use {{site.data.keyword.paver_full_notm}} to troubleshoot issues, resolve incidents, and ask questions, contact by phone, or create a support case. If you have an Advanced or Premium support plan, you can also start a chat with a live agent from [{{site.data.keyword.paver_full_notm}}](https://paver.cloud.ibm.com/){: external} by using natural language, for example: "I want to chat with a support agent." The options that are available to you depend on your support plan. For more information, see [Getting support](/docs/support?topic=support-support-plans).
+From the {{site.data.keyword.cloud_notm}} console menu bar, click the **Help** icon ![Help icon](../icons/help.svg "Help") > **Support center**. The **Contact Support** section provides the following options: use {{site.data.keyword.paver_full_notm}} to troubleshoot issues, resolve incidents, and ask questions, contact by phone, or create a support case. If you have an Advanced or Premium support plan, you can also start a chat with a live agent from [{{site.data.keyword.paver_full_notm}}](https://paver.cloud.ibm.com/){: external} by using natural language, for example: "I want to chat with a support agent." The options that are available to you depend on your support plan. For more information, see [Comparing IBM Cloud support plans: Basic, Advanced, and Premium plan options](/docs/support?topic=support-support-plans).
 
 Nonpaid account support is limited to nontechnical support issues that are related to account access and billing. Users with these nonpaid support accounts can self-report hardware issues, submit account or billing requests (including quota increases) through the portal, respond to {{site.data.keyword.IBM_notm}}-initiated support cases, and access the following self-service tools: {{site.data.keyword.paver_full_notm}}, {{site.data.keyword.cloud_notm}} docs, Community forums, and status pages. Users can also use [Stack Overflow](https://stackoverflow.com/questions/tagged/ibm-cloud){: external}. If your organization needs more advanced technical support, faster response times, or severity-level control, you can upgrade to a paid support plan by creating a case in the [Support Center](/unifiedsupport/supportcenter). You can also contact your {{site.data.keyword.IBM_notm}} Sales representative for assistance.
 
@@ -103,7 +103,7 @@ To view your support costs, you need an access policy with the Administrator rol
 {: faq}
 {: support}
 
-If you have a Basic or Advanced support plan, you can request to upgrade your plan by creating a case in the support center through [Request an upgrade](/unifiedsupport/cases/form#) link. Alternatively, you can contact an [{{site.data.keyword.cloud_notm}} Sales](https://www.ibm.com/solutions/cloud?contactmodule){: external} representative. For more information about the different support plans, see [Support plans](/docs/support?topic=support-support-plans).
+If you have a Basic or Advanced support plan, you can request to upgrade your plan by creating a case in the support center through [Request an upgrade](/unifiedsupport/cases/form#) link. Alternatively, you can contact an [{{site.data.keyword.cloud_notm}} Sales](https://www.ibm.com/solutions/cloud?contactmodule){: external} representative. For more information about the different support plans, see [Comparing IBM Cloud support plans: Basic, Advanced, and Premium plan options](/docs/support?topic=support-support-plans).
 
 ## Why can't I see my support cases? 
 {: #view-support-cases}

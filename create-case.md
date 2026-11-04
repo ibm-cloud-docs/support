@@ -3,7 +3,7 @@
 copyright:
 
   years: 2019, 2026
-lastupdated: "2026-11-03"
+lastupdated: "2026-11-04"
 
 keywords: IBM Cloud support case, create support case, open support ticket, technical support, customer support, support ticket, access issues, billing support, Paver, IBM Paver
 
@@ -95,7 +95,7 @@ To request an upgrade to your support plan, complete the following steps:
 1. Optionally, attach files with additional information, add users to the watchlist to keep them informed, or select **Email me updates about this case** to receive notifications.
 1. Click **Next**, review your case summary, and click **Submit case**.
 
-After you submit your upgrade request case, the {{site.data.keyword.cloud_notm}} support team upgrades the support plan for you and let you know when the process is complete. The upgrade typically takes a few days to a week to complete. For more information about the different support plans and their features, see [Support plans](/docs/support?topic=support-support-plans).
+After you submit your upgrade request case, the {{site.data.keyword.cloud_notm}} support team upgrades the support plan for you and let you know when the process is complete. The upgrade typically takes a few days to a week to complete. For more information about the different support plans and their features, see [Comparing IBM Cloud support plans: Basic, Advanced, and Premium plan options](/docs/support?topic=support-support-plans).
 
 Alternatively, you can upgrade your support plan by contacting an [{{site.data.keyword.cloud_notm}} Sales](https://www.ibm.com/solutions/cloud?contactmodule){: external} representative.
 
