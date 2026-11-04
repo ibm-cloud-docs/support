@@ -24,7 +24,7 @@ If you can't log in to your account, start a chat by going to the [{{site.data.k
 As a classic infrastructure user, you might be familiar with support tickets. Tickets are now called cases in {{site.data.keyword.cloud_notm}}.
 {: note}
 
-Three different types of support plans are offered. For more information, see [Support plans](/docs/support?topic=support-support-plans). If you have a Basic or Advanced support plan, you can request to upgrade your support plan at any time by creating a case in the [Support Center](/unifiedsupport/supportcenter). Alternatively, you can contact an [{{site.data.keyword.cloud_notm}} Sales](https://www.ibm.com/solutions/cloud?contactmodule){: external} representative to upgrade your plan.
+Three different types of support plans are offered. For more information, see [Comparing IBM Cloud support plans: Basic, Advanced, and Premium plan options](/docs/support?topic=support-support-plans). If you have a Basic or Advanced support plan, you can request to upgrade your support plan at any time by creating a case in the [Support Center](/unifiedsupport/supportcenter). Alternatively, you can contact an [{{site.data.keyword.cloud_notm}} Sales](https://www.ibm.com/solutions/cloud?contactmodule){: external} representative to upgrade your plan.
 
 {{site.data.keyword.IBM_notm}} periodically sends surveys to {{site.data.keyword.cloud_notm}} customers to get feedback on recent experiences with customer support. The survey focuses on the support quality and the overall experience. {{site.data.keyword.IBM_notm}} management reviews the survey results to improve the support experience.
 {: note}

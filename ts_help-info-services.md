@@ -3,7 +3,7 @@
 copyright:
 
   years: 2019, 2026
-lastupdated: "2026-05-19"
+lastupdated: "2026-11-04"
 
 keywords: IBM Cloud support center, service-specific help, FAQs, support center help, resolve issues on the support center, trouble support center, personalized help
 
@@ -15,11 +15,11 @@ content-type: troubleshoot
 
 {{site.data.keyword.attribute-definition-list}}
 
-# Troubleshooting help in the IBM Cloud Support Center for your services
+# Troubleshooting service help in the IBM Cloud Support Center
 {: #supportcenter-service}
 {: troubleshoot}
 
-Can't find service-specific help in the support center? Learn why and how to access FAQs for your IBM Cloud services.
+Find out why service-specific help might not appear in the IBM Cloud Support Center and learn how to access FAQs for your services.
 {: shortdesc}
 
 The Support Center doesn't include the My products topics, common tasks, or FAQs that are specific to the services that you're working with.
