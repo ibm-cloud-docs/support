@@ -3,7 +3,7 @@
 copyright:
 
   years: 2019, 2026
-lastupdated: "2026-11-04"
+lastupdated: "2026-11-05"
 
 keywords: IBM Cloud support, frequently asked question, faq, support cases, email preferences, access for cases, support faq, contact support, Paver, IBM Paver
 
@@ -47,7 +47,7 @@ Before you open a support case, explore the following resources:
 {: #paver-resolve-issue}
 {: faq}
 
-[{{site.data.keyword.paver_full_notm}}](https://paver.cloud.ibm.com/){: external} is a built-in AI operator that helps you troubleshoot and resolve issues in {{site.data.keyword.cloud_notm}} through natural language. {{site.data.keyword.paver_full_notm}} can diagnose problems, resolve incidents, and answer questions about your account and resources. Rather than generating code for you to run elsewhere, {{site.data.keyword.paver_full_notm}} acts on your behalf: it reads your account context, explains its plan, and applies changes to your live environment only with your approval. {{site.data.keyword.paver_full_notm}} operates within your existing permissions and security policies and can't exceed your authorized access. If you have an Advanced or Premium support plan, you can also ask {{site.data.keyword.paver_full_notm}} to connect you with a live support agent by using natural language. If {{site.data.keyword.paver_full_notm}} can't resolve your issue, you can [create a support case](/docs/support?topic=support-open-case).
+[{{site.data.keyword.paver_full_notm}}](https://paver.cloud.ibm.com/){: external} is a built-in AI operator that helps you troubleshoot and resolve issues in {{site.data.keyword.cloud_notm}} through natural language. {{site.data.keyword.paver}} can diagnose problems, resolve incidents, and answer questions about your account and resources. Rather than generating code for you to run elsewhere, {{site.data.keyword.paver}} acts on your behalf: it reads your account context, explains its plan, and applies changes to your live environment only with your approval. {{site.data.keyword.paver}} operates within your existing permissions and security policies and can't exceed your authorized access. If you have an Advanced or Premium support plan, you can also ask {{site.data.keyword.paver}} to connect you with a live support agent by using natural language. If {{site.data.keyword.paver}} can't resolve your issue, you can [create a support case](/docs/support?topic=support-open-case).
 
 ## How do I open a support case?
 {: #open-support-case}
