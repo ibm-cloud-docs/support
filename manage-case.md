@@ -3,7 +3,7 @@
 copyright:
 
   years: 2019, 2026
-lastupdated: "2026-11-03"
+lastupdated: "2026-11-26"
 
 keywords: managing support cases, IBM Cloud support, case management, update support ticket, view case status, resolve support case, case severity, close support ticket, reopen case, Paver, IBM Paver
 
@@ -13,10 +13,10 @@ subcollection: support
 
 {{site.data.keyword.attribute-definition-list}}
 
-# Managing your IBM Cloud support cases effectively
+# Managing your {{site.data.keyword.cloud_notm}} support cases effectively
 {: #managing-support-cases}
 
-Learn how to manage your IBM Cloud support cases, including tracking progress, updating cases, and managing watchlists for effective issue resolution.
+Learn how to manage your {{site.data.keyword.cloud}} support cases, including tracking progress, updating cases, and managing watchlists for effective issue resolution.
 {: shortdesc}
 
 To view and manage your support cases, go to the [Manage cases page](/unifiedsupport/cases). If you're a classic infrastructure user, and you don't see a listing of a previous case, click **View classic infrastructure cases**.
@@ -310,7 +310,7 @@ To update your support case, complete the following steps:
 
 Adding details about the specific resources related to a support case allows for a more efficient triage, investigation, and resolution. To view and copy a cloud resource name (CRN) to add to a support case, follow these steps:
 
-1. From the {{site.data.keyword.cloud}} console, click the Navigation Menu icon ![Navigation Menu icon](../icons/icon_hamburger.svg "Menu") > **Resource list** to view your list of resources.
+1. From the {{site.data.keyword.cloud_notm}} console, click the Navigation Menu icon ![Navigation Menu icon](../icons/icon_hamburger.svg "Menu") > **Resource list** to view your list of resources.
 1. Expand the sections to locate the service instance for which you want to retrieve the CRN.
 1. Click the table row. This action opens the resources table side panel, where you can view the CRN.
 1. Select **Copy to clipboard** next to the CRN value.

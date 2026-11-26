@@ -3,7 +3,7 @@
 copyright:
 
   years: 2021, 2026
-lastupdated: "2026-10-07"
+lastupdated: "2026-11-26"
 
 keywords: IBM Cloud notifications, notification preferences, user notifications, distribution list, notification distribution list, webhooks, Slack webhooks, Microsoft Teams webhooks, ServiceNow webhooks, SNOW, email notifications
 
@@ -13,10 +13,10 @@ subcollection: support
 
 {{site.data.keyword.attribute-definition-list}}
 
-# Managing notifications with IBM Cloud distribution lists
+# Managing notifications with {{site.data.keyword.cloud_notm}} distribution lists
 {: #add-users-distribution-list}
 
-Learn how to set up and manage notification distribution lists in IBM Cloud to receive account-wide event notifications by using email or webhooks.
+Learn how to set up and manage notification distribution lists in {{site.data.keyword.cloud}} to receive account-wide event notifications by using email or webhooks.
 {: shortdesc}
 
 You can manage the notification distribution list by using the {{site.data.keyword.cloud_notm}} console. You can create a list of up to 10 email addresses can receive notifications. Emails that are added to the distribution list are notified about any event that is affecting the account. You must have the editor role or higher on the account management service to add email addresses to the distribution list. For more information, see [Assigning access to account management services](/docs/iam?topic=iam-account-services).
@@ -187,7 +187,7 @@ You can delete any {{site.data.keyword.en_short}} instance that you added to the
 
 To add webhooks to a distribution list, complete the following steps:
 
-1. Go to **Manage** > **Account** > **Notification distribution list** in the {{site.data.keyword.cloud}} console.
+1. Go to **Manage** > **Account** > **Notification distribution list** in the {{site.data.keyword.cloud_notm}} console.
 1. Click **Add**, and select **Add webhook**.
 1. Enter a name identifier for your webhook and an endpoint URL, where the notifications about events are being sent when the webhook is triggered. Set up the URL that will be your own custom endpoint.
 

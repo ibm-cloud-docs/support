@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2026
-lastupdated: "2026-09-25"
+lastupdated: "2026-11-26"
 
 keywords: IBM Cloud status, view cloud status, planned maintenance, RSS feed, unified notifications, iaas notifications, classic infrastructure notifications, incident reports, MZR, private MZR, security bulletins
 
@@ -13,10 +13,10 @@ subcollection: support
 
 {{site.data.keyword.attribute-definition-list}}
 
-# Checking IBM Cloud status and notifications
+# Checking {{site.data.keyword.cloud_notm}} status and notifications
 {: #viewing-status}
 
-Learn how to view IBM Cloud status, including major incidents, planned maintenance, and security bulletins, and manage your notification preferences in the IBM Cloud console.
+Learn how to view {{site.data.keyword.cloud}} status, including major incidents, planned maintenance, and security bulletins, and manage your notification preferences in the {{site.data.keyword.cloud_notm}} console.
 {: shortdesc}
 
 To get notified about key events that are specifically affecting your account, go to the [Notifications page](/notifications){: external}. You can easily update your preferences by clicking **Manage email preferences**.

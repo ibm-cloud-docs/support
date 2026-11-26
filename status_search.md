@@ -3,7 +3,7 @@
 copyright:
   years: 2018, 2026
 
-lastupdated: "2026-10-07"
+lastupdated: "2026-11-26"
 
 keywords: IBM Cloud status page, status query, incident, maintenance, search query, query parameters, advanced search
 
@@ -16,7 +16,7 @@ subcollection: support
 # Advanced status page search with query parameters
 {: #advance-search}
 
-Discover how to use query parameters to search across all tabs on the IBM Cloud status page and filter results by region, component, or notification ID.
+Discover how to use query parameters to search across all tabs on the {{site.data.keyword.cloud}} status page and filter results by region, component, or notification ID.
 {: shortdesc}
 
 The following list includes examples of URL search options:

@@ -3,7 +3,7 @@
 copyright:
 
   years: 2019, 2026
-lastupdated: "2026-11-05"
+lastupdated: "2026-11-26"
 
 keywords: IBM Cloud support, frequently asked question, faq, support cases, email preferences, access for cases, support faq, contact support, Paver, IBM Paver
 
@@ -15,17 +15,17 @@ content-type: faq
 
 {{site.data.keyword.attribute-definition-list}}
 
-# FAQs for IBM Cloud support
+# FAQs for {{site.data.keyword.cloud_notm}} support
 {: #get-supportfaq}
 
-Get answers to common questions about IBM Cloud support, including planned maintenance, opening and managing support cases, and contacting IBM Cloud support.
+Get answers to common questions about {{site.data.keyword.cloud}} support, including planned maintenance, opening and managing support cases, and contacting {{site.data.keyword.cloud_notm}} support.
 {: shortdesc}
 
 ## How do I check for planned maintenance?
 {: #planned_maintenance_gs}
 {: faq}
 
-You can check for upcoming maintenance from your dashboard in the {{site.data.keyword.cloud}} console at least one time every 24 hours. Use one of the following options:
+You can check for upcoming maintenance from your dashboard in the {{site.data.keyword.cloud_notm}} console at least one time every 24 hours. Use one of the following options:
 
 * Check out the Planned maintenance widget on the [Dashboard](/){: external}, and click **View all**.
 * Go directly to the [Status - Planned maintenance page](/status?selected=maintenance){: external}.
@@ -60,7 +60,7 @@ If you have paid support plans, for example Advanced or Premium plans, go to the
 {: #contactsupport-faq}
 {: faq}
 
-From the {{site.data.keyword.cloud_notm}} console menu bar, click the **Help** icon ![Help icon](../icons/help.svg "Help") > **Support center**. The **Contact Support** section provides the following options: use {{site.data.keyword.paver_full_notm}} to troubleshoot issues, resolve incidents, and ask questions, contact by phone, or create a support case. If you have an Advanced or Premium support plan, you can also start a chat with a live agent from [{{site.data.keyword.paver_full_notm}}](https://paver.cloud.ibm.com/){: external} by using natural language, for example: "I want to chat with a support agent." The options that are available to you depend on your support plan. For more information, see [Comparing IBM Cloud support plans: Basic, Advanced, and Premium plan options](/docs/support?topic=support-support-plans).
+From the {{site.data.keyword.cloud_notm}} console menu bar, click the **Help** icon ![Help icon](../icons/help.svg "Help") > **Support center**. The **Contact Support** section provides the following options: use {{site.data.keyword.paver_full_notm}} to troubleshoot issues, resolve incidents, and ask questions, contact by phone, or create a support case. If you have an Advanced or Premium support plan, you can also start a chat with a live agent from [{{site.data.keyword.paver_full_notm}}](https://paver.cloud.ibm.com/){: external} by using natural language, for example: "I want to chat with a support agent." The options that are available to you depend on your support plan. For more information, see [Comparing {{site.data.keyword.cloud_notm}} support plans: Basic, Advanced, and Premium plan options](/docs/support?topic=support-support-plans).
 
 Nonpaid account support is limited to nontechnical support issues that are related to account access and billing. Users with these nonpaid support accounts can self-report hardware issues, submit account or billing requests (including quota increases) through the portal, respond to {{site.data.keyword.IBM_notm}}-initiated support cases, and access the following self-service tools: {{site.data.keyword.paver_full_notm}}, {{site.data.keyword.cloud_notm}} docs, Community forums, and status pages. Users can also use [Stack Overflow](https://stackoverflow.com/questions/tagged/ibm-cloud){: external}. If your organization needs more advanced technical support, faster response times, or severity-level control, you can upgrade to a paid support plan by creating a case in the [Support Center](/unifiedsupport/supportcenter). You can also contact your {{site.data.keyword.IBM_notm}} Sales representative for assistance.
 
@@ -74,7 +74,7 @@ Customers with a Basic support plan can report a technical issue when help is ne
 {: #escalate_support}
 {: faq}
 
-As an {{site.data.keyword.cloud_notm}} customer with a paid support plan, you can escalate support cases to surface critical issues. To escalate a case, go to the [Support Center](/unifiedsupport/supportcenter){: external} and contact IBM Cloud Support by phone or chat. Provide your existing case number, the business impact of your issue, and a request to escalate the case.
+As an {{site.data.keyword.cloud_notm}} customer with a paid support plan, you can escalate support cases to surface critical issues. To escalate a case, go to the [Support Center](/unifiedsupport/supportcenter){: external} and contact {{site.data.keyword.cloud_notm}} Support by phone or chat. Provide your existing case number, the business impact of your issue, and a request to escalate the case.
 
 For more information, see [Escalating support cases](/docs/support?topic=support-managing-support-cases#escalation).
 
@@ -103,7 +103,7 @@ To view your support costs, you need an access policy with the Administrator rol
 {: faq}
 {: support}
 
-If you have a Basic or Advanced support plan, you can request to upgrade your plan by creating a case in the support center through [Request an upgrade](/unifiedsupport/cases/form#) link. Alternatively, you can contact an [{{site.data.keyword.cloud_notm}} Sales](https://www.ibm.com/solutions/cloud?contactmodule){: external} representative. For more information about the different support plans, see [Comparing IBM Cloud support plans: Basic, Advanced, and Premium plan options](/docs/support?topic=support-support-plans).
+If you have a Basic or Advanced support plan, you can request to upgrade your plan by creating a case in the support center through [Request an upgrade](/unifiedsupport/cases/form#) link. Alternatively, you can contact an [{{site.data.keyword.cloud_notm}} Sales](https://www.ibm.com/solutions/cloud?contactmodule){: external} representative. For more information about the different support plans, see [Comparing {{site.data.keyword.cloud_notm}} support plans: Basic, Advanced, and Premium plan options](/docs/support?topic=support-support-plans).
 
 ## Why can't I see my support cases? 
 {: #view-support-cases}

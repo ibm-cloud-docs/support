@@ -3,7 +3,7 @@
 copyright:
 
   years: 2019, 2026
-lastupdated: "2026-05-19"
+lastupdated: "2026-11-26"
 
 keywords: IBM Cloud migration, archived cases, SoftLayer migration, support center help, resolve issues on the support center, trouble support center, personalized help
 
@@ -15,11 +15,11 @@ content-type: troubleshoot
 
 {{site.data.keyword.attribute-definition-list}}
 
-# Troubleshooting missing cases after SoftLayer to IBM Cloud migration
+# Troubleshooting missing cases after SoftLayer to {{site.data.keyword.cloud_notm}} migration
 {: #ts_viewarchivedcase}
 {: troubleshoot}
 
-Can't find cases created before SoftLayer migration to IBM Cloud? Learn how to view archived cases and access support.
+Can't find cases created before SoftLayer migration to {{site.data.keyword.cloud}}? Learn how to view archived cases and access support.
 {: shortdesc}
 
 You can't find any cases that you created before 2 December 2018 on the Managed cases page.

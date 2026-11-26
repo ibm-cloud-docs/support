@@ -3,7 +3,7 @@
 copyright:
 
   years: 2019, 2026
-lastupdated: "2026-11-04"
+lastupdated: "2026-11-26"
 
 keywords: IBM Cloud support case, create support case, open support ticket, technical support, customer support, support ticket, access issues, billing support, Paver, IBM Paver
 
@@ -13,10 +13,10 @@ subcollection: support
 
 {{site.data.keyword.attribute-definition-list}}
 
-# Creating support cases in IBM Cloud
+# Creating support cases in {{site.data.keyword.cloud_notm}}
 {: #open-case}
 
-Learn how to create support cases for IBM Cloud issues related to access, billing, account, and technical support with an advanced or premium plan.
+Learn how to create support cases for {{site.data.keyword.cloud}} issues related to access, billing, account, and technical support with an advanced or premium plan.
 {: shortdesc}
 
 If your account is deactivated or if you don't have access to your account, you can create a support case by completing the [Create an Account, Login or Billing Request](https://watson.service-now.com/x_ibmwc_open_case_app.do#!/create) form.
@@ -95,7 +95,7 @@ To request an upgrade to your support plan, complete the following steps:
 1. Optionally, attach files with additional information, add users to the watchlist to keep them informed, or select **Email me updates about this case** to receive notifications.
 1. Click **Next**, review your case summary, and click **Submit case**.
 
-After you submit your upgrade request case, the {{site.data.keyword.cloud_notm}} support team upgrades the support plan for you and let you know when the process is complete. The upgrade typically takes a few days to a week to complete. For more information about the different support plans and their features, see [Comparing IBM Cloud support plans: Basic, Advanced, and Premium plan options](/docs/support?topic=support-support-plans).
+After you submit your upgrade request case, the {{site.data.keyword.cloud_notm}} support team upgrades the support plan for you and let you know when the process is complete. The upgrade typically takes a few days to a week to complete. For more information about the different support plans and their features, see [Comparing {{site.data.keyword.cloud_notm}} support plans: Basic, Advanced, and Premium plan options](/docs/support?topic=support-support-plans).
 
 Alternatively, you can upgrade your support plan by contacting an [{{site.data.keyword.cloud_notm}} Sales](https://www.ibm.com/solutions/cloud?contactmodule){: external} representative.
 

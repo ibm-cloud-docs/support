@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2026
-lastupdated: "2026-11-04"
+lastupdated: "2026-11-26"
 
 keywords: IBM Cloud spending notification, spending alert, cost threshold, spending threshold, service notifications, preset notifications, notification, email notifications
 
@@ -13,23 +13,23 @@ subcollection: support
 
 {{site.data.keyword.attribute-definition-list}}
 
-# Configuring spending notifications in IBM Cloud
+# Configuring spending notifications in {{site.data.keyword.cloud_notm}}
 {: #spending}
 {: help}
 {: support}
 
-Learn how to set up email spending notifications for your IBM Cloud Pay-As-You-Go or Subscription account, including total account and specific service spending.
+Learn how to set up email spending notifications for your {{site.data.keyword.cloud}} Pay-As-You-Go or Subscription account, including total account and specific service spending.
 {: shortdesc}
 
 You receive notifications when you reach 80%, 90%, and 100% of the spending thresholds that you specify. As your needs change, you can edit the spending threshold. If you're interested, you can use our latest enhancement to select up to 10 users from your account to receive notifications about the service.
 
-Lite accounts can't enable spending notifications because they can use only no-cost Lite services, so you never have any spending. After you upgrade to a Pay-As-You-Go or Subscription account, you can set spending thresholds. For more information, see [IBM Cloud account types and plan comparisons](/docs/account?topic=account-accounts-types).
+Lite accounts can't enable spending notifications because they can use only no-cost Lite services, so you never have any spending. After you upgrade to a Pay-As-You-Go or Subscription account, you can set spending thresholds. For more information, see [{{site.data.keyword.cloud_notm}} account types and plan comparisons](/docs/account?topic=account-accounts-types).
 {: note}
 
-## Setting notifications in the {{site.data.keyword.cloud}} console
+## Setting notifications in the {{site.data.keyword.cloud_notm}} console
 {: #notification-console}
 
-To set up your notifications in the {{site.data.keyword.cloud}} console:
+To set up your notifications in the {{site.data.keyword.cloud_notm}} console:
 
 1. Go to **Manage** > **Billing and usage**, and select **Spending notifications**.
 2. Set the **Enable** option to on for the specific service area to enable email notifications.
@@ -41,7 +41,7 @@ To set up your notifications in the {{site.data.keyword.cloud}} console:
 ## Setting notifications for the individual services
 {: #notifications-services}
 
-You can also set spending notifications for individual services in the {{site.data.keyword.cloud}} console:
+You can also set spending notifications for individual services in the {{site.data.keyword.cloud_notm}} console:
 
 1. Go to **Manage > Billing and usage**, and select **Spending notifications**.
 2. Click **Create** from the **Add a service** section.

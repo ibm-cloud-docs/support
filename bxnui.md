@@ -3,7 +3,7 @@
 copyright:
 
   years: 2019, 2026
-lastupdated: "2026-05-19"
+lastupdated: "2026-11-26"
 
 keywords: IBM Cloud error messages, errors, platform errors, message ID, troubleshooting, error resolution
 
@@ -13,10 +13,10 @@ subcollection: support
 
 {{site.data.keyword.attribute-definition-list}}
 
-# Resolving IBM Cloud error messages and troubleshooting issues
+# Resolving {{site.data.keyword.cloud_notm}} error messages and troubleshooting issues
 {: #bxn-error-messages}
 
-Learn how to resolve IBM Cloud error messages by using the message ID to find more information about the problem and its solution.
+Learn how to resolve {{site.data.keyword.cloud}} error messages by using the message ID to find more information about the problem and its solution.
 {: shortdesc}
 
 ## BXNUI0001E
@@ -84,7 +84,7 @@ The following browsers are supported. Ensure that you use the latest version for
 * Internet Explorer
 * Safari
 
-Ssee [What are the IBM Cloud prerequisites?](/docs/overview?topic=overview-prereqs-platform) for more information.
+Ssee [What are the {{site.data.keyword.cloud_notm}} prerequisites?](/docs/overview?topic=overview-prereqs-platform) for more information.
 
 ## BXNUI0066E
 {: #bxnui0066e}
@@ -416,7 +416,7 @@ Try again later. If you see this message again, go to the [{{site.data.keyword.c
 **Message**: You will be logged out because you are not a member of an active account.
 
 Your {{site.data.keyword.cloud_notm}} account might be expired or canceled, or you might have been removed from your org.
-Contact your org manager. Make sure you select the correct account within the IBM Cloud Console. [Switch between multiple accounts](/docs/account?topic=account-accountfaqs&locale=dk#switch-between-accounts) if needed. If the problem continues, go to [{{site.data.keyword.cloud_notm}} Support](/unifiedsupport/supportcenter){: external}.
+Contact your org manager. Make sure you select the correct account within the {{site.data.keyword.cloud_notm}} console. [Switch between multiple accounts](/docs/account?topic=account-accountfaqs&locale=dk#switch-between-accounts) if needed. If the problem continues, go to [{{site.data.keyword.cloud_notm}} Support](/unifiedsupport/supportcenter){: external}.
 
 
 ## BXNUI0126E

@@ -3,7 +3,7 @@
 copyright:
 
   years: 2019, 2026
-lastupdated: "2026-05-19"
+lastupdated: "2026-11-26"
 
 keywords: IBM Cloud support, technical support case, create support case, support center help, resolve issues on the support center, trouble support center, personalized help
 
@@ -15,11 +15,11 @@ content-type: troubleshoot
 
 {{site.data.keyword.attribute-definition-list}}
 
-# Troubleshooting technical support case creation in IBM Cloud
+# Troubleshooting technical support case creation in {{site.data.keyword.cloud_notm}}
 {: #ts_tech-support-case}
 {: troubleshoot}
 
-Learn how to resolve issues creating technical support cases in IBM Cloud, including account type requirements and upgrading your support plan.
+Learn how to resolve issues creating technical support cases in {{site.data.keyword.cloud}}, including account type requirements and upgrading your support plan.
 {: shortdesc}
 
 You can create cases that are related to access management, accounts, and billing and usage only.
