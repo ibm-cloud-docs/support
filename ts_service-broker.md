@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2026
-lastupdated: "2026-10-07"
+lastupdated: "2026-11-26"
 
 keywords: IBM Cloud support case, create support case, edit support case, IAM policies, support center, help support center, resolve issues support center, help getting support
 
@@ -15,11 +15,11 @@ content-type: troubleshoot
 
 {{site.data.keyword.attribute-definition-list}}
 
-# Troubleshooting IBM Cloud support case creation and editing issues
+# Troubleshooting {{site.data.keyword.cloud_notm}} support case creation and editing issues
 {: #ts-edit-case}
 {: troubleshoot}
 
-Resolve issues with creating or editing IBM Cloud support cases due to access restrictions and learn how to assign necessary IAM policies.
+Resolve issues with creating or editing {{site.data.keyword.cloud}} support cases due to access restrictions and learn how to assign necessary IAM policies.
 {: shortdesc}
 
 When you try to create a case, the following error message is displayed:

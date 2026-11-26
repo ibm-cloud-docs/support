@@ -3,7 +3,7 @@
 copyright:
 
   years: 2021, 2026
-lastupdated: "2026-10-07"
+lastupdated: "2026-11-26"
 
 keywords: IBM Cloud notifications, notification preferences, user notifications, distribution list, notification distribution list, webhooks, Slack webhooks, Microsoft Teams webhooks, ServiceNow webhooks, SNOW, email notifications
 
@@ -13,10 +13,10 @@ subcollection: support
 
 {{site.data.keyword.attribute-definition-list}}
 
-# Managing notifications with IBM Cloud distribution lists
+# Managing notifications with {{site.data.keyword.cloud_notm}} distribution lists
 {: #add-users-distribution-list}
 
-Learn how to set up and manage notification distribution lists in IBM Cloud to receive account-wide event notifications by using email or webhooks.
+Learn how to set up and manage notification distribution lists in {{site.data.keyword.cloud}} to receive account-wide event notifications by using email or webhooks.
 {: shortdesc}
 
 You can manage the notification distribution list by using the {{site.data.keyword.cloud_notm}} console. You can create a list of up to 10 email addresses can receive notifications. Emails that are added to the distribution list are notified about any event that is affecting the account. You must have the editor role or higher on the account management service to add email addresses to the distribution list. For more information, see [Assigning access to account management services](/docs/iam?topic=iam-account-services).

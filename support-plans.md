@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2026
-lastupdated: "2026-11-04"
+lastupdated: "2026-11-26"
 
 keywords: IBM Cloud support plans, basic support, advanced support, premium support, cloud support, IBM Cloud sales, technical support, response time
 
@@ -13,10 +13,10 @@ subcollection: support
 
 {{site.data.keyword.attribute-definition-list}}
 
-# Comparing IBM Cloud support plans: Basic, Advanced, and Premium plan options
+# Comparing {{site.data.keyword.cloud_notm}} support plans: Basic, Advanced, and Premium plan options
 {: #support-plans}
 
-Discover IBM Cloud's support plans, including Basic, Advanced, and Premium options, designed to meet your business needs with varying levels of technical support and response times.
+Discover {{site.data.keyword.cloud}}'s support plans, including Basic, Advanced, and Premium options, designed to meet your business needs with varying levels of technical support and response times.
 {: shortdesc}
 
 Initial response Service Level Objectives (SLO) do not apply to billing, invoice, sales, or account-related cases.
@@ -25,7 +25,7 @@ Initial response Service Level Objectives (SLO) do not apply to billing, invoice
 ## Support plan comparison
 {: #support-plan-comparison}
 
-The following table compares the support plans available for Pay-As-You-Go accounts, Subscription accounts, and the Enterprise Savings Plan billing model. For more information, see [IBM Cloud account types and plan comparisons](/docs/account?topic=account-accounts-types).
+The following table compares the support plans available for Pay-As-You-Go accounts, Subscription accounts, and the Enterprise Savings Plan billing model. For more information, see [{{site.data.keyword.cloud_notm}} account types and plan comparisons](/docs/account?topic=account-accounts-types).
 
 |             | Basic         | Advanced         | Premium         |
 |-------------|---------------|------------------|-----------------|
@@ -143,7 +143,7 @@ Support engineers are organized by technology domains, including:
 * Storage
 * VPC
 * Kubernetes service
-* Red Hat OpenShift on IBM Cloud
+* Red Hat OpenShift on {{site.data.keyword.cloud_notm}}
 * Satellite
 * Databases
 * App development

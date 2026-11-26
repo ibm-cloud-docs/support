@@ -2,7 +2,7 @@
 
 copyright:
   years: 2015, 2026
-lastupdated: "2026-07-10"
+lastupdated: "2026-11-26"
 
 keywords: IBM Cloud status, upcoming maintenance, stay up-to-date, monitor status, best practices, status monitoring
 
@@ -12,10 +12,10 @@ subcollection: support
 
 {{site.data.keyword.attribute-definition-list}}
 
-# Best practices for monitoring IBM Cloud status and maintenance
+# Best practices for monitoring {{site.data.keyword.cloud_notm}} status and maintenance
 {: #best-practices}
 
-Learn how to stay informed about IBM Cloud status and maintenance by using best practices for monitoring and planning.
+Learn how to stay informed about {{site.data.keyword.cloud}} status and maintenance by using best practices for monitoring and planning.
 {: shortdesc}
 
 ## Check for upcoming maintenance windows

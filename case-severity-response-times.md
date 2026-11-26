@@ -3,7 +3,7 @@
 copyright:
 
   years: 2019, 2026
-lastupdated: "2026-10-07"
+lastupdated: "2026-11-26"
 
 keywords: IBM Cloud support, case severity, severity levels, support case severity, response time, SLA, support plans
 
@@ -13,10 +13,10 @@ subcollection: support
 
 {{site.data.keyword.attribute-definition-list}}
 
-# Understanding case severity and initial response times for IBM Cloud support
+# Understanding case severity and initial response times for {{site.data.keyword.cloud_notm}} support
 {: #support-case-severity}
 
-Learn how case severity affects initial response times for IBM Cloud support requests and understand the severity levels and response time objectives for different support plans.
+Learn how case severity affects initial response times for {{site.data.keyword.cloud}} support requests and understand the severity levels and response time objectives for different support plans.
 {: shortdesc}
 
 The following table lists some common examples of support issues, suggested severity levels, and the initial response time objectives. The initial response time objectives are used to describe IBM goals only, and don't represent a performance guarantee.

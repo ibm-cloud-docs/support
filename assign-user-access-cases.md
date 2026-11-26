@@ -3,7 +3,7 @@
 copyright:
 
   years: 2021, 2026
-lastupdated: "2026-10-07"
+lastupdated: "2026-11-26"
 
 keywords: IBM Cloud support cases, access to cases, get access for cases, assign cases, assign access, access support center, IAM policies
 
@@ -13,10 +13,10 @@ subcollection: support
 
 {{site.data.keyword.attribute-definition-list}}
 
-# Managing access to IBM Cloud support cases
+# Managing access to {{site.data.keyword.cloud_notm}} support cases
 {: #access-cases}
 
-Learn how to manage access to support cases in IBM Cloud by assigning Identity and Access Management (IAM) policies to users and access groups.
+Learn how to manage access to support cases in {{site.data.keyword.cloud}} by assigning Identity and Access Management (IAM) policies to users and access groups.
 {: shortdesc}
 
 

@@ -4,7 +4,7 @@ copyright:
 
   years: 2020, 2026
 
-lastupdated: "2026-10-07"
+lastupdated: "2026-11-26"
 
 keywords: IBM Cloud case, view cases, account access, support center help, resolve issues on the support center, trouble support center, personalized help
 
@@ -16,11 +16,11 @@ content-type: troubleshoot
 
 {{site.data.keyword.attribute-definition-list}}
 
-# Troubleshooting case visibility in IBM Cloud account
+# Troubleshooting case visibility in an {{site.data.keyword.cloud_notm}} account
 {: #ts_viewcasedetails}
 {: troubleshoot}
 
-Learn why you can't view all cases in your IBM Cloud account and how to resolve the issue by adjusting user visibility and IAM policies.
+Learn why you can't view all cases in your {{site.data.keyword.cloud}} account and how to resolve the issue by adjusting user visibility and IAM policies.
 {: shortdesc}
 
 When you try to view the support cases that are associated with the account, you can't see all open cases. You can view only users that you invited to the account and users who are in your classic infrastructure user hierarchy.

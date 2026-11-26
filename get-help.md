@@ -2,7 +2,7 @@
 
 copyright:
   years: 2026, 2026
-lastupdated: "2026-11-04"
+lastupdated: "2026-11-26"
 
 keywords: IBM Cloud support, get help, technical support, customer support, support resources, troubleshooting, FAQs, support case, Paver, IBM Paver
 
@@ -14,10 +14,10 @@ subcollection: support
 
 
 
-# Getting help and support for issues in IBM Cloud
+# Getting help and support for issues in {{site.data.keyword.cloud_notm}}
 {: #help-and-support}
 
-Find solutions to IBM Cloud issues with troubleshooting resources, FAQs, and AI assistance, or open a case with IBM Cloud support to get help.
+Find solutions to {{site.data.keyword.cloud}} issues with troubleshooting resources, FAQs, and AI assistance, or open a case with {{site.data.keyword.cloud_notm}} support to get help.
 {: shortdesc}
 
 * Troubleshoot with [{{site.data.keyword.paver_full}}](https://paver.cloud.ibm.com/){: external}. {{site.data.keyword.paver}} is a built-in AI operator that understands your account context, creates a resolution plan, and executes changes on your behalf, while always requiring your approval before touching your live environment. If you have an Advanced or Premium support plan, you can also ask {{site.data.keyword.paver}} to connect you with a live support agent by using natural language.

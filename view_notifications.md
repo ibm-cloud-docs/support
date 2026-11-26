@@ -3,7 +3,7 @@
 copyright:
 
   years: 2019, 2026
-lastupdated: "2026-10-07"
+lastupdated: "2026-11-26"
 
 keywords: IBM Cloud notifications, view notifications, set notifications, iaas notifications, notification icon, header bell, bell icon, email notification history, communication history, console notifications
 
@@ -13,10 +13,10 @@ subcollection: support
 
 {{site.data.keyword.attribute-definition-list}}
 
-# Accessing IBM Cloud notifications in the console
+# Accessing {{site.data.keyword.cloud_notm}} notifications in the console
 {: #viewing-notifications}
 
-Learn how to view essential account information and stay updated with the latest announcements and maintenance plans by clicking the **Notifications** icon ![Notification icon "Notifications"](../icons/Notification.svg) in the console menu bar to view the Notifications page.
+Learn how to view essential {{site.data.keyword.cloud}} account information and stay updated with the latest announcements and maintenance plans by clicking the **Notifications** icon ![Notification icon "Notifications"](../icons/Notification.svg) in the console menu bar to view the Notifications page.
 {: shortdesc}
 
 Notifications are scoped to the specific account in which you are working. Use the list of accounts that's displayed in the console menu bar to view notifications related to other accounts you have access to.
@@ -105,7 +105,7 @@ For IaaS offerings, {{site.data.keyword.cloud_notm}} provides advanced notice th
 ### PaaS
 {: #paas-offering}
 
-For PaaS offerings, IBM Cloud provides advanced notice that's dependent on the severity of the impact. The following table defines the types and levels of the possibility of an impact.
+For PaaS offerings, {{site.data.keyword.cloud_notm}} provides advanced notice that's dependent on the severity of the impact. The following table defines the types and levels of the possibility of an impact.
 
 | Possibility of impact | Definition | Advanced Notice Guidelines |
 |-----------------------|------------|----------------------------|
@@ -117,7 +117,7 @@ For PaaS offerings, IBM Cloud provides advanced notice that's dependent on the s
 ### SaaS
 {: #saas-offering}
 
-For SaaS offerings, IBM Cloud provides advanced notice that's dependent on the severity of the impact. The following table defines the types and levels of the possibility of an impact.
+For SaaS offerings, {{site.data.keyword.cloud_notm}} provides advanced notice that's dependent on the severity of the impact. The following table defines the types and levels of the possibility of an impact.
 
 | Possibility of impact | Definition | Advanced Notice Guidelines |
 |-----------------------|------------|----------------------------|
