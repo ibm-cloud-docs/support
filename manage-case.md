@@ -310,7 +310,7 @@ To update your support case, complete the following steps:
 
 Adding details about the specific resources related to a support case allows for a more efficient triage, investigation, and resolution. To view and copy a cloud resource name (CRN) to add to a support case, follow these steps:
 
-1. From the {{site.data.keyword.cloud}} console, click the Navigation Menu icon ![Navigation Menu icon](../icons/icon_hamburger.svg "Menu") > **Resource list** to view your list of resources.
+1. From the {{site.data.keyword.cloud_notm}} console, click the Navigation Menu icon ![Navigation Menu icon](../icons/icon_hamburger.svg "Menu") > **Resource list** to view your list of resources.
 1. Expand the sections to locate the service instance for which you want to retrieve the CRN.
 1. Click the table row. This action opens the resources table side panel, where you can view the CRN.
 1. Select **Copy to clipboard** next to the CRN value.

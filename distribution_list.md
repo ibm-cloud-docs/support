@@ -187,7 +187,7 @@ You can delete any {{site.data.keyword.en_short}} instance that you added to the
 
 To add webhooks to a distribution list, complete the following steps:
 
-1. Go to **Manage** > **Account** > **Notification distribution list** in the {{site.data.keyword.cloud}} console.
+1. Go to **Manage** > **Account** > **Notification distribution list** in the {{site.data.keyword.cloud_notm}} console.
 1. Click **Add**, and select **Add webhook**.
 1. Enter a name identifier for your webhook and an endpoint URL, where the notifications about events are being sent when the webhook is triggered. Set up the URL that will be your own custom endpoint.
 
